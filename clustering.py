@@ -14,11 +14,9 @@ def cluster_points(points, number_of_clusters):
     model = KMeans(n_clusters=number_of_clusters)
     distMat = model.fit_transform(points)
     resultList = [[] for i in range(number_of_clusters)]
-    for i in range(len(distMat)):
-    	rowList = [distMat[i][j] for j in range(len(distMat[i]))]
-    	minDist = min(rowList)
-    	minIndex = rowList.index(minDist)
-    	resultList[minIndex].append(points[i])
+    for i, rowList in enumerate(distMat):
+        minIndex = min(enumerate(rowList), key = lambda x: x[1])[0]
+        resultList[minIndex].append(points[i])
     return resultList
 
 ### Test code below ###
