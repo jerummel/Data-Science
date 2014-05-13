@@ -1,8 +1,9 @@
-# Use a word occurence count vectorizer and run it though a Bernoulli  Naive Bayes
+# Use a TFIDF Transform  of a word count vectorizer and run it though a Multinomial Naive Bayes
 
 from movieRevFunctions import createVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
 import pandas as pd
-from sklearn.naive_bayes import BernoulliNB
+from sklearn.naive_bayes import MultinomialNB
 import numpy as np
 from sklearn import metrics
 
@@ -19,12 +20,15 @@ def main():
 	testTarget = np.array(target[splitPoint:])
 
 	# Train the algorithm
-	train_X, vocabList = createVectorizer(trainingCorpus, 'None', True)
-	NB_Bern_model = BernoulliNB().fit(train_X, trainingTarget)
+	train_X, vocabList = createVectorizer(trainingCorpus, 'None', False)
+	transformer = TfidfTransformer()
+	train_tfidf = transformer.fit_transform(train_X.toarray())
+	NB_Multinom_model = MultinomialNB().fit(train_tfidf.toarray(), trainingTarget)
 
 	# Test the algorithm
-	test_X = createVectorizer(testCorpus, vocabList, True)
-	test_predict = NB_Bern_model.predict(test_X)
+	test_X = createVectorizer(testCorpus, vocabList, False)
+	test_tfidf = transformer.fit_transform(test_X.toarray())
+	test_predict = NB_Multinom_model.predict(test_tfidf.toarray())
 	print(np.mean(test_predict == testTarget))	
 	print metrics.classification_report(testTarget, test_predict, target_names=['0', '1'])
 
@@ -32,12 +36,13 @@ def main():
 	predict_df = pd.read_csv('test2.csv')
 	predictCorpus = [review for review in predict_df.review]
 	member = [memberid for memberid in predict_df.ID]
-	predict_X = createVectorizer(predictCorpus, vocabList, True)
-	predictions = NB_Bern_model.predict(predict_X)
+	predict_X = createVectorizer(predictCorpus, vocabList, False)
+	predict_tfidf = transformer.fit_transform(predict_X.toarray())
+	predictions = NB_Multinom_model.predict(predict_tfidf.toarray())
 	predict_df.columns = ['ID', 'Predicted']
 	for i in range(len(member)):
 	 	predict_df.loc[predict_df['ID'] == member[i], 'Predicted'] = predictions[i]
-	predict_df.to_csv('submission1.csv', sep = ',', index=False)
+	predict_df.to_csv('submission2.csv', sep = ',', index=False)
 
 
 
