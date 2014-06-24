@@ -1,0 +1,10 @@
+Cluster1: Osgood  2009, Thomas  2009, Thomas  2011, Anderson  2012, Holtby  2012, Lundqvist  2012, Smith  2012, Crawford  2013, Elliott  2013, Niemi  2013, Quick  2013, Rask  2013, Vokoun  2013, Howard  2014, Kuemper  2014, Lundqvist  2014, Mason  2014, Rask  2014
+Cluster2: Khabibulin  2009, Lundqvist  2009, Nabokov  2009, Brodeur  2010, Fleury  2010, Leclaire  2010, Miller  2011, Anderson  2013, Harding  2013, Reimer  2013, Quick  2014, Varlamov  2014
+Cluster3: Mason  2009, Price  2009, Elliott  2010, Lindback  2014
+Cluster4: Brodeur  2009, Mason  2009, Boucher  2010, Leighton  2010, Miller  2010, Varlamov  2010, Howard  2011, Neuvirth  2011, Roloson  2011, Clemmensen  2012, Elliott  2012, Niemi  2012, Theodore  2012, Hiller  2013, Howard  2013, Fleury  2014, Price  2014
+Cluster5: Kiprusoff  2009, Bryzgalov  2010, Price  2010, Quick  2010, Bryzgalov  2012, Fleury  2013, Emery  2014, Niemi  2014
+Cluster6: Biron  2009, Fleury  2009, Luongo  2009, Varlamov  2009, Ward  2009, Anderson  2010, Halak  2010, Howard  2010, Nabokov  2010, Niemi  2010, Rask  2010, Rinne  2010, Fleury  2011, Luongo  2011, Rinne  2011, Schneider  2011, Crawford  2012, Howard  2012, Luongo  2013, Bryzgalov  2014, Crawford  2014, Gibson  2014, Gustavsson  2014, Miller  2014, Tokarski  2014
+Cluster7: Quick  2012, Schneider  2012
+Cluster8: Bryzgalov  2011, Fleury  2012, Nabokov  2013
+Cluster9: Huet  2009, Luongo  2010, Bobrovsky  2011, Boucher  2011, Emery  2011, Niemi  2011, Quick  2011, Price  2013, Andersen  2014, Bobrovsky  2014, Lehtonen  2014
+Cluster10: Hiller  2009, Crawford  2011, Lundqvist  2011, Price  2011, Brodeur  2012, Rinne  2012, Thomas  2012, Holtby  2013, Lundqvist  2013, Hiller  2014
