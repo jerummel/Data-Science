@@ -1,0 +1,14 @@
+'''Print all permutations of a string in alpabetical order.'''
+
+import sys
+from itertools import permutations
+
+def main():
+	infile = open(sys.argv[1], 'r') #'string_perm.txt'
+	for line in infile:
+		newLine = line.strip('\n')
+		permList = ["".join(permTuple) for permTuple in permutations(newLine)]
+		permList.sort()
+		print ",".join(permList)
+
+if __name__ == "__main__": main()

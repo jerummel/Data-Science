@@ -1,0 +1,35 @@
+'''Determine the largest palindrome less than 1000 that is a prime number.'''
+
+from math import sqrt
+
+def main():
+	found = False
+	for hundreds in range(9, -1, -2):
+		for tens in range(9, -1, -1):
+			pdrome = hundreds*100+tens*10+hundreds
+			if(isPrime(pdrome)):
+				found = True
+				break
+		else:
+			continue
+		break
+
+	if(found == False):
+		for tens in range(9, 0, -1):
+			pdrome = tens * 10 + tens
+			if(isPrime(pdrome)):
+				break
+	print pdrome
+
+
+def isPrime(num):
+	foundPrime = True
+	root = sqrt(num)
+	rangeMax = int(root)
+	for x in range(2, rangeMax+1):
+		if(num%x == 0):
+			foundPrime = False
+			break
+	return foundPrime
+
+if __name__ == "__main__": main()

@@ -1,0 +1,14 @@
+'''Determine the N longest lines in a file.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #'longest_line.txt'
+	fileList = [line for line in infile]
+	N = int(fileList[0])
+	dataList = fileList[1:]
+	dataList.sort(key=len, reverse=True)
+	for s in range(0, N):
+		print dataList[s]
+
+if __name__ == "__main__": main()
