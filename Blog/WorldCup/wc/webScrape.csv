@@ -1,0 +1,837 @@
+match,wcRound,group,date,year,venue,hometeam,results,awayteam
+3,Round 1,Group A,09 Jun,1990,Rome ,Italy,1:0 (0:0),Austria
+5,Round 1,Group A,10 Jun,1990,Florence ,USA,1:5 (0:2),Czechoslovakia
+15,Round 1,Group A,14 Jun,1990,Rome ,Italy,1:0 (1:0),USA
+17,Round 1,Group A,15 Jun,1990,Florence ,Austria,0:1 (0:1),Czechoslovakia
+29,Round 1,Group A,19 Jun,1990,Rome ,Italy,2:0 (1:0),Czechoslovakia
+30,Round 1,Group A,19 Jun,1990,Florence ,Austria,2:1 (0:0),USA
+1,Round 1,Group B,08 Jun,1990,Milan ,Argentina,0:1 (0:0),Cameroon
+2,Round 1,Group B,09 Jun,1990,Bari ,Soviet Union,0:2 (0:1),Romania
+13,Round 1,Group B,13 Jun,1990,Naples ,Argentina,2:0 (1:0),Soviet Union
+1,Round 1,Group A,09 Jun,2006,Munich ,Germany,4:2 (2:1),Costa Rica
+3,Round 1,Group A,18 Jun,1994,Detroit ,USA,1:1 (1:1),Switzerland
+5,Round 1,Group A,18 Jun,1994,Los Angeles ,Colombia,1:3 (1:2),Romania
+14,Round 1,Group A,22 Jun,1994,Detroit ,Romania,1:4 (1:1),Switzerland
+16,Round 1,Group B,14 Jun,1990,Bari ,Cameroon,2:1 (0:0),Romania
+25,Round 1,Group B,18 Jun,1990,Naples ,Argentina,1:1 (0:0),Romania
+26,Round 1,Group B,18 Jun,1990,Bari ,Cameroon,0:4 (0:2),Soviet Union
+6,Round 1,Group C,10 Jun,1990,Turin ,Brazil,2:1 (1:0),Sweden
+8,Round 1,Group C,11 Jun,1990,Genoa ,Costa Rica,1:0 (0:0),Scotland
+19,Round 1,Group C,16 Jun,1990,Turin ,Brazil,1:0 (1:0),Costa Rica
+20,Round 1,Group C,16 Jun,1990,Genoa ,Sweden,1:2 (0:1),Scotland
+31,Round 1,Group C,20 Jun,1990,Turin ,Brazil,1:0 (0:0),Scotland
+32,Round 1,Group C,20 Jun,1990,Genoa ,Sweden,1:2 (1:0),Costa Rica
+2,Round 1,Group A,09 Jun,2006,Gelsenkirchen ,Poland,0:2 (0:1),Ecuador
+17,Round 1,Group A,14 Jun,2006,Dortmund ,Germany,1:0 (0:0),Poland
+18,Round 1,Group A,15 Jun,2006,Hamburg ,Ecuador,3:0 (1:0),Costa Rica
+33,Round 1,Group A,20 Jun,2006,Berlin ,Ecuador,0:3 (0:2),Germany
+34,Round 1,Group A,20 Jun,2006,Hanover ,Costa Rica,1:2 (1:1),Poland
+3,Round 1,Group B,10 Jun,2006,Frankfurt/Main ,England,1:0 (1:0),Paraguay
+4,Round 1,Group B,10 Jun,2006,Dortmund ,Trinidad and Tobago,0:0,Sweden
+15,Round 1,Group A,22 Jun,1994,Los Angeles ,USA,2:1 (1:0),Colombia
+25,Round 1,Group A,26 Jun,1994,Los Angeles ,USA,0:1 (0:1),Romania
+26,Round 1,Group A,26 Jun,1994,San Francisco ,Switzerland,0:2 (0:1),Colombia
+8,Round 1,Group B,19 Jun,1994,Los Angeles ,Cameroon,2:2 (1:1),Sweden
+9,Round 1,Group B,20 Jun,1994,San Francisco ,Brazil,2:0 (1:0),Russia
+19,Round 1,Group B,24 Jun,1994,San Francisco ,Brazil,3:0 (1:0),Cameroon
+20,Round 1,Group B,24 Jun,1994,Detroit ,Sweden,3:1 (1:1),Russia
+31,Round 1,Group B,28 Jun,1994,San Francisco ,Russia,6:1 (3:0),Cameroon
+32,Round 1,Group B,28 Jun,1994,Detroit ,Brazil,1:1 (0:1),Sweden
+1,Round 1,Group A,10 Jun,1998,Saint-Denis ,Brazil,2:1 (1:1),Scotland
+2,Round 1,Group A,10 Jun,1998,Montpellier ,Morocco,2:2 (1:1),Norway
+4,Round 1,Group D,09 Jun,1990,Bologna ,United Arab Emirates,0:2 (0:0),Colombia
+7,Round 1,Group D,10 Jun,1990,Milan ,Germany FR,4:1 (2:0),Yugoslavia
+14,Round 1,Group D,14 Jun,1990,Bologna ,Yugoslavia,1:0 (0:0),Colombia
+18,Round 1,Group D,15 Jun,1990,Milan ,Germany FR,5:1 (2:0),United Arab Emirates
+27,Round 1,Group D,19 Jun,1990,Milan ,Germany FR,1:1 (0:0),Colombia
+28,Round 1,Group D,19 Jun,1990,Bologna ,Yugoslavia,4:1 (2:1),United Arab Emirates
+10,Round 1,Group E,12 Jun,1990,Verona ,Belgium,2:0 (0:0),Korea Republic
+12,Round 1,Group E,13 Jun,1990,Udine ,Uruguay,0:0,Spain
+23,Round 1,Group E,17 Jun,1990,Verona ,Belgium,3:1 (2:0),Uruguay
+24,Round 1,Group E,17 Jun,1990,Udine ,Korea Republic,1:3 (1:1),Spain
+33,Round 1,Group E,21 Jun,1990,Verona ,Belgium,1:2 (1:2),Spain
+34,Round 1,Group E,21 Jun,1990,Udine ,Korea Republic,0:1 (0:0),Uruguay
+19,Round 1,Group B,15 Jun,2006,Nuremberg ,England,2:0 (0:0),Trinidad and Tobago
+20,Round 1,Group B,15 Jun,2006,Berlin ,Sweden,1:0 (0:0),Paraguay
+35,Round 1,Group B,20 Jun,2006,Cologne ,Sweden,2:2 (0:1),England
+36,Round 1,Group B,20 Jun,2006,Kaiserslautern ,Paraguay,2:0 (1:0),Trinidad and Tobago
+5,Round 1,Group C,10 Jun,2006,Hamburg ,Argentina,2:1 (2:0),Côte d'Ivoire
+6,Round 1,Group C,11 Jun,2006,Leipzig ,Serbia and Montenegro,0:1 (0:1),Netherlands
+21,Round 1,Group C,16 Jun,2006,Gelsenkirchen ,Argentina,6:0 (3:0),Serbia and Montenegro
+22,Round 1,Group C,16 Jun,2006,Stuttgart ,Netherlands,2:1 (2:1),Côte d'Ivoire
+37,Round 1,Group C,21 Jun,2006,Frankfurt/Main ,Netherlands,0:0,Argentina
+38,Round 1,Group C,21 Jun,2006,Munich ,Côte d'Ivoire,3:2 (1:2),Serbia and Montenegro
+7,Round 1,Group D,11 Jun,2006,Nuremberg ,Mexico,3:1 (1:1),Iran
+8,Round 1,Group D,11 Jun,2006,Cologne ,Angola,0:1 (0:1),Portugal
+1,Round 1,Group C,17 Jun,1994,Chicago ,Germany,1:0 (0:0),Bolivia
+2,Round 1,Group C,17 Jun,1994,Dallas ,Spain,2:2 (0:0),Korea Republic
+12,Round 1,Group C,21 Jun,1994,Chicago ,Germany,1:1 (0:1),Spain
+17,Round 1,Group C,23 Jun,1994,Boston ,Korea Republic,0:0,Bolivia
+27,Round 1,Group C,27 Jun,1994,Chicago ,Bolivia,1:3 (0:1),Spain
+28,Round 1,Group C,27 Jun,1994,Dallas ,Germany,3:2 (3:0),Korea Republic
+11,Round 1,Group D,21 Jun,1994,Boston ,Argentina,4:0 (2:0),Greece
+13,Round 1,Group D,21 Jun,1994,Dallas ,Nigeria,3:0 (2:0),Bulgaria
+23,Round 1,Group D,25 Jun,1994,Boston ,Argentina,2:1 (2:1),Nigeria
+24,Round 1,Group D,26 Jun,1994,Chicago ,Bulgaria,4:0 (1:0),Greece
+35,Round 1,Group D,30 Jun,1994,Boston ,Greece,0:2 (0:1),Nigeria
+36,Round 1,Group D,30 Jun,1994,Dallas ,Argentina,0:2 (0:0),Bulgaria
+17,Round 1,Group A,16 Jun,1998,Bordeaux ,Scotland,1:1 (0:0),Norway
+18,Round 1,Group A,16 Jun,1998,Nantes ,Brazil,3:0 (2:0),Morocco
+34,Round 1,Group A,23 Jun,1998,St. Etienne ,Scotland,0:3 (0:1),Morocco
+35,Round 1,Group A,23 Jun,1998,Marseilles ,Brazil,1:2 (0:0),Norway
+3,Round 1,Group B,11 Jun,1998,Toulouse ,Cameroon,1:1 (0:0),Austria
+4,Round 1,Group B,11 Jun,1998,Bordeaux ,Italy,2:2 (1:1),Chile
+19,Round 1,Group B,17 Jun,1998,St. Etienne ,Chile,1:1 (0:0),Austria
+20,Round 1,Group B,17 Jun,1998,Montpellier ,Italy,3:0 (1:0),Cameroon
+33,Round 1,Group B,23 Jun,1998,Saint-Denis ,Italy,2:1 (0:0),Austria
+36,Round 1,Group B,23 Jun,1998,Nantes ,Chile,1:1 (1:0),Cameroon
+5,Round 1,Group C,12 Jun,1998,Lens ,Saudi Arabia,0:1 (0:0),Denmark
+6,Round 1,Group C,12 Jun,1998,Marseilles ,France,3:0 (1:0),South Africa
+9,Round 1,Group F,11 Jun,1990,Cagliari ,England,1:1 (1:0),Republic of Ireland
+11,Round 1,Group F,12 Jun,1990,Palermo ,Netherlands,1:1 (0:0),Egypt
+21,Round 1,Group F,16 Jun,1990,Cagliari ,England,0:0,Netherlands
+22,Round 1,Group F,17 Jun,1990,Palermo ,Republic of Ireland,0:0,Egypt
+35,Round 1,Group F,21 Jun,1990,Cagliari ,England,1:0 (0:0),Egypt
+36,Round 1,Group F,21 Jun,1990,Palermo ,Republic of Ireland,1:1 (0:1),Netherlands
+37,Round 2,Round of 16,23 Jun,1990,Naples ,Cameroon,2:1 a.e.t.,Colombia
+38,Round 2,Round of 16,23 Jun,1990,Bari ,Czechoslovakia,4:1 (1:0),Costa Rica
+39,Round 2,Round of 16,24 Jun,1990,Turin ,Brazil,0:1 (0:0),Argentina
+40,Round 2,Round of 16,24 Jun,1990,Milan ,Germany FR,2:1 (0:0),Netherlands
+41,Round 2,Round of 16,25 Jun,1990,Genoa ,Republic of Ireland,0:0 a.e.t. 5:4 PSO,Romania
+42,Round 2,Round of 16,25 Jun,1990,Rome ,Italy,2:0 (0:0),Uruguay
+23,Round 1,Group D,16 Jun,2006,Hanover ,Mexico,0:0,Angola
+24,Round 1,Group D,17 Jun,2006,Frankfurt/Main ,Portugal,2:0 (0:0),Iran
+39,Round 1,Group D,21 Jun,2006,Gelsenkirchen ,Portugal,2:1 (2:1),Mexico
+40,Round 1,Group D,21 Jun,2006,Leipzig ,Iran,1:1 (0:0),Angola
+9,Round 1,Group E,12 Jun,2006,Hanover ,Italy,2:0 (1:0),Ghana
+10,Round 1,Group E,12 Jun,2006,Gelsenkirchen ,USA,0:3 (0:2),Czech Republic
+25,Round 1,Group E,17 Jun,2006,Kaiserslautern ,Italy,1:1 (1:1),USA
+26,Round 1,Group E,17 Jun,2006,Cologne ,Czech Republic,0:2 (0:1),Ghana
+41,Round 1,Group E,22 Jun,2006,Hamburg ,Czech Republic,0:2 (0:1),Italy
+42,Round 1,Group E,22 Jun,2006,Nuremberg ,Ghana,2:1 (2:1),USA
+11,Round 1,Group F,13 Jun,2006,Berlin ,Brazil,1:0 (1:0),Croatia
+12,Round 1,Group F,12 Jun,2006,Kaiserslautern ,Australia,3:1 (0:1),Japan
+4,Round 1,Group E,18 Jun,1994,New York/New Jersey ,Italy,0:1 (0:1),Republic of Ireland
+7,Round 1,Group E,19 Jun,1994,Washington Dc ,Norway,1:0 (0:0),Mexico
+16,Round 1,Group E,23 Jun,1994,New York/New Jersey ,Italy,1:0 (0:0),Norway
+18,Round 1,Group E,24 Jun,1994,Orlando ,Mexico,2:1 (1:0),Republic of Ireland
+29,Round 1,Group E,28 Jun,1994,New York/New Jersey ,Republic of Ireland,0:0,Norway
+30,Round 1,Group E,28 Jun,1994,Washington Dc ,Italy,1:1 (0:0),Mexico
+6,Round 1,Group F,19 Jun,1994,Orlando ,Belgium,1:0 (1:0),Morocco
+10,Round 1,Group F,20 Jun,1994,Washington Dc ,Netherlands,2:1 (0:1),Saudi Arabia
+21,Round 1,Group F,25 Jun,1994,Orlando ,Belgium,1:0 (0:0),Netherlands
+22,Round 1,Group F,25 Jun,1994,New York/New Jersey ,Saudi Arabia,2:1 (2:1),Morocco
+33,Round 1,Group F,29 Jun,1994,Orlando ,Morocco,1:2 (0:1),Netherlands
+34,Round 1,Group F,29 Jun,1994,Washington Dc ,Belgium,0:1 (0:1),Saudi Arabia
+21,Round 1,Group C,18 Jun,1998,Saint-Denis ,France,4:0 (1:0),Saudi Arabia
+22,Round 1,Group C,18 Jun,1998,Toulouse ,South Africa,1:1 (0:1),Denmark
+38,Round 1,Group C,24 Jun,1998,Lyon ,France,2:1 (1:1),Denmark
+40,Round 1,Group C,24 Jun,1998,Bordeaux ,South Africa,2:2 (1:1),Saudi Arabia
+7,Round 1,Group D,12 Jun,1998,Montpellier ,Paraguay,0:0,Bulgaria
+10,Round 1,Group D,13 Jun,1998,Nantes ,Spain,2:3 (1:1),Nigeria
+23,Round 1,Group D,19 Jun,1998,Paris ,Nigeria,1:0 (1:0),Bulgaria
+24,Round 1,Group D,19 Jun,1998,St. Etienne ,Spain,0:0,Paraguay
+37,Round 1,Group D,24 Jun,1998,Lens ,Spain,6:1 (2:0),Bulgaria
+39,Round 1,Group D,24 Jun,1998,Toulouse ,Nigeria,1:3 (1:1),Paraguay
+8,Round 1,Group E,13 Jun,1998,Saint-Denis ,Netherlands,0:0,Belgium
+43,Round 2,Round of 16,26 Jun,1990,Verona ,Spain,1:2 a.e.t. (1:1 0:0),Yugoslavia
+44,Round 2,Round of 16,26 Jun,1990,Bologna ,England,1:0 a.e.t.,Belgium
+45,Round 3,Quarter-finals,30 Jun,1990,Florence ,Yugoslavia,0:0 a.e.t. 2:3 PSO,Argentina
+46,Round 3,Quarter-finals,30 Jun,1990,Rome ,Italy,1:0 (1:0),Republic of Ireland
+47,Round 3,Quarter-finals,01 Jul,1990,Milan ,Germany FR,1:0 (1:0),Czechoslovakia
+48,Round 3,Quarter-finals,01 Jul,1990,Naples ,England,3:2 a.e.t. (2:2 1:0),Cameroon
+49,Round 4,Semi-finals,03 Jul,1990,Naples ,Italy,1:1 a.e.t. (1:1 1:0) 3:4 PSO,Argentina
+50,Round 4,Semi-finals,04 Jul,1990,Turin ,Germany FR,1:1 a.e.t. (1:1 0:0) 4:3 PSO,England
+51,Round 4,Match for third place,07 Jul,1990,Bari ,Italy,2:1 (0:0),England
+52,Round 5,Final,08 Jul,1990,Rome ,Germany FR,1:0 (0:0),Argentina
+27,Round 1,Group F,18 Jun,2006,Munich ,Brazil,2:0 (0:0),Australia
+28,Round 1,Group F,18 Jun,2006,Nuremberg ,Japan,0:0,Croatia
+43,Round 1,Group F,22 Jun,2006,Dortmund ,Japan,1:4 (1:1),Brazil
+44,Round 1,Group F,22 Jun,2006,Stuttgart ,Croatia,2:2 (1:1),Australia
+13,Round 1,Group G,13 Jun,2006,Stuttgart ,France,0:0,Switzerland
+14,Round 1,Group G,13 Jun,2006,Frankfurt/Main ,Korea Republic,2:1 (0:1),Togo
+29,Round 1,Group G,18 Jun,2006,Leipzig ,France,1:1 (1:0),Korea Republic
+30,Round 1,Group G,19 Jun,2006,Dortmund ,Togo,0:2 (0:1),Switzerland
+45,Round 1,Group G,23 Jun,2006,Cologne ,Togo,0:2 (0:0),France
+46,Round 1,Group G,23 Jun,2006,Hanover ,Switzerland,2:0 (1:0),Korea Republic
+15,Round 1,Group H,14 Jun,2006,Leipzig ,Spain,4:0 (2:0),Ukraine
+16,Round 1,Group H,14 Jun,2006,Munich ,Tunisia,2:2 (1:0),Saudi Arabia
+37,Round 1,Round of 16,02 Jul,1994,Chicago ,Germany,3:2 (3:1),Belgium
+38,Round 1,Round of 16,02 Jul,1994,Washington Dc ,Spain,3:0 (1:0),Switzerland
+39,Round 1,Round of 16,03 Jul,1994,Dallas ,Saudi Arabia,1:3 (0:1),Sweden
+40,Round 1,Round of 16,03 Jul,1994,Los Angeles ,Romania,3:2 (2:1),Argentina
+41,Round 1,Round of 16,04 Jul,1994,Orlando ,Netherlands,2:0 (2:0),Republic of Ireland
+42,Round 1,Round of 16,04 Jul,1994,San Francisco ,Brazil,1:0 (0:0),USA
+43,Round 1,Round of 16,05 Jul,1994,Boston ,Nigeria,1:2 a.e.t. (1:1 1:0),Italy
+44,Round 1,Round of 16,05 Jul,1994,New York/New Jersey ,Mexico,1:1 a.e.t. (1:1 1:1) 1:3 PSO,Bulgaria
+45,Round 1,Quarter-finals,09 Jul,1994,Boston ,Italy,2:1 (1:0),Spain
+46,Round 1,Quarter-finals,09 Jul,1994,Dallas ,Netherlands,2:3 (0:0),Brazil
+47,Round 1,Quarter-finals,10 Jul,1994,New York/New Jersey ,Bulgaria,2:1 (0:0),Germany
+48,Round 1,Quarter-finals,10 Jul,1994,San Francisco ,Romania,2:2 a.e.t. (1:1 0:0) 4:5 PSO,Sweden
+9,Round 1,Group E,13 Jun,1998,Lyon ,Korea Republic,1:3 (1:0),Mexico
+25,Round 1,Group E,20 Jun,1998,Marseilles ,Netherlands,5:0 (2:0),Korea Republic
+26,Round 1,Group E,20 Jun,1998,Bordeaux ,Belgium,2:2 (1:0),Mexico
+41,Round 1,Group E,25 Jun,1998,Paris ,Belgium,1:1 (1:0),Korea Republic
+42,Round 1,Group E,25 Jun,1998,St. Etienne ,Netherlands,2:2 (2:0),Mexico
+12,Round 1,Group F,14 Jun,1998,St. Etienne ,Yugoslavia,1:0 (0:0),Iran
+14,Round 1,Group F,15 Jun,1998,Paris ,Germany,2:0 (1:0),USA
+29,Round 1,Group F,21 Jun,1998,Lens ,Germany,2:2 (0:1),Yugoslavia
+30,Round 1,Group F,21 Jun,1998,Lyon ,USA,1:2 (0:1),Iran
+43,Round 1,Group F,25 Jun,1998,Montpellier ,Germany,2:0 (0:0),Iran
+44,Round 1,Group F,25 Jun,1998,Nantes ,USA,0:1 (0:1),Yugoslavia
+15,Round 1,Group G,15 Jun,1998,Lyon ,Romania,1:0 (1:0),Colombia
+31,Round 1,Group H,19 Jun,2006,Stuttgart ,Spain,3:1 (0:1),Tunisia
+32,Round 1,Group H,19 Jun,2006,Hamburg ,Saudi Arabia,0:4 (0:2),Ukraine
+47,Round 1,Group H,23 Jun,2006,Kaiserslautern ,Saudi Arabia,0:1 (0:1),Spain
+48,Round 1,Group H,23 Jun,2006,Berlin ,Ukraine,1:0 (0:0),Tunisia
+49,Round 2,Round of 16,24 Jun,2006,Munich ,Germany,2:0 (2:0),Sweden
+50,Round 2,Round of 16,24 Jun,2006,Leipzig ,Argentina,2:1 a.e.t. (1:1 1:1),Mexico
+51,Round 2,Round of 16,25 Jun,2006,Stuttgart ,England,1:0 (0:0),Ecuador
+52,Round 2,Round of 16,25 Jun,2006,Nuremberg ,Portugal,1:0 (1:0),Netherlands
+53,Round 2,Round of 16,26 Jun,2006,Kaiserslautern ,Italy,1:0 (0:0),Australia
+54,Round 2,Round of 16,26 Jun,2006,Cologne ,Switzerland,0:0 a.e.t. 0:3 PSO,Ukraine
+55,Round 2,Round of 16,27 Jun,2006,Dortmund ,Brazil,3:0 (2:0),Ghana
+56,Round 2,Round of 16,27 Jun,2006,Hanover ,Spain,1:3 (1:1),France
+49,Round 2,Semi-finals,13 Jul,1994,New York/New Jersey ,Bulgaria,1:2 (1:2),Italy
+50,Round 2,Semi-finals,13 Jul,1994,Los Angeles ,Sweden,0:1 (0:0),Brazil
+51,Round 3,Match for third place,16 Jul,1994,Los Angeles ,Sweden,4:0 (4:0),Bulgaria
+52,Round 4,Final,17 Jul,1994,Los Angeles ,Brazil,0:0 a.e.t. 3:2 PSO,Italy
+16,Round 1,Group G,15 Jun,1998,Marseilles ,England,2:0 (1:0),Tunisia
+31,Round 1,Group G,22 Jun,1998,Montpellier ,Colombia,1:0 (0:0),Tunisia
+32,Round 1,Group G,22 Jun,1998,Toulouse ,Romania,2:1 (0:0),England
+45,Round 1,Group G,26 Jun,1998,Saint-Denis ,Romania,1:1 (0:1),Tunisia
+46,Round 1,Group G,26 Jun,1998,Lens ,Colombia,0:2 (0:2),England
+11,Round 1,Group H,14 Jun,1998,Lens ,Jamaica,1:3 (1:1),Croatia
+13,Round 1,Group H,14 Jun,1998,Toulouse ,Argentina,1:0 (1:0),Japan
+27,Round 1,Group H,20 Jun,1998,Nantes ,Japan,0:1 (0:0),Croatia
+28,Round 1,Group H,21 Jun,1998,Paris ,Argentina,5:0 (1:0),Jamaica
+47,Round 1,Group H,26 Jun,1998,Lyon ,Japan,1:2 (0:1),Jamaica
+48,Round 1,Group H,26 Jun,1998,Bordeaux ,Argentina,1:0 (1:0),Croatia
+49,Round 2,Round of 16,27 Jun,1998,Paris ,Brazil,4:1 (3:0),Chile
+57,Round 3,Quarter-finals,30 Jun,2006,Berlin ,Germany,1:1 a.e.t. (1:1 0:0) 4:2 PSO,Argentina
+58,Round 3,Quarter-finals,30 Jun,2006,Hamburg ,Italy,3:0 (1:0),Ukraine
+59,Round 3,Quarter-finals,01 Jul,2006,Gelsenkirchen ,England,0:0 a.e.t. 1:3 PSO,Portugal
+60,Round 3,Quarter-finals,01 Jul,2006,Frankfurt/Main ,Brazil,0:1 (0:0),France
+61,Round 4,Semi-finals,04 Jul,2006,Dortmund ,Germany,0:2 a.e.t.,Italy
+62,Round 4,Semi-finals,05 Jul,2006,Munich ,Portugal,0:1 (0:1),France
+63,Round 4,Third place,08 Jul,2006,Stuttgart ,Germany,3:1 (0:0),Portugal
+64,Round 5,Final,09 Jul,2006,Berlin ,Italy,1:1 a.e.t. (1:1 1:1) 5:3 PSO,France
+50,Round 2,Round of 16,27 Jun,1998,Marseilles ,Italy,1:0 (1:0),Norway
+51,Round 2,Round of 16,28 Jun,1998,Saint-Denis ,Nigeria,1:4 (0:2),Denmark
+52,Round 2,Round of 16,28 Jun,1998,Lens ,France,1:0 a.e.t.,Paraguay
+53,Round 2,Round of 16,29 Jun,1998,Montpellier ,Germany,2:1 (0:0),Mexico
+54,Round 2,Round of 16,29 Jun,1998,Toulouse ,Netherlands,2:1 (1:0),Yugoslavia
+55,Round 2,Round of 16,30 Jun,1998,St. Etienne ,Argentina,2:2 a.e.t. (2:2 2:2) 4:3 PSO,England
+56,Round 2,Round of 16,30 Jun,1998,Bordeaux ,Romania,0:1 (0:1),Croatia
+57,Round 3,Quarter-finals,03 Jul,1998,Saint-Denis ,Italy,0:0 a.e.t. 3:4 PSO,France
+58,Round 3,Quarter-finals,03 Jul,1998,Nantes ,Brazil,3:2 (2:1),Denmark
+59,Round 3,Quarter-finals,04 Jul,1998,Lyon ,Germany,0:3 (0:1),Croatia
+60,Round 3,Quarter-finals,04 Jul,1998,Marseilles ,Netherlands,2:1 (1:1),Argentina
+61,Round 4,Semi-finals,07 Jul,1998,Marseilles ,Brazil,1:1 a.e.t. (1:1 0:0) 4:2 PSO,Netherlands
+62,Round 4,Semi-finals,08 Jul,1998,Saint-Denis ,France,2:1 (0:0),Croatia
+63,Round 4,Match for third place,11 Jul,1998,Paris ,Netherlands,1:2 (1:2),Croatia
+64,Round 5,Final,12 Jul,1998,Saint-Denis ,Brazil,0:3 (0:2),France
+1,Round 1,Group A,11 Jun,2010,Johannesburg ,South Africa,1:1 (0:0),Mexico
+2,Round 1,Group A,11 Jun,2010,Cape Town ,Uruguay,0:0,France
+17,Round 1,Group A,16 Jun,2010,Tshwane/Pretoria ,South Africa,0:3 (0:1),Uruguay
+18,Round 1,Group A,17 Jun,2010,Polokwane ,France,0:2 (0:0),Mexico
+33,Round 1,Group A,22 Jun,2010,Rustenburg ,Mexico,0:1 (0:1),Uruguay
+34,Round 1,Group A,22 Jun,2010,Mangaung/Bloemfontein ,France,1:2 (0:2),South Africa
+3,Round 1,Group B,12 Jun,2010,Johannesburg ,Argentina,1:0 (1:0),Nigeria
+4,Round 1,Group B,12 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2:0 (1:0),Greece
+19,Round 1,Group B,17 Jun,2010,Mangaung/Bloemfontein ,Greece,2:1 (1:1),Nigeria
+20,Round 1,Group B,17 Jun,2010,Johannesburg ,Argentina,4:1 (2:1),Korea Republic
+35,Round 1,Group B,22 Jun,2010,Durban ,Nigeria,2:2 (1:1),Korea Republic
+36,Round 1,Group B,22 Jun,2010,Polokwane ,Greece,0:2 (0:0),Argentina
+5,Round 1,Group C,12 Jun,2010,Rustenburg ,England,1:1 (1:1),USA
+6,Round 1,Group C,13 Jun,2010,Polokwane ,Algeria,0:1 (0:0),Slovenia
+22,Round 1,Group C,18 Jun,2010,Johannesburg ,Slovenia,2:2 (2:0),USA
+23,Round 1,Group C,18 Jun,2010,Cape Town ,England,0:0,Algeria
+37,Round 1,Group C,23 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0:1 (0:1),England
+38,Round 1,Group C,23 Jun,2010,Tshwane/Pretoria ,USA,1:0 (0:0),Algeria
+7,Round 1,Group D,13 Jun,2010,Durban ,Germany,4:0 (2:0),Australia
+8,Round 1,Group D,13 Jun,2010,Tshwane/Pretoria ,Serbia,0:1 (0:0),Ghana
+21,Round 1,Group D,18 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Germany,0:1 (0:1),Serbia
+24,Round 1,Group D,19 Jun,2010,Rustenburg ,Ghana,1:1 (1:1),Australia
+39,Round 1,Group D,23 Jun,2010,Johannesburg ,Ghana,0:1 (0:0),Germany
+40,Round 1,Group D,23 Jun,2010,Nelspruit ,Australia,2:1 (0:0),Serbia
+9,Round 1,Group E,14 Jun,2010,Johannesburg ,Netherlands,2:0 (0:0),Denmark
+1,Round 1,Group 1,31 May,1970,Mexico City ,Mexico,0:0,Soviet Union
+5,Round 1,Group 1,03 Jun,1970,Mexico City ,Belgium,3:0 (1:0),El Salvador
+9,Round 1,Group 1,06 Jun,1970,Mexico City ,Soviet Union,4:1 (1:0),Belgium
+13,Round 1,Group 1,07 Jun,1970,Mexico City ,Mexico,4:0 (1:0),El Salvador
+1,Round 1,Group A,31 May,1986,Mexico City ,Bulgaria,1:1 (0:1),Italy
+10,Round 1,Group E,14 Jun,2010,Mangaung/Bloemfontein ,Japan,1:0 (1:0),Cameroon
+25,Round 1,Group E,19 Jun,2010,Durban ,Netherlands,1:0 (0:0),Japan
+26,Round 1,Group E,19 Jun,2010,Tshwane/Pretoria ,Cameroon,1:2 (1:1),Denmark
+43,Round 1,Group E,24 Jun,2010,Rustenburg ,Denmark,1:3 (0:2),Japan
+44,Round 1,Group E,24 Jun,2010,Cape Town ,Cameroon,1:2 (0:1),Netherlands
+11,Round 1,Group F,14 Jun,2010,Cape Town ,Italy,1:1 (0:1),Paraguay
+12,Round 1,Group F,15 Jun,2010,Rustenburg ,New Zealand,1:1 (0:0),Slovakia
+27,Round 1,Group F,20 Jun,2010,Mangaung/Bloemfontein ,Slovakia,0:2 (0:1),Paraguay
+28,Round 1,Group F,20 Jun,2010,Nelspruit ,Italy,1:1 (1:1),New Zealand
+41,Round 1,Group F,24 Jun,2010,Johannesburg ,Slovakia,3:2 (1:0),Italy
+42,Round 1,Group F,24 Jun,2010,Polokwane ,Paraguay,0:0,New Zealand
+17,Round 1,Group 1,10 Jun,1970,Mexico City ,Soviet Union,2:0 (0:0),El Salvador
+21,Round 1,Group 1,11 Jun,1970,Mexico City ,Mexico,1:0 (1:0),Belgium
+2,Round 1,Group 2,02 Jun,1970,Puebla ,Uruguay,2:0 (1:0),Israel
+6,Round 1,Group 2,03 Jun,1970,Toluca ,Italy,1:0 (1:0),Sweden
+10,Round 1,Group 2,06 Jun,1970,Puebla ,Uruguay,0:0,Italy
+14,Round 1,Group 2,07 Jun,1970,Toluca ,Sweden,1:1 (0:0),Israel
+18,Round 1,Group 2,10 Jun,1970,Puebla ,Sweden,1:0 (0:0),Uruguay
+22,Round 1,Group 2,11 Jun,1970,Toluca ,Italy,0:0,Israel
+3,Round 1,Group 3,02 Jun,1970,Guadalajara ,England,1:0 (0:0),Romania
+7,Round 1,Group 3,03 Jun,1970,Guadalajara ,Brazil,4:1 (1:1),Czechoslovakia
+11,Round 1,Group 3,06 Jun,1970,Guadalajara ,Romania,2:1 (0:1),Czechoslovakia
+15,Round 1,Group 3,07 Jun,1970,Guadalajara ,Brazil,1:0 (0:0),England
+4,Round 1,Group A,02 Jun,1986,Mexico City ,Argentina,3:1 (2:0),Korea Republic
+13,Round 1,Group A,05 Jun,1986,Puebla ,Italy,1:1 (1:1),Argentina
+14,Round 1,Group A,05 Jun,1986,Mexico City ,Korea Republic,1:1 (0:1),Bulgaria
+27,Round 1,Group A,10 Jun,1986,Puebla ,Korea Republic,2:3 (0:1),Italy
+28,Round 1,Group A,10 Jun,1986,Mexico City ,Argentina,2:0 (1:0),Bulgaria
+7,Round 1,Group B,03 Jun,1986,Mexico City ,Belgium,1:2 (1:2),Mexico
+10,Round 1,Group B,04 Jun,1986,Toluca ,Paraguay,1:0 (1:0),Iraq
+19,Round 1,Group B,07 Jun,1986,Mexico City ,Mexico,1:1 (1:0),Paraguay
+22,Round 1,Group B,08 Jun,1986,Toluca ,Iraq,1:2 (0:2),Belgium
+29,Round 1,Group B,11 Jun,1986,Mexico City ,Iraq,0:1 (0:0),Mexico
+30,Round 1,Group B,11 Jun,1986,Toluca ,Paraguay,2:2 (0:1),Belgium
+2,Round 1,Group C,01 Jun,1986,Leon ,Canada,0:1 (0:0),France
+1,Round 1,Group 1,14 Jun,1974,Berlin West ,Germany FR,1:0 (1:0),Chile
+2,Round 1,Group 1,14 Jun,1974,Hamburg ,German DR,2:0 (0:0),Australia
+9,Round 1,Group 1,18 Jun,1974,Berlin West ,Chile,1:1 (0:0),German DR
+10,Round 1,Group 1,18 Jun,1974,Hamburg ,Australia,0:3 (0:2),Germany FR
+13,Round 1,Group G,15 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Côte d'Ivoire,0:0,Portugal
+14,Round 1,Group G,15 Jun,2010,Johannesburg ,Brazil,2:1 (0:0),Korea DPR
+29,Round 1,Group G,20 Jun,2010,Johannesburg ,Brazil,3:1 (1:0),Côte d'Ivoire
+30,Round 1,Group G,21 Jun,2010,Cape Town ,Portugal,7:0 (1:0),Korea DPR
+45,Round 1,Group G,25 Jun,2010,Durban ,Portugal,0:0,Brazil
+46,Round 1,Group G,25 Jun,2010,Nelspruit ,Korea DPR,0:3 (0:2),Côte d'Ivoire
+15,Round 1,Group H,16 Jun,2010,Nelspruit ,Honduras,0:1 (0:1),Chile
+16,Round 1,Group H,16 Jun,2010,Durban ,Spain,0:1 (0:0),Switzerland
+31,Round 1,Group H,21 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Chile,1:0 (0:0),Switzerland
+32,Round 1,Group H,21 Jun,2010,Johannesburg ,Spain,2:0 (1:0),Honduras
+47,Round 1,Group H,25 Jun,2010,Tshwane/Pretoria ,Chile,1:2 (0:2),Spain
+48,Round 1,Group H,25 Jun,2010,Mangaung/Bloemfontein ,Switzerland,0:0,Honduras
+19,Round 1,Group 3,10 Jun,1970,Guadalajara ,Brazil,3:2 (2:1),Romania
+23,Round 1,Group 3,11 Jun,1970,Guadalajara ,England,1:0 (0:0),Czechoslovakia
+4,Round 1,Group 4,02 Jun,1970,Leon ,Peru,3:2 (0:1),Bulgaria
+8,Round 1,Group 4,03 Jun,1970,Leon ,Germany FR,2:1 (0:1),Morocco
+12,Round 1,Group 4,06 Jun,1970,Leon ,Peru,3:0 (0:0),Morocco
+16,Round 1,Group 4,07 Jun,1970,Leon ,Germany FR,5:2 (2:1),Bulgaria
+20,Round 1,Group 4,10 Jun,1970,Leon ,Germany FR,3:1 (3:1),Peru
+24,Round 1,Group 4,11 Jun,1970,Leon ,Bulgaria,1:1 (1:0),Morocco
+25,Round 2,Quarter-finals,14 Jun,1970,Mexico City ,Uruguay,1:0 a.e.t.,Soviet Union
+26,Round 2,Quarter-finals,14 Jun,1970,Toluca ,Italy,4:1 (1:1),Mexico
+27,Round 2,Quarter-finals,14 Jun,1970,Guadalajara ,Brazil,4:2 (2:1),Peru
+5,Round 1,Group C,02 Jun,1986,Irapuato ,Soviet Union,6:0 (3:0),Hungary
+15,Round 1,Group C,05 Jun,1986,Leon ,France,1:1 (0:0),Soviet Union
+16,Round 1,Group C,06 Jun,1986,Irapuato ,Hungary,2:0 (1:0),Canada
+25,Round 1,Group C,09 Jun,1986,Leon ,Hungary,0:3 (0:1),France
+26,Round 1,Group C,09 Jun,1986,Irapuato ,Soviet Union,2:0 (0:0),Canada
+3,Round 1,Group D,01 Jun,1986,Guadalajara ,Spain,0:1 (0:0),Brazil
+8,Round 1,Group D,03 Jun,1986,Guadalajara ,Algeria,1:1 (0:1),Northern Ireland
+17,Round 1,Group D,06 Jun,1986,Guadalajara ,Brazil,1:0 (0:0),Algeria
+20,Round 1,Group D,07 Jun,1986,Guadalajara ,Northern Ireland,1:2 (0:2),Spain
+33,Round 1,Group D,12 Jun,1986,Guadalajara ,Northern Ireland,0:3 (0:2),Brazil
+34,Round 1,Group D,12 Jun,1986,Monterrey ,Algeria,0:3 (0:1),Spain
+11,Round 1,Group E,04 Jun,1986,Queretaro ,Uruguay,1:1 (1:0),Germany FR
+17,Round 1,Group 1,22 Jun,1974,Berlin West ,Australia,0:0,Chile
+18,Round 1,Group 1,22 Jun,1974,Hamburg ,German DR,1:0 (0:0),Germany FR
+3,Round 1,Group 2,13 Jun,1974,Frankfurt/Main ,Brazil,0:0,Yugoslavia
+4,Round 1,Group 2,14 Jun,1974,Dortmund ,Zaire,0:2 (0:2),Scotland
+11,Round 1,Group 2,18 Jun,1974,Gelsenkirchen ,Yugoslavia,9:0 (6:0),Zaire
+12,Round 1,Group 2,18 Jun,1974,Frankfurt/Main ,Scotland,0:0,Brazil
+19,Round 1,Group 2,22 Jun,1974,Frankfurt/Main ,Scotland,1:1 (0:0),Yugoslavia
+20,Round 1,Group 2,22 Jun,1974,Gelsenkirchen ,Zaire,0:3 (0:1),Brazil
+5,Round 1,Group 3,15 Jun,1974,Hanover ,Uruguay,0:2 (0:1),Netherlands
+6,Round 1,Group 3,15 Jun,1974,DüSseldorf ,Sweden,0:0,Bulgaria
+13,Round 1,Group 3,19 Jun,1974,Dortmund ,Netherlands,0:0,Sweden
+14,Round 1,Group 3,19 Jun,1974,Hanover ,Bulgaria,1:1 (0:0),Uruguay
+2,Round 1,Group 1,14 Jun,1982,Vigo ,Italy,0:0,Poland
+4,Round 1,Group 1,15 Jun,1982,La CoruñA ,Peru,0:0,Cameroon
+1,Round 1,Group A,31 May,2002,Seoul ,France,0:1 (0:1),Senegal
+49,Round 2,Round of 16,26 Jun,2010,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2:1 (1:0),Korea Republic
+50,Round 2,Round of 16,26 Jun,2010,Rustenburg ,USA,1:2 a.e.t. (1:1 0:1),Ghana
+51,Round 2,Round of 16,27 Jun,2010,Mangaung/Bloemfontein ,Germany,4:1 (2:1),England
+52,Round 2,Round of 16,27 Jun,2010,Johannesburg ,Argentina,3:1 (2:0),Mexico
+53,Round 2,Round of 16,28 Jun,2010,Durban ,Netherlands,2:1 (1:0),Slovakia
+54,Round 2,Round of 16,28 Jun,2010,Johannesburg ,Brazil,3:0 (2:0),Chile
+55,Round 2,Round of 16,29 Jun,2010,Tshwane/Pretoria ,Paraguay,0:0 a.e.t. 5:3 PSO,Japan
+56,Round 2,Round of 16,29 Jun,2010,Cape Town ,Spain,1:0 (0:0),Portugal
+57,Round 3,Quarter-finals,02 Jul,2010,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2:1 (0:1),Brazil
+58,Round 3,Quarter-finals,02 Jul,2010,Johannesburg ,Uruguay,1:1 a.e.t. (1:1 0:1) 4:2 PSO,Ghana
+59,Round 3,Quarter-finals,03 Jul,2010,Cape Town ,Argentina,0:4 (0:1),Germany
+60,Round 3,Quarter-finals,03 Jul,2010,Johannesburg ,Paraguay,0:1 (0:0),Spain
+28,Round 2,Quarter-finals,14 Jun,1970,Leon ,Germany FR,3:2 a.e.t. (2:2 0:1),England
+29,Round 3,Semi-finals,17 Jun,1970,Guadalajara ,Brazil,3:1 (1:1),Uruguay
+30,Round 3,Semi-finals,17 Jun,1970,Mexico City ,Italy,4:3 a.e.t. (1:1 1:0),Germany FR
+31,Round 3,Match for third place,20 Jun,1970,Mexico City ,Germany FR,1:0 (1:0),Uruguay
+32,Round 4,Final,21 Jun,1970,Mexico City ,Brazil,4:1 (1:1),Italy
+12,Round 1,Group E,04 Jun,1986,Nezahualcoyotl ,Scotland,0:1 (0:0),Denmark
+23,Round 1,Group E,08 Jun,1986,Queretaro ,Germany FR,2:1 (1:1),Scotland
+24,Round 1,Group E,08 Jun,1986,Nezahualcoyotl ,Denmark,6:1 (2:1),Uruguay
+35,Round 1,Group E,13 Jun,1986,Queretaro ,Denmark,2:0 (1:0),Germany FR
+36,Round 1,Group E,13 Jun,1986,Nezahualcoyotl ,Scotland,0:0,Uruguay
+6,Round 1,Group F,02 Jun,1986,Monterrey ,Morocco,0:0,Poland
+9,Round 1,Group F,03 Jun,1986,Monterrey ,Portugal,1:0 (0:0),England
+18,Round 1,Group F,06 Jun,1986,Monterrey ,England,0:0,Morocco
+21,Round 1,Group F,07 Jun,1986,Monterrey ,Poland,1:0 (0:0),Portugal
+31,Round 1,Group F,11 Jun,1986,Guadalajara ,Portugal,1:3 (0:2),Morocco
+32,Round 1,Group F,11 Jun,1986,Monterrey ,England,3:0 (3:0),Poland
+37,Round 2,Round of 16,15 Jun,1986,Mexico City ,Mexico,2:0 (1:0),Bulgaria
+21,Round 1,Group 3,23 Jun,1974,Dortmund ,Bulgaria,1:4 (0:2),Netherlands
+22,Round 1,Group 3,23 Jun,1974,DüSseldorf ,Sweden,3:0 (0:0),Uruguay
+7,Round 1,Group 4,15 Jun,1974,Munich ,Italy,3:1 (0:0),Haiti
+8,Round 1,Group 4,15 Jun,1974,Stuttgart ,Poland,3:2 (2:0),Argentina
+15,Round 1,Group 4,19 Jun,1974,Munich ,Haiti,0:7 (0:5),Poland
+16,Round 1,Group 4,19 Jun,1974,Stuttgart ,Argentina,1:1 (1:1),Italy
+23,Round 1,Group 4,23 Jun,1974,Munich ,Argentina,4:1 (2:0),Haiti
+24,Round 1,Group 4,23 Jun,1974,Stuttgart ,Poland,2:1 (2:0),Italy
+25,Round 2,Group A,26 Jun,1974,Hanover ,Brazil,1:0 (0:0),German DR
+26,Round 2,Group A,26 Jun,1974,Gelsenkirchen ,Netherlands,4:0 (2:0),Argentina
+29,Round 2,Group A,30 Jun,1974,Gelsenkirchen ,German DR,0:2 (0:1),Netherlands
+30,Round 2,Group A,30 Jun,1974,Hanover ,Argentina,1:2 (1:1),Brazil
+13,Round 1,Group 1,18 Jun,1982,Vigo ,Italy,1:1 (1:0),Peru
+16,Round 1,Group 1,19 Jun,1982,La CoruñA ,Poland,0:0,Cameroon
+25,Round 1,Group 1,22 Jun,1982,La CoruñA ,Poland,5:1 (0:0),Peru
+28,Round 1,Group 1,23 Jun,1982,Vigo ,Italy,1:1 (0:0),Cameroon
+7,Round 1,Group 2,16 Jun,1982,Gijon ,Germany FR,1:2 (0:0),Algeria
+10,Round 1,Group 2,17 Jun,1982,Oviedo ,Chile,0:1 (0:1),Austria
+19,Round 1,Group 2,20 Jun,1982,Gijon ,Germany FR,4:1 (1:0),Chile
+22,Round 1,Group 2,21 Jun,1982,Oviedo ,Algeria,0:2 (0:0),Austria
+31,Round 1,Group 2,24 Jun,1982,Oviedo ,Algeria,3:2 (3:0),Chile
+34,Round 1,Group 2,25 Jun,1982,Gijon ,Germany FR,1:0 (1:0),Austria
+1,Round 1,Group 3,13 Jun,1982,Barcelona ,Argentina,0:1 (0:0),Belgium
+5,Round 1,Group 3,15 Jun,1982,Elche ,Hungary,10:1 (3:0),El Salvador
+3,Round 1,Group A,01 Jun,2002,Ulsan ,Uruguay,1:2 (0:1),Denmark
+18,Round 1,Group A,06 Jun,2002,Busan ,France,0:0,Uruguay
+20,Round 1,Group A,06 Jun,2002,Daegu ,Denmark,1:1 (1:0),Senegal
+33,Round 1,Group A,11 Jun,2002,Incheon ,Denmark,2:0 (1:0),France
+34,Round 1,Group A,11 Jun,2002,Suwon ,Senegal,3:3 (3:0),Uruguay
+6,Round 1,Group B,02 Jun,2002,Busan ,Paraguay,2:2 (1:0),South Africa
+8,Round 1,Group B,02 Jun,2002,Gwangju ,Spain,3:1 (1:0),Slovenia
+22,Round 1,Group B,07 Jun,2002,Jeonju ,Spain,3:1 (0:1),Paraguay
+24,Round 1,Group B,08 Jun,2002,Daegu ,South Africa,1:0 (1:0),Slovenia
+39,Round 1,Group B,12 Jun,2002,Daejeon ,South Africa,2:3 (1:2),Spain
+40,Round 1,Group B,12 Jun,2002,Jeju ,Slovenia,1:3 (1:0),Paraguay
+10,Round 1,Group C,03 Jun,2002,Ulsan ,Brazil,2:1 (0:1),Turkey
+2,Round 1,Group 1,02 Jun,1978,Buenos Aires ,Argentina,2:1 (1:1),Hungary
+3,Round 1,Group 1,02 Jun,1978,Mar Del Plata ,Italy,2:1 (1:1),France
+9,Round 1,Group 1,06 Jun,1978,Buenos Aires ,Argentina,2:1 (1:0),France
+10,Round 1,Group 1,06 Jun,1978,Mar Del Plata ,Italy,3:1 (2:0),Hungary
+61,Round 4,Semi-finals,06 Jul,2010,Cape Town ,Uruguay,2:3 (1:1),Netherlands
+62,Round 4,Semi-finals,07 Jul,2010,Durban ,Germany,0:1 (0:0),Spain
+63,Round 4,Match for third place,10 Jul,2010,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2:3 (1:1),Germany
+64,Round 5,Final,11 Jul,2010,Johannesburg ,Netherlands,0:1 a.e.t.,Spain
+38,Round 2,Round of 16,15 Jun,1986,Leon ,Soviet Union,3:4 a.e.t. (2:2 1:0),Belgium
+39,Round 2,Round of 16,16 Jun,1986,Puebla ,Argentina,1:0 (1:0),Uruguay
+40,Round 2,Round of 16,16 Jun,1986,Guadalajara ,Brazil,4:0 (1:0),Poland
+41,Round 2,Round of 16,17 Jun,1986,Mexico City ,Italy,0:2 (0:1),France
+42,Round 2,Round of 16,17 Jun,1986,Monterrey ,Morocco,0:1 (0:0),Germany FR
+43,Round 2,Round of 16,18 Jun,1986,Mexico City ,England,3:0 (1:0),Paraguay
+44,Round 2,Round of 16,18 Jun,1986,Queretaro ,Denmark,1:5 (1:1),Spain
+45,Round 3,Quarter-finals,21 Jun,1986,Guadalajara ,Brazil,1:1 a.e.t. (1:1 1:1) 3:4 PSO,France
+46,Round 3,Quarter-finals,21 Jun,1986,Monterrey ,Germany FR,0:0 a.e.t. 4:1 PSO,Mexico
+47,Round 3,Quarter-finals,22 Jun,1986,Puebla ,Spain,1:1 a.e.t. (1:1 0:1) 4:5 PSO,Belgium
+48,Round 3,Quarter-finals,22 Jun,1986,Mexico City ,Argentina,2:1 (0:0),England
+49,Round 4,Semi-finals,25 Jun,1986,Mexico City ,Argentina,2:0 (0:0),Belgium
+33,Round 2,Group A,03 Jul,1974,Gelsenkirchen ,Argentina,1:1 (1:1),German DR
+34,Round 2,Group A,03 Jul,1974,Dortmund ,Netherlands,2:0 (0:0),Brazil
+27,Round 2,Group B,26 Jun,1974,DüSseldorf ,Yugoslavia,0:2 (0:1),Germany FR
+28,Round 2,Group B,26 Jun,1974,Stuttgart ,Sweden,0:1 (0:1),Poland
+31,Round 2,Group B,30 Jun,1974,DüSseldorf ,Germany FR,4:2 (0:1),Sweden
+32,Round 2,Group B,30 Jun,1974,Frankfurt/Main ,Poland,2:1 (1:1),Yugoslavia
+35,Round 2,Group B,03 Jul,1974,Frankfurt/Main ,Poland,0:1 (0:0),Germany FR
+36,Round 2,Group B,03 Jul,1974,DüSseldorf ,Sweden,2:1 (1:1),Yugoslavia
+37,Round 2,Match for third place,06 Jul,1974,Munich ,Brazil,0:1 (0:0),Poland
+38,Round 3,Final,07 Jul,1974,Munich ,Netherlands,1:2 (1:2),Germany FR
+14,Round 1,Group 3,18 Jun,1982,Alicante ,Argentina,4:1 (2:0),Hungary
+17,Round 1,Group 3,19 Jun,1982,Elche ,Belgium,1:0 (1:0),El Salvador
+26,Round 1,Group 3,22 Jun,1982,Elche ,Belgium,1:1 (0:1),Hungary
+29,Round 1,Group 3,23 Jun,1982,Alicante ,Argentina,2:0 (1:0),El Salvador
+8,Round 1,Group 4,16 Jun,1982,Bilbao ,England,3:1 (1:1),France
+11,Round 1,Group 4,17 Jun,1982,Valladolid ,Czechoslovakia,1:1 (1:0),Kuwait
+20,Round 1,Group 4,20 Jun,1982,Bilbao ,England,2:0 (0:0),Czechoslovakia
+23,Round 1,Group 4,21 Jun,1982,Valladolid ,France,4:1 (2:0),Kuwait
+32,Round 1,Group 4,24 Jun,1982,Valladolid ,France,1:1 (0:0),Czechoslovakia
+35,Round 1,Group 4,25 Jun,1982,Bilbao ,England,1:0 (1:0),Kuwait
+9,Round 1,Group 5,16 Jun,1982,Valencia ,Spain,1:1 (0:1),Honduras
+12,Round 1,Group 5,17 Jun,1982,Zaragoza ,Yugoslavia,0:0,Northern Ireland
+12,Round 1,Group C,04 Jun,2002,Gwangju ,China PR,0:2 (0:0),Costa Rica
+26,Round 1,Group C,08 Jun,2002,Jeju ,Brazil,4:0 (3:0),China PR
+28,Round 1,Group C,09 Jun,2002,Incheon ,Costa Rica,1:1 (0:0),Turkey
+41,Round 1,Group C,13 Jun,2002,Suwon ,Costa Rica,2:5 (1:3),Brazil
+42,Round 1,Group C,13 Jun,2002,Seoul ,Turkey,3:0 (2:0),China PR
+14,Round 1,Group D,04 Jun,2002,Busan ,Korea Republic,2:0 (1:0),Poland
+16,Round 1,Group D,05 Jun,2002,Suwon ,USA,3:2 (3:1),Portugal
+30,Round 1,Group D,10 Jun,2002,Daegu ,Korea Republic,1:1 (0:1),USA
+32,Round 1,Group D,10 Jun,2002,Jeonju ,Portugal,4:0 (1:0),Poland
+47,Round 1,Group D,14 Jun,2002,Incheon ,Portugal,0:1 (0:0),Korea Republic
+48,Round 1,Group D,14 Jun,2002,Daejeon ,Poland,3:1 (2:0),USA
+2,Round 1,Group E,01 Jun,2002,Niigata ,Republic of Ireland,1:1 (0:1),Cameroon
+17,Round 1,Group 1,10 Jun,1978,Buenos Aires ,Italy,1:0 (0:0),Argentina
+18,Round 1,Group 1,10 Jun,1978,Mar Del Plata ,France,3:1 (3:1),Hungary
+1,Round 1,Group 2,01 Jun,1978,Buenos Aires ,Germany FR,0:0,Poland
+4,Round 1,Group 2,02 Jun,1978,Rosario ,Tunisia,3:1 (0:1),Mexico
+11,Round 1,Group 2,06 Jun,1978,Rosario ,Poland,1:0 (1:0),Tunisia
+12,Round 1,Group 2,06 Jun,1978,Cordoba ,Germany FR,6:0 (4:0),Mexico
+19,Round 1,Group 2,10 Jun,1978,Rosario ,Poland,3:1 (1:0),Mexico
+20,Round 1,Group 2,10 Jun,1978,Cordoba ,Germany FR,0:0,Tunisia
+5,Round 1,Group 3,03 Jun,1978,Buenos Aires ,Austria,2:1 (1:1),Spain
+6,Round 1,Group 3,03 Jun,1978,Mar Del Plata ,Sweden,1:1 (1:1),Brazil
+13,Round 1,Group 3,07 Jun,1978,Buenos Aires ,Austria,1:0 (1:0),Sweden
+50,Round 4,Semi-finals,25 Jun,1986,Guadalajara ,France,0:2 (0:1),Germany FR
+51,Round 4,Match for third place,28 Jun,1986,Puebla ,France,4:2 a.e.t. (2:2 2:1),Belgium
+52,Round 5,Final,29 Jun,1986,Mexico City ,Argentina,3:2 (1:0),Germany FR
+21,Round 1,Group 5,20 Jun,1982,Valencia ,Spain,2:1 (1:1),Yugoslavia
+24,Round 1,Group 5,21 Jun,1982,Zaragoza ,Honduras,1:1 (0:1),Northern Ireland
+33,Round 1,Group 5,24 Jun,1982,Zaragoza ,Honduras,0:1 (0:0),Yugoslavia
+36,Round 1,Group 5,25 Jun,1982,Valencia ,Northern Ireland,1:0 (0:0),Spain
+3,Round 1,Group 6,14 Jun,1982,Seville ,Brazil,2:1 (0:1),Soviet Union
+6,Round 1,Group 6,15 Jun,1982,Malaga ,Scotland,5:2 (3:0),New Zealand
+15,Round 1,Group 6,18 Jun,1982,Seville ,Brazil,4:1 (1:1),Scotland
+18,Round 1,Group 6,19 Jun,1982,Malaga ,Soviet Union,3:0 (1:0),New Zealand
+27,Round 1,Group 6,22 Jun,1982,Malaga ,Soviet Union,2:2 (0:1),Scotland
+30,Round 1,Group 6,23 Jun,1982,Seville ,Brazil,4:0 (2:0),New Zealand
+38,Round 2,Group 1,28 Jun,1982,Barcelona ,Poland,3:0 (2:0),Belgium
+42,Round 2,Group 1,01 Jul,1982,Barcelona ,Belgium,0:1 (0:0),Soviet Union
+4,Round 1,Group E,01 Jun,2002,Sapporo ,Germany,8:0 (4:0),Saudi Arabia
+17,Round 1,Group E,05 Jun,2002,Ibaraki ,Germany,1:1 (1:0),Republic of Ireland
+19,Round 1,Group E,06 Jun,2002,Saitama ,Cameroon,1:0 (0:0),Saudi Arabia
+35,Round 1,Group E,11 Jun,2002,Shizuoka ,Cameroon,0:2 (0:0),Germany
+36,Round 1,Group E,11 Jun,2002,Yokohama ,Saudi Arabia,0:3 (0:1),Republic of Ireland
+5,Round 1,Group F,02 Jun,2002,Saitama ,England,1:1 (1:0),Sweden
+7,Round 1,Group F,02 Jun,2002,Ibaraki ,Argentina,1:0 (0:0),Nigeria
+21,Round 1,Group F,07 Jun,2002,Kobe ,Sweden,2:1 (1:1),Nigeria
+23,Round 1,Group F,07 Jun,2002,Sapporo ,Argentina,0:1 (0:1),England
+37,Round 1,Group F,12 Jun,2002,Miyagi ,Sweden,1:1 (0:0),Argentina
+38,Round 1,Group F,12 Jun,2002,Osaka ,Nigeria,0:0,England
+9,Round 1,Group G,03 Jun,2002,Niigata ,Croatia,0:1 (0:0),Mexico
+14,Round 1,Group 3,07 Jun,1978,Mar Del Plata ,Brazil,0:0,Spain
+21,Round 1,Group 3,11 Jun,1978,Buenos Aires ,Spain,1:0 (0:0),Sweden
+22,Round 1,Group 3,11 Jun,1978,Mar Del Plata ,Brazil,1:0 (1:0),Austria
+7,Round 1,Group 4,03 Jun,1978,Cordoba ,Peru,3:1 (1:1),Scotland
+8,Round 1,Group 4,03 Jun,1978,Mendoza ,Netherlands,3:0 (1:0),Iran
+15,Round 1,Group 4,07 Jun,1978,Cordoba ,Scotland,1:1 (1:0),Iran
+16,Round 1,Group 4,07 Jun,1978,Mendoza ,Netherlands,0:0,Peru
+23,Round 1,Group 4,11 Jun,1978,Cordoba ,Peru,4:1 (3:1),Iran
+24,Round 1,Group 4,11 Jun,1978,Mendoza ,Scotland,3:2 (1:1),Netherlands
+25,Round 2,Group A,14 Jun,1978,Buenos Aires ,Germany FR,0:0,Italy
+27,Round 2,Group A,14 Jun,1978,Cordoba ,Netherlands,5:1 (3:0),Austria
+29,Round 2,Group A,18 Jun,1978,Buenos Aires ,Italy,1:0 (1:0),Austria
+46,Round 2,Group 1,04 Jul,1982,Barcelona ,Poland,0:0,Soviet Union
+40,Round 2,Group 2,29 Jun,1982,Madrid ,Germany FR,0:0,England
+44,Round 2,Group 2,02 Jul,1982,Madrid ,Germany FR,2:1 (0:0),Spain
+48,Round 2,Group 2,05 Jul,1982,Madrid ,Spain,0:0,England
+39,Round 2,Group 3,29 Jun,1982,Barcelona ,Italy,2:1 (0:0),Argentina
+43,Round 2,Group 3,02 Jul,1982,Barcelona ,Argentina,1:3 (0:1),Brazil
+47,Round 2,Group 3,05 Jul,1982,Barcelona ,Italy,3:2 (2:1),Brazil
+37,Round 2,Group 4,28 Jun,1982,Madrid ,Austria,0:1 (0:1),France
+41,Round 2,Group 4,01 Jul,1982,Madrid ,Austria,2:2 (0:1),Northern Ireland
+45,Round 2,Group 4,04 Jul,1982,Madrid ,France,4:1 (1:0),Northern Ireland
+49,Round 3,Semi-finals,08 Jul,1982,Barcelona ,Poland,0:2 (0:1),Italy
+50,Round 3,Semi-finals,08 Jul,1982,Seville ,Germany FR,3:3 a.e.t. (1:1 1:1) 5:4 PSO,France
+11,Round 1,Group G,03 Jun,2002,Sapporo ,Italy,2:0 (2:0),Ecuador
+25,Round 1,Group G,08 Jun,2002,Ibaraki ,Italy,1:2 (0:0),Croatia
+27,Round 1,Group G,09 Jun,2002,Miyagi ,Mexico,2:1 (1:1),Ecuador
+43,Round 1,Group G,13 Jun,2002,Oita ,Mexico,1:1 (1:0),Italy
+44,Round 1,Group G,13 Jun,2002,Yokohama ,Ecuador,1:0 (0:0),Croatia
+13,Round 1,Group H,04 Jun,2002,Saitama ,Japan,2:2 (0:0),Belgium
+15,Round 1,Group H,05 Jun,2002,Kobe ,Russia,2:0 (0:0),Tunisia
+29,Round 1,Group H,09 Jun,2002,Yokohama ,Japan,1:0 (0:0),Russia
+31,Round 1,Group H,10 Jun,2002,Oita ,Tunisia,1:1 (1:1),Belgium
+45,Round 1,Group H,14 Jun,2002,Osaka ,Tunisia,0:2 (0:0),Japan
+46,Round 1,Group H,14 Jun,2002,Shizuoka ,Belgium,3:2 (1:0),Russia
+49,Round 2,Round of 16,15 Jun,2002,Jeju ,Germany,1:0 (0:0),Paraguay
+31,Round 2,Group A,18 Jun,1978,Cordoba ,Germany FR,2:2 (1:1),Netherlands
+33,Round 2,Group A,21 Jun,1978,Buenos Aires ,Netherlands,2:1 (0:1),Italy
+35,Round 2,Group A,21 Jun,1978,Cordoba ,Austria,3:2 (0:1),Germany FR
+26,Round 2,Group B,14 Jun,1978,Rosario ,Argentina,2:0 (1:0),Poland
+28,Round 2,Group B,14 Jun,1978,Mendoza ,Brazil,3:0 (2:0),Peru
+30,Round 2,Group B,18 Jun,1978,Rosario ,Argentina,0:0,Brazil
+32,Round 2,Group B,18 Jun,1978,Mendoza ,Poland,1:0 (0:0),Peru
+34,Round 2,Group B,21 Jun,1978,Rosario ,Argentina,6:0 (2:0),Peru
+36,Round 2,Group B,21 Jun,1978,Mendoza ,Brazil,3:1 (1:1),Poland
+37,Round 2,Match for third place,24 Jun,1978,Buenos Aires ,Brazil,2:1 (0:1),Italy
+38,Round 3,Final,25 Jun,1978,Buenos Aires ,Argentina,3:1 a.e.t. (1:1 1:0),Netherlands
+51,Round 3,Match for third place,10 Jul,1982,Alicante ,Poland,3:2 (2:1),France
+52,Round 4,Final,11 Jul,1982,Madrid ,Italy,3:1 (0:0),Germany FR
+50,Round 2,Round of 16,15 Jun,2002,Niigata ,Denmark,0:3 (0:3),England
+51,Round 2,Round of 16,16 Jun,2002,Oita ,Sweden,1:2 a.e.t. (1:1 1:1),Senegal
+52,Round 2,Round of 16,16 Jun,2002,Suwon ,Spain,1:1 a.e.t. (1:1 1:0) 3:2 PSO,Republic of Ireland
+53,Round 2,Round of 16,17 Jun,2002,Jeonju ,Mexico,0:2 (0:1),USA
+54,Round 2,Round of 16,17 Jun,2002,Kobe ,Brazil,2:0 (0:0),Belgium
+55,Round 2,Round of 16,18 Jun,2002,Miyagi ,Japan,0:1 (0:1),Turkey
+56,Round 2,Round of 16,18 Jun,2002,Daejeon ,Korea Republic,2:1 a.e.t. (1:1 0:1),Italy
+57,Round 3,Quarter-finals,21 Jun,2002,Shizuoka ,England,1:2 (1:1),Brazil
+58,Round 3,Quarter-finals,21 Jun,2002,Ulsan ,Germany,1:0 (1:0),USA
+59,Round 3,Quarter-finals,22 Jun,2002,Gwangju ,Spain,0:0 a.e.t. 3:5 PSO,Korea Republic
+60,Round 3,Quarter-finals,22 Jun,2002,Osaka ,Senegal,0:1 a.e.t.,Turkey
+61,Round 4,Semi-finals,25 Jun,2002,Seoul ,Germany,1:0 (0:0),Korea Republic
+62,Round 4,Semi-finals,26 Jun,2002,Saitama ,Brazil,1:0 (0:0),Turkey
+63,Round 4,Third place,29 Jun,2002,Daegu ,Korea Republic,2:3 (1:3),Turkey
+64,Round 5,Final,30 Jun,2002,Yokohama ,Germany,0:2 (0:0),Brazil
+1,Round 1,Group 1,11 Jul,1966,London ,England,0:0,Uruguay
+5,Round 1,Group 1,13 Jul,1966,London ,France,1:1 (0:0),Mexico
+9,Round 1,Group 1,15 Jul,1966,London ,Uruguay,2:1 (2:1),France
+13,Round 1,Group 1,16 Jul,1966,London ,England,2:0 (1:0),Mexico
+17,Round 1,Group 1,19 Jul,1966,London ,Uruguay,0:0,Mexico
+21,Round 1,Group 1,20 Jul,1966,London ,England,2:0 (1:0),France
+2,Round 1,Group 2,12 Jul,1966,Sheffield ,Germany FR,5:0 (3:0),Switzerland
+6,Round 1,Group 2,13 Jul,1966,Birmingham ,Argentina,2:1 (0:0),Spain
+10,Round 1,Group 2,15 Jul,1966,Sheffield ,Spain,2:1 (0:1),Switzerland
+14,Round 1,Group 2,16 Jul,1966,Birmingham ,Germany FR,0:0,Argentina
+18,Round 1,Group 2,19 Jul,1966,Sheffield ,Argentina,2:0 (0:0),Switzerland
+22,Round 1,Group 2,20 Jul,1966,Birmingham ,Germany FR,2:1 (1:1),Spain
+3,Round 1,Group 3,12 Jul,1966,Liverpool ,Brazil,2:0 (1:0),Bulgaria
+7,Round 1,Group 3,13 Jul,1966,Manchester ,Portugal,3:1 (1:0),Hungary
+11,Round 1,Group 3,15 Jul,1966,Liverpool ,Hungary,3:1 (1:1),Brazil
+15,Round 1,Group 3,16 Jul,1966,Manchester ,Portugal,3:0 (2:0),Bulgaria
+19,Round 1,Group 3,19 Jul,1966,Liverpool ,Portugal,3:1 (2:0),Brazil
+23,Round 1,Group 3,20 Jul,1966,Manchester ,Hungary,3:1 (2:1),Bulgaria
+4,Round 1,Group 4,12 Jul,1966,Middlesbrough ,Soviet Union,3:0 (2:0),Korea DPR
+8,Round 1,Group 4,13 Jul,1966,Sunderland ,Italy,2:0 (1:0),Chile
+12,Round 1,Group 4,15 Jul,1966,Middlesbrough ,Korea DPR,1:1 (0:1),Chile
+16,Round 1,Group 4,16 Jul,1966,Sunderland ,Soviet Union,1:0 (0:0),Italy
+20,Round 1,Group 4,19 Jul,1966,Middlesbrough ,Korea DPR,1:0 (1:0),Italy
+24,Round 1,Group 4,20 Jul,1966,Sunderland ,Soviet Union,2:1 (1:1),Chile
+25,Round 2,Quarter-finals,23 Jul,1966,London ,England,1:0 (0:0),Argentina
+26,Round 2,Quarter-finals,23 Jul,1966,Sheffield ,Germany FR,4:0 (1:0),Uruguay
+27,Round 2,Quarter-finals,23 Jul,1966,Sunderland ,Soviet Union,2:1 (1:0),Hungary
+28,Round 2,Quarter-finals,23 Jul,1966,Liverpool ,Portugal,5:3 (2:3),Korea DPR
+29,Round 3,Semi-finals,25 Jul,1966,Liverpool ,Germany FR,2:1 (1:0),Soviet Union
+30,Round 3,Semi-finals,26 Jul,1966,London ,England,2:1 (1:0),Portugal
+31,Round 3,Match for third place,28 Jul,1966,London ,Portugal,2:1 (1:1),Soviet Union
+32,Round 4,Final,30 Jul,1966,London ,England,4:2 a.e.t. (2:2 1:1),Germany FR
+7,Round 1,Group 1,08 Jun,1958,Malmö ,Argentina,1:3 (1:2),Germany FR
+8,Round 1,Group 1,08 Jun,1958,Halmstad ,Northern Ireland,1:0 (1:0),Czechoslovakia
+14,Round 1,Group 1,11 Jun,1958,Helsingborg ,Germany FR,2:2 (0:2),Czechoslovakia
+15,Round 1,Group 1,11 Jun,1958,Halmstad ,Argentina,3:1 (1:1),Northern Ireland
+23,Round 1,Group 1,15 Jun,1958,Malmö ,Germany FR,2:2 (1:1),Northern Ireland
+24,Round 1,Group 1,15 Jun,1958,Helsingborg ,Czechoslovakia,6:1 (3:0),Argentina
+39,Round 1,Group 1,17 Jun,1958,Malmö ,Northern Ireland,2:1 a.e.t. (1:1 1:1),Czechoslovakia
+3,Round 1,Group 2,08 Jun,1958,NorrköPing ,France,7:3 (2:2),Paraguay
+4,Round 1,Group 2,08 Jun,1958,Vasteras ,Yugoslavia,1:1 (1:0),Scotland
+10,Round 1,Group 2,11 Jun,1958,NorrköPing ,Paraguay,3:2 (2:1),Scotland
+11,Round 1,Group 2,11 Jun,1958,Vasteras ,Yugoslavia,3:2 (1:1),France
+19,Round 1,Group 2,15 Jun,1958,Eskilstuna ,Paraguay,3:3 (1:2),Yugoslavia
+20,Round 1,Group 2,15 Jun,1958,Orebro ,France,2:1 (2:0),Scotland
+1,Round 1,Group 3,08 Jun,1958,Solna ,Sweden,3:0 (1:0),Mexico
+3,Round 1,Group 1,16 Jun,1954,Geneva ,Brazil,5:0 (4:0),Mexico
+4,Round 1,Group 1,16 Jun,1954,Lausanne ,Yugoslavia,1:0 (1:0),France
+10,Round 1,Group 1,19 Jun,1954,Lausanne ,Brazil,1:1 a.e.t. (1:1 0:0),Yugoslavia
+11,Round 1,Group 1,19 Jun,1954,Geneva ,France,3:2 (1:0),Mexico
+1,Round 1,Group 2,23 Jun,1954,Zurich ,Germany FR,7:2 (3:1),Turkey
+1,Round 1,Group 1,24 Jun,1950,Rio De Janeiro ,Brazil,4:0 (1:0),Mexico
+5,Round 1,Group 1,25 Jun,1950,Belo Horizonte ,Yugoslavia,3:0 (0:0),Switzerland
+6,Round 1,Group 1,28 Jun,1950,Sao Paulo ,Brazil,2:2 (2:1),Switzerland
+7,Round 1,Group 1,28 Jun,1950,Porto Alegre ,Yugoslavia,4:1 (2:0),Mexico
+1,Round 1,First round,04 Jun,1938,Paris ,Switzerland,1:1 a.e.t. (1:1 1:1),Germany
+2,Round 1,First round,05 Jun,1938,Reims ,Hungary,6:0 (4:0),Dutch East Indies
+3,Round 1,First round,05 Jun,1938,Paris/Colombes ,France,3:1 (2:1),Belgium
+4,Round 1,First round,05 Jun,1938,Toulouse ,Cuba,3:3 a.e.t. (2:2 1:1),Romania
+5,Round 1,First round,05 Jun,1938,Marseilles ,Italy,2:1 a.e.t. (1:1 1:0),Norway
+6,Round 1,First round,05 Jun,1938,Strasbourg ,Brazil,6:5 a.e.t. (4:4 3:1),Poland
+1,Round 1,Group 1,30 May,1962,Arica ,Uruguay,2:1 (0:1),Colombia
+5,Round 1,Group 1,31 May,1962,Arica ,Soviet Union,2:0 (0:0),Yugoslavia
+9,Round 1,Group 1,02 Jun,1962,Arica ,Yugoslavia,3:1 (2:1),Uruguay
+13,Round 1,Group 1,03 Jun,1962,Arica ,Soviet Union,4:4 (3:1),Colombia
+2,Round 1,Group 3,08 Jun,1958,Sandviken ,Hungary,1:1 (1:1),Wales
+9,Round 1,Group 3,11 Jun,1958,Solna ,Mexico,1:1 (0:1),Wales
+16,Round 1,Group 3,12 Jun,1958,Solna ,Sweden,2:1 (1:0),Hungary
+17,Round 1,Group 3,15 Jun,1958,Solna ,Sweden,0:0,Wales
+18,Round 1,Group 3,15 Jun,1958,Sandviken ,Hungary,4:0 (1:0),Mexico
+33,Round 1,Group 3,17 Jun,1958,Solna ,Wales,2:1 (0:1),Hungary
+5,Round 1,Group 4,08 Jun,1958,Gothenburg ,Soviet Union,2:2 (1:0),England
+6,Round 1,Group 4,08 Jun,1958,Udevalla ,Brazil,3:0 (1:0),Austria
+12,Round 1,Group 4,11 Jun,1958,Gothenburg ,Brazil,0:0,England
+13,Round 1,Group 4,11 Jun,1958,Boras ,Soviet Union,2:0 (1:0),Austria
+5,Round 1,Group 2,17 Jun,1954,Berne ,Germany FR,4:1 (1:1),Turkey
+8,Round 1,Group 2,17 Jun,1954,Zurich ,Hungary,9:0 (4:0),Korea Republic
+14,Round 1,Group 2,20 Jun,1954,Basel ,Hungary,8:3 (3:1),Germany FR
+15,Round 1,Group 2,20 Jun,1954,Geneva ,Turkey,7:0 (4:0),Korea Republic
+1,Round 1,Group 3,16 Jun,1954,Berne ,Uruguay,2:0 (0:0),Czechoslovakia
+2,Round 1,Group 3,16 Jun,1954,Zurich ,Austria,1:0 (1:0),Scotland
+9,Round 1,Group 3,19 Jun,1954,Zurich ,Austria,5:0 (4:0),Czechoslovakia
+12,Round 1,Group 3,19 Jun,1954,Basel ,Uruguay,7:0 (2:0),Scotland
+6,Round 1,Group 4,17 Jun,1954,Basel ,England,4:4 a.e.t. (3:3 2:1),Belgium
+7,Round 1,Group 4,17 Jun,1954,Lausanne ,Switzerland,2:1 (1:1),Italy
+13,Round 1,Group 4,20 Jun,1954,Berne ,England,2:0 (1:0),Switzerland
+16,Round 1,Group 4,20 Jun,1954,Lugano ,Italy,4:1 (1:0),Belgium
+11,Round 1,Group 1,01 Jul,1950,Rio De Janeiro ,Brazil,2:0 (1:0),Yugoslavia
+14,Round 1,Group 1,02 Jul,1950,Porto Alegre ,Switzerland,2:1 (2:0),Mexico
+2,Round 1,Group 2,25 Jun,1950,Rio De Janeiro ,England,2:0 (1:0),Chile
+3,Round 1,Group 2,25 Jun,1950,Curitiba ,Spain,3:1 (0:1),USA
+8,Round 1,Group 2,29 Jun,1950,Rio De Janeiro ,Spain,2:0 (2:0),Chile
+10,Round 1,Group 2,29 Jun,1950,Belo Horizonte ,USA,1:0 (1:0),England
+12,Round 1,Group 2,02 Jul,1950,Rio De Janeiro ,Spain,1:0 (0:0),England
+15,Round 1,Group 2,02 Jul,1950,Recife ,Chile,5:2 (2:0),USA
+4,Round 1,Group 3,25 Jun,1950,Sao Paulo ,Sweden,3:2 (2:1),Italy
+9,Round 1,Group 3,29 Jun,1950,Curitiba ,Sweden,2:2 (2:1),Paraguay
+13,Round 1,Group 3,02 Jul,1950,Sao Paulo ,Italy,2:0 (1:0),Paraguay
+7,Round 1,First round,05 Jun,1938,Le Havre ,Czechoslovakia,3:0 a.e.t.,Netherlands
+8,Round 1,First round,09 Jun,1938,Toulouse ,Cuba,2:1 (0:1),Romania
+9,Round 1,First round,09 Jun,1938,Paris ,Switzerland,4:2 (1:2),Germany
+10,Round 2,Quarter-finals,12 Jun,1938,Bordeaux ,Brazil,1:1 a.e.t. (1:1 1:0),Czechoslovakia
+11,Round 2,Quarter-finals,12 Jun,1938,Lille ,Hungary,2:0 (1:0),Switzerland
+12,Round 2,Quarter-finals,12 Jun,1938,Antibes ,Sweden,8:0 (4:0),Cuba
+13,Round 2,Quarter-finals,12 Jun,1938,Paris/Colombes ,Italy,3:1 (1:1),France
+14,Round 2,Quarter-finals,14 Jun,1938,Bordeaux ,Brazil,2:1 (0:1),Czechoslovakia
+15,Round 3,Semi-finals,16 Jun,1938,Paris ,Hungary,5:1 (3:1),Sweden
+16,Round 3,Semi-finals,16 Jun,1938,Marseilles ,Italy,2:1 (0:0),Brazil
+17,Round 1,Group 1,06 Jun,1962,Arica ,Soviet Union,2:1 (1:0),Uruguay
+21,Round 1,Group 1,07 Jun,1962,Arica ,Yugoslavia,5:0 (2:0),Colombia
+2,Round 1,Group 2,30 May,1962,Santiago De Chile ,Chile,3:1 (1:1),Switzerland
+6,Round 1,Group 2,31 May,1962,Santiago De Chile ,Germany FR,0:0,Italy
+10,Round 1,Group 2,02 Jun,1962,Santiago De Chile ,Chile,2:0 (0:0),Italy
+14,Round 1,Group 2,03 Jun,1962,Santiago De Chile ,Germany FR,2:1 (1:0),Switzerland
+18,Round 1,Group 2,06 Jun,1962,Santiago De Chile ,Germany FR,2:0 (1:0),Chile
+22,Round 1,Group 2,07 Jun,1962,Santiago De Chile ,Italy,3:0 (1:0),Switzerland
+3,Round 1,Group 3,30 May,1962,Vina Del Mar ,Brazil,2:0 (0:0),Mexico
+7,Round 1,Group 3,31 May,1962,Vina Del Mar ,Czechoslovakia,1:0 (0:0),Spain
+1,Round 1,Preliminary round,27 May,1934,Bologna ,Sweden,3:2 (1:1),Argentina
+2,Round 1,Preliminary round,27 May,1934,Turin ,Austria,3:2 a.e.t. (1:1 1:1),France
+3,Round 1,Preliminary round,27 May,1934,Florence ,Germany,5:2 (1:2),Belgium
+4,Round 1,Preliminary round,27 May,1934,Genoa ,Spain,3:1 (3:0),Brazil
+5,Round 1,Preliminary round,27 May,1934,Naples ,Hungary,4:2 (2:2),Egypt
+6,Round 1,Preliminary round,27 May,1934,Milan ,Switzerland,3:2 (2:1),Netherlands
+21,Round 1,Group 4,15 Jun,1958,Gothenburg ,Brazil,2:0 (1:0),Soviet Union
+22,Round 1,Group 4,15 Jun,1958,Boras ,England,2:2 (0:1),Austria
+37,Round 1,Group 4,17 Jun,1958,Gothenburg ,Soviet Union,1:0 (0:0),England
+25,Round 2,Quarter-finals,19 Jun,1958,Solna ,Sweden,2:0 (0:0),Soviet Union
+26,Round 2,Quarter-finals,19 Jun,1958,NorrköPing ,France,4:0 (1:0),Northern Ireland
+27,Round 2,Quarter-finals,19 Jun,1958,Gothenburg ,Brazil,1:0 (0:0),Wales
+28,Round 2,Quarter-finals,19 Jun,1958,Malmö ,Germany FR,1:0 (1:0),Yugoslavia
+29,Round 3,Semi-finals,24 Jun,1958,Solna ,Brazil,5:2 (2:1),France
+30,Round 3,Semi-finals,24 Jun,1958,Gothenburg ,Sweden,3:1 (1:1),Germany FR
+31,Round 3,Match for third place,28 Jun,1958,Gothenburg ,France,6:3 (3:1),Germany FR
+32,Round 4,Final,29 Jun,1958,Solna ,Brazil,5:2 (2:1),Sweden
+211,Round 1,Group 4,23 Jun,1954,Basel ,Switzerland,4:1 (1:0),Italy
+17,Round 2,Quarter-finals,27 Jun,1954,Geneva ,Germany FR,2:0 (1:0),Yugoslavia
+18,Round 2,Quarter-finals,27 Jun,1954,Berne ,Hungary,4:2 (2:1),Brazil
+19,Round 2,Quarter-finals,26 Jun,1954,Lausanne ,Austria,7:5 (5:4),Switzerland
+20,Round 2,Quarter-finals,26 Jun,1954,Basel ,Uruguay,4:2 (2:1),England
+21,Round 3,Semi-finals,30 Jun,1954,Basel ,Germany FR,6:1 (1:0),Austria
+22,Round 3,Semi-finals,30 Jun,1954,Lausanne ,Hungary,4:2 a.e.t. (2:2 1:0),Uruguay
+23,Round 3,Match for third place,03 Jul,1954,Zurich ,Austria,3:1 (1:1),Uruguay
+24,Round 4,Final,04 Jul,1954,Berne ,Germany FR,3:2 (2:2),Hungary
+16,Round 1,Group 4,02 Jul,1950,Belo Horizonte ,Uruguay,8:0 (4:0),Bolivia
+17,Round 2,Group 6,09 Jul,1950,Sao Paulo ,Uruguay,2:2 (1:2),Spain
+18,Round 2,Group 6,09 Jul,1950,Rio De Janeiro ,Brazil,7:1 (3:0),Sweden
+19,Round 2,Group 6,13 Jul,1950,Rio De Janeiro ,Brazil,6:1 (3:0),Spain
+20,Round 2,Group 6,13 Jul,1950,Sao Paulo ,Uruguay,3:2 (1:2),Sweden
+21,Round 2,Group 6,16 Jul,1950,Sao Paulo ,Sweden,3:1 (2:0),Spain
+22,Round 2,Group 6,16 Jul,1950,Rio De Janeiro ,Uruguay,2:1 (0:0),Brazil
+17,Round 3,Match for third place,19 Jun,1938,Bordeaux ,Brazil,4:2 (1:2),Sweden
+18,Round 4,Final,19 Jun,1938,Paris/Colombes ,Italy,4:2 (3:1),Hungary
+11,Round 1,Group 3,02 Jun,1962,Vina Del Mar ,Brazil,0:0,Czechoslovakia
+15,Round 1,Group 3,03 Jun,1962,Vina Del Mar ,Spain,1:0 (0:0),Mexico
+19,Round 1,Group 3,06 Jun,1962,Vina Del Mar ,Brazil,2:1 (0:1),Spain
+23,Round 1,Group 3,07 Jun,1962,Vina Del Mar ,Mexico,3:1 (2:1),Czechoslovakia
+4,Round 1,Group 4,30 May,1962,Rancagua ,Argentina,1:0 (1:0),Bulgaria
+8,Round 1,Group 4,31 May,1962,Rancagua ,Hungary,2:1 (1:0),England
+12,Round 1,Group 4,02 Jun,1962,Rancagua ,England,3:1 (2:0),Argentina
+16,Round 1,Group 4,03 Jun,1962,Rancagua ,Hungary,6:1 (4:0),Bulgaria
+20,Round 1,Group 4,06 Jun,1962,Rancagua ,Hungary,0:0,Argentina
+24,Round 1,Group 4,07 Jun,1962,Rancagua ,England,0:0,Bulgaria
+25,Round 2,Quarter-finals,10 Jun,1962,Arica ,Chile,2:1 (2:1),Soviet Union
+26,Round 2,Quarter-finals,10 Jun,1962,Santiago De Chile ,Yugoslavia,1:0 (0:0),Germany FR
+7,Round 1,Preliminary round,27 May,1934,Rome ,Italy,7:1 (3:0),USA
+8,Round 1,Preliminary round,27 May,1934,Trieste ,Czechoslovakia,2:1 (0:1),Romania
+9,Round 2,Quarter-finals,31 May,1934,Turin ,Czechoslovakia,3:2 (1:1),Switzerland
+10,Round 2,Quarter-finals,31 May,1934,Milan ,Germany,2:1 (0:0),Sweden
+11,Round 2,Quarter-finals,31 May,1934,Florence ,Italy,1:1 a.e.t. (1:1 1:1),Spain
+12,Round 2,Quarter-finals,31 May,1934,Bologna ,Austria,2:1 (1:0),Hungary
+13,Round 2,Quarter-finals,01 Jun,1934,Florence ,Italy,1:0 (1:0),Spain
+14,Round 3,Semi-finals,03 Jun,1934,Milan ,Italy,1:0 (1:0),Austria
+27,Round 2,Quarter-finals,10 Jun,1962,Vina Del Mar ,Brazil,3:1 (1:1),England
+28,Round 2,Quarter-finals,10 Jun,1962,Rancagua ,Czechoslovakia,1:0 (1:0),Hungary
+29,Round 3,Semi-finals,13 Jun,1962,Santiago De Chile ,Brazil,4:2 (2:1),Chile
+30,Round 3,Semi-finals,13 Jun,1962,Vina Del Mar ,Czechoslovakia,3:1 (0:0),Yugoslavia
+31,Round 3,Match for third place,16 Jun,1962,Santiago De Chile ,Chile,1:0 (0:0),Yugoslavia
+32,Round 4,Final,17 Jun,1962,Santiago De Chile ,Brazil,3:1 (1:1),Czechoslovakia
+15,Round 3,Semi-finals,03 Jun,1934,Rome ,Czechoslovakia,3:1 (1:0),Germany
+16,Round 3,Match for third place,07 Jun,1934,Naples ,Germany,3:2 (3:1),Austria
+17,Round 4,Final,10 Jun,1934,Rome ,Italy,2:1 a.e.t. (1:1 0:0),Czechoslovakia
+1,Round 1,Group A,12 Jun,2014,Sao Paulo ,Brazil,3:1,Croatia
+2,Round 1,Group A,13 Jun,2014,Natal ,Mexico,1:0,Cameroon
+3,Round 1,Group B,13 Jun,2014,Salvador,Spain,1:5,Netherlands
+4,Round 1,Group B,13 Jun,2014,Cuiaba ,Chile,3:1,Australia
+5,Round 1,Group C,14 Jun,2014,Belo Horizonte ,Colombia,3:0,Greece
+7,Round 1,Group D,14 Jun,2014,Fortaleza ,Uruguay,1:3,Costa Rica
+8,Round 1,Group D,14 Jun,2014,Manaus ,England,1:2,Italy
+6,Round 1,Group C,14 Jun,2014,Recife ,Côte d'Ivoire,2:1,Japan
+9,Round 1,Group E,15 Jun,2014,Brasilia ,Switzerland,2:1,Ecuador
+10,Round 1,Group E,15 Jun,2014,Porto Alegre ,France,3:0,Honduras
+11,Round 1,Group F,15 Jun,2014,Rio De Janeiro ,Argentina,2:1,Bosnia and Herzegovina
+13,Round 1,Group G,16 Jun,2014,Salvador,Germany,4:0,Portugal
+12,Round 1,Group F,16 Jun,2014,Curitiba ,Iran,0:0,Nigeria
+14,Round 1,Group G,16 Jun,2014,Natal ,Ghana,1:2,USA
+15,Round 1,Group H,17 Jun,2014,Belo Horizonte ,Belgium,2:1,Algeria
+17,Round 1,Group A,17 Jun,2014,Fortaleza ,Brazil,0:0,Mexico
+16,Round 1,Group H,17 Jun,2014,Cuiaba ,Russia,1:1,Korea Republic
+20,Round 1,Group B,18 Jun,2014,Porto Alegre ,Australia,2:3,Netherlands
+19,Round 1,Group B,18 Jun,2014,Rio De Janeiro ,Spain,0:2,Chile
+18,Round 1,Group A,18 Jun,2014,Manaus ,Cameroon,0:4,Croatia
+21,Round 1,Group C,19 Jun,2014,Brasilia ,Colombia,2:1,Côte d'Ivoire
+23,Round 1,Group D,19 Jun,2014,Sao Paulo ,Uruguay,2:1,England
+22,Round 1,Group C,19 Jun,2014,Natal ,Japan,0:0,Greece
+24,Round 1,Group D,20 Jun,2014,Recife ,Italy,0:1,Costa Rica
+25,Round 1,Group E,20 Jun,2014,Salvador,Switzerland,2:5,France
+26,Round 1,Group E,20 Jun,2014,Curitiba ,Honduras,1:2,Ecuador
+27,Round 1,Group F,21 Jun,2014,Belo Horizonte ,Argentina,1:0,Iran
+29,Round 1,Group G,21 Jun,2014,Fortaleza ,Germany,2:2,Ghana
+28,Round 1,Group F,21 Jun,2014,Cuiaba ,Nigeria,1:0,Bosnia and Herzegovina
+31,Round 1,Group H,22 Jun,2014,Rio De Janeiro ,Belgium,1:0,Russia
+32,Round 1,Group H,22 Jun,2014,Porto Alegre ,Korea Republic,2:4,Algeria
+30,Round 1,Group G,22 Jun,2014,Manaus ,USA,2:2,Portugal
+36,Round 1,Group B,23 Jun,2014,Sao Paulo ,Netherlands,2:0,Chile
+35,Round 1,Group B,23 Jun,2014,Curitiba ,Australia,0:3,Spain
+33,Round 1,Group A,23 Jun,2014,Brasilia ,Cameroon,1:4,Brazil
+34,Round 1,Group A,23 Jun,2014,Recife ,Croatia,1:3,Mexico
+39,Round 1,Group D,24 Jun,2014,Natal ,Italy,0:1,Uruguay
+40,Round 1,Group D,24 Jun,2014,Belo Horizonte ,Costa Rica,0:0,England
+37,Round 1,Group C,24 Jun,2014,Cuiaba ,Japan,1:4,Colombia
+38,Round 1,Group C,24 Jun,2014,Fortaleza ,Greece,2:1,Côte d'Ivoire
+43,Round 1,Group F,25 Jun,2014,Porto Alegre ,Nigeria,2:3,Argentina
+44,Round 1,Group F,25 Jun,2014,Salvador,Bosnia and Herzegovina,3:1,Iran
+41,Round 1,Group E,25 Jun,2014,Manaus ,Honduras,0:3,Switzerland
+42,Round 1,Group E,25 Jun,2014,Rio De Janeiro ,Ecuador,0:0,France
+46,Round 1,Group G,26 Jun,2014,Brasilia ,Portugal,2:1,Ghana
+45,Round 1,Group G,26 Jun,2014,Recife ,USA,0:1,Germany
+47,Round 1,Group H,26 Jun,2014,Sao Paulo ,Korea Republic,0:1,Belgium
+48,Round 1,Group H,26 Jun,2014,Curitiba ,Algeria,1:1,Russia
+49,Round 2,Round of 16,28 Jun,2014,Belo Horizonte ,Brazil,1:1 PSO (3 : 2),Chile
+50,Round 2,Round of 16,28 Jun,2014,Rio De Janeiro ,Colombia,2:0,Uruguay
+51,Round 2,Round of 16,29 Jun,2014,Fortaleza ,Netherlands,2:1,Mexico
+52,Round 2,Round of 16,29 Jun,2014,Recife ,Costa Rica,1:1 PSO (5 : 3),Greece
+53,Round 2,Round of 16,30 Jun,2014,Brasilia ,France,2:0,Nigeria
+54,Round 2,Round of 16,30 Jun,2014,Porto Alegre ,Germany,2:1 AET,Algeria
+55,Round 2,Round of 16,01 Jul,2014,Sao Paulo ,Argentina,1:0 AET,Switzerland
+56,Round 2,Round of 16,01 Jul,2014,Salvador,Belgium,2:1 AET,USA
+58,Round 3,Quarter-finals,04 Jul,2014,Rio De Janeiro ,France,0:1,Germany
+57,Round 3,Quarter-finals,04 Jul,2014,Fortaleza ,Brazil,2:1,Colombia
+60,Round 3,Quarter-finals,05 Jul,2014,Brasilia ,Argentina,1:0,Belgium
+59,Round 3,Quarter-finals,05 Jul,2014,Salvador,Netherlands,0:0 PSO (4 : 3),Costa Rica
+61,Round 4,Semi-finals,08 Jul,2014,Belo Horizonte ,Brazil,1:7,Germany
+62,Round 4,Semi-finals,09 Jul,2014,Sao Paulo ,Netherlands,0:0 PSO (2 : 4),Argentina
+63,Round 4,Play-off for third place,12 Jul,2014,Brasilia ,Brazil,0:3,Netherlands
+64,Round 5,Final,13 Jul,2014,Rio De Janeiro ,Germany,1:0 AET,Argentina
+1,Round 1,Group 1,13 Jul,1930,Montevideo ,France,4:1 (3:0),Mexico
+5,Round 1,Group 1,15 Jul,1930,Montevideo ,Argentina,1:0 (0:0),France
+6,Round 1,Group 1,16 Jul,1930,Montevideo ,Chile,3:0 (1:0),Mexico
+10,Round 1,Group 1,19 Jul,1930,Montevideo ,Chile,1:0 (0:0),France
+11,Round 1,Group 1,19 Jul,1930,Montevideo ,Argentina,6:3 (3:1),Mexico
+15,Round 1,Group 1,22 Jul,1930,Montevideo ,Argentina,3:1 (2:1),Chile
+3,Round 1,Group 2,14 Jul,1930,Montevideo ,Yugoslavia,2:1 (2:0),Brazil
+7,Round 1,Group 2,17 Jul,1930,Montevideo ,Yugoslavia,4:0 (0:0),Bolivia
+12,Round 1,Group 2,20 Jul,1930,Montevideo ,Brazil,4:0 (1:0),Bolivia
+4,Round 1,Group 3,14 Jul,1930,Montevideo ,Romania,3:1 (1:0),Peru
+9,Round 1,Group 3,18 Jul,1930,Montevideo ,Uruguay,1:0 (0:0),Peru
+14,Round 1,Group 3,21 Jul,1930,Montevideo ,Uruguay,4:0 (4:0),Romania
+2,Round 1,Group 4,13 Jul,1930,Montevideo ,USA,3:0 (2:0),Belgium
+8,Round 1,Group 4,17 Jul,1930,Montevideo ,USA,3:0 (2:0),Paraguay
+13,Round 1,Group 4,20 Jul,1930,Montevideo ,Paraguay,1:0 (1:0),Belgium
+16,Round 2,Semi-finals,26 Jul,1930,Montevideo ,Argentina,6:1 (1:0),USA
+17,Round 2,Semi-finals,27 Jul,1930,Montevideo ,Uruguay,6:1 (3:1),Yugoslavia
+18,Round 3,Final,30 Jul,1930,Montevideo ,Uruguay,4:2 (1:2),Argentina
