@@ -1,8 +1,12 @@
+'''This script allows a user to enter a trim id of a car and then outputs the trim ids of cars
+that are similar to the car the user entered.'''
+
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import euclidean_distances
 import sys
 
+# Determines how many words of the trim in each row of the data frame are also in the user's car's trim
 def trimSimilarity(df, trim):
     trimList = trim.split(' ')
     simList = []
@@ -16,6 +20,7 @@ def trimSimilarity(df, trim):
     df['trim_similarity'] = simList
     return df
 
+# Finds how similar the car in each row of the data frame is to the user's car
 def findDistances(df, trimdf):
     carsParameters = df[0:][['msrp', 'invoice', 'pct_discount', 'n_ind_transactions', 'trim_similarity']]
     trimParameters = trimdf[0:][['msrp', 'invoice', 'pct_discount', 'n_ind_transactions', 'trim_similarity']]
@@ -44,12 +49,13 @@ def main():
                 if(len(trimData) == 0):
                     print '%s is not a valid trim ID.  Please try again.' % trimID
                 else:
-                    trimData['trim_similarity'] = len(trimData.iloc[0]['trim'])
+                    trimTrim = trimData.iloc[0]['trim']
+                    trimTrimList = trimTrim.split(' ')
+                    trimData['trim_similarity'] = len(trimTrimList)
             except ValueError:
                 print '%s is not a valid trim ID.  Please try again.' % trimID
             
     trimBody = trimData.iloc[0]['tc_body']
-    trimTrim = trimData.iloc[0]['trim']
 
     filtered_cars = carData[(carData['trim_id'] != trimID) & (carData['tc_body'] == trimBody)]
     filtered_cars = trimSimilarity(filtered_cars, trimTrim)

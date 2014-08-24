@@ -1,3 +1,6 @@
+'''This script requests data from an API in JSON format and then outputs the data into a 
+CSV file.'''
+
 from urllib2 import Request, urlopen, URLError
 import pandas as pd
 import json

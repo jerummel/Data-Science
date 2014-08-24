@@ -1,3 +1,6 @@
+'''This script reads in 2 data files and outputs the differences between the two files to a
+CSV file.'''
+
 import pandas as pd
 
 def report_diff(x):
