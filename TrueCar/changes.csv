@@ -1,0 +1,781 @@
+Action,locked,name,emptySlots,longitude,installed,latitude,temporary,@ID,bikesAvailable
+Modified,False,"River Street , Clerkenwell",8 | 10,-0.109970527,True,51.52916347,False,1,10 | 9
+Modified,False,"Phillimore Gardens, Kensington",1 | 33,-0.197574246,True,51.49960695,False,2,36 | 4
+Modified,False,"Christopher Street, Liverpool Street",13 | 29,-0.084605692,True,51.52128377,False,3,19 | 2
+Modified,False,"St. Chad's Street, King's Cross",7 | 6,-0.120973687,True,51.53005939,False,4,14 | 16
+Modified,False,"Sedding Street, Sloane Square",8 | 16,-0.156876,True,51.49313,False,5,19 | 11
+Deleted,False,"Broadcasting House, Marylebone",12,-0.144228881,True,51.51811784,False,6,0
+Modified,False,"Charlbert Street, St. John's Wood",8 | 0,-0.1680743,True,51.53430039,False,7,8 | 15
+Modified,False,"Lodge Road, St. John's Wood",10 | 13,-0.170134484,True,51.52834133,False,8,8 | 5
+Modified,False,"New Globe Walk, Bankside",1 | 18,-0.096440751,True,51.5073853,False,9,17 | 0
+Modified,False,"Park Street, Bankside",14 | 8,-0.092754157,True,51.50597426,False,10,1 | 10
+Modified,False,"Brunswick Square, Bloomsbury",21 | 4,-0.122502346,True,51.52395143,False,11,2 | 19
+Added,False,"Malet Street, Bloomsbury",41,-0.130431727,True,51.52168078,False,12,8
+Modified,False,"Scala Street, Fitzrovia",20,-0.136039674,True,51.51991453,False,13,1 | 0
+Modified,False,"Belgrove Street , King's Cross",0,-0.123616824,True,51.52994371,False,14,20 | 18
+Modified,False,"Great Russell Street, Bloomsbury",19 | 26,-0.127854211,True,51.51772703,False,15,1 | 0
+Modified,False,"Cartwright Gardens , Bloomsbury",1 | 8,-0.125979294,True,51.52635795,False,16,19 | 12
+Modified,False,"Hatton Wall, Holborn",21 | 22,-0.109006325,True,51.5216612,False,17,2 | 4
+Modified,False,"Drury Lane, Covent Garden",23 | 24,-0.12221963,True,51.51477076,False,18,0 | 3
+Modified,False,"Taviton Street, Bloomsbury",17 | 14,-0.131161087,True,51.52505093,False,19,13 | 16
+Modified,False,"Drummond Street , Euston",24 | 11,-0.135273468,True,51.52773634,False,20,2 | 16
+Modified,False,"Hampstead Road (Cartmel), Euston",14 | 6,-0.13884627,True,51.53007835,False,21,2 | 9
+Modified,False,"Northington Street , Holborn",17 | 14,-0.114079481,True,51.5222641,False,22,1 | 4
+Modified,False,"Red Lion Square, Holborn",12 | 15,-0.119123345,True,51.51943538,False,23,1 | 0
+Modified,False,"British Museum, Bloomsbury",34,-0.124678402,True,51.51908011,False,24,0 | 1
+Modified,False,"Doric Way , Somers Town",25 | 11,-0.132250369,True,51.5288338,False,25,5 | 17
+Modified,False,"Ampton Street , Clerkenwell",1 | 0,-0.11829517,True,51.52728093,False,26,20 | 21
+Modified,False,"Bouverie Street, Temple",12 | 33,-0.107927706,True,51.51382102,False,27,4 | 0
+Modified,False,"Bolsover Street, Fitzrovia",17 | 15,-0.143613641,True,51.52351808,False,28,1 | 2
+Modified,False,"Hereford Road, Bayswater",13 | 12,-0.193487,True,51.513735,False,29,9 | 10
+Modified,False,"Windsor Terrace, Hoxton",14 | 13,-0.093421615,True,51.52915444,False,30,9 | 11
+Modified,False,"Fanshaw Street, Hoxton",12 | 18,-0.083353323,True,51.52953709,False,31,21 | 15
+Modified,False,"Leonard Circus , Shoreditch",24 | 15,-0.084439283,True,51.52469624,False,32,15 | 27
+Modified,False,"Altab Ali Park, Whitechapel",3 | 5,-0.067827542,True,51.51681603,False,33,10
+Modified,False,"Pancras Road, King's Cross",11 | 10,-0.129386874,True,51.5341235,False,34,5 | 6
+Unchanged,False,"De Vere Gardens, Kensington",20,-0.184980612,True,51.50173726,False,36,8
+Deleted,False,"Penywern Road, Earl's Court",0,-0.19236925600000002,True,51.49159394,False,37,17
+Modified,False,"Abingdon Villas, Kensington",0 | 4,-0.197245586,True,51.4973875,False,38,16 | 13
+Modified,False,"Shoreditch High Street, Shoreditch",0 | 27,-0.078130921,True,51.5263778,False,39,36 | 14
+Modified,False,"Commercial Street, Shoreditch",1 | 11,-0.0755789,True,51.52127071,False,40,15 | 5
+Modified,False,"Sun Street, Liverpool Street",15 | 22,-0.083911168,True,51.52001715,False,41,8 | 3
+Modified,False,"Wenlock Road , Hoxton",1 | 2,-0.093903825,True,51.53099181,False,42,27 | 25
+Modified,False,"Crawford Street, Marylebone",11 | 10,-0.157183945,True,51.52026,False,43,4 | 8
+Modified,False,"Bruton Street, Mayfair",20 | 11,-0.144165239,True,51.51073687,False,44,0
+Modified,False,"Harewood Avenue, Marylebone",7 | 17,-0.163849118,True,51.52231968,False,45,11 | 0
+Modified,False,"Nesham Street, Wapping",0 | 4,-0.06691,True,51.507131,False,46,16 | 12
+Modified,False,"Warwick Avenue Station, Maida Vale",7 | 1,-0.183846408,True,51.52334476,False,47,11 | 18
+Modified,False,"Godliman Street, St. Paul's",18 | 23,-0.099141408,True,51.51248445,False,48,6 | 2
+Modified,False,"Curzon Street, Mayfair",15 | 13,-0.145904427,True,51.50706909,False,49,1 | 3
+Modified,False,"East Road, Hoxton",20 | 13,-0.087459376,True,51.52867339,False,50,4 | 14
+Modified,False,"Finsbury Library , Finsbury",18 | 28,-0.104298194,True,51.52671796,False,51,11 | 1
+Modified,False,"Roscoe Street, St. Luke's",14 | 8,-0.094934859,True,51.52295439,False,52,3 | 10
+Unchanged,False,"Grafton Street, Mayfair",18,-0.14349526599999998,True,51.50999229999999,False,53,0
+Modified,False,"Golden Lane, Barbican",23 | 25,-0.094475072,True,51.52174785,False,54,1 | 2
+Modified,False,"Finsbury Circus, Liverpool Street",16 | 30,-0.086685542,True,51.51707521,False,55,10 | 0
+Modified,False,"Paddington Street, Marylebone",8 | 13,-0.154701411,True,51.52058381,False,56,6 | 3
+Modified,False,"Guilford Street , Bloomsbury",33 | 21,-0.120202614,True,51.52334672,False,57,2 | 17
+Modified,False,"New Inn Yard, Shoreditch",8 | 20,-0.079248081,True,51.52452699,False,58,12 | 0
+Modified,False,"Rodney Street, Angel",3 | 7,-0.114329032,True,51.53176825,False,59,26 | 22
+Modified,False,"Lisson Grove, St. John's Wood",17 | 15,-0.172190727,True,51.52644828,False,60,1 | 3
+Modified,False,"Great Dover Street, Borough",0 | 3,-0.089446947,True,51.49738251,False,61,33 | 28
+Modified,False,"Cotton Garden Estate, Kennington",11 | 9,-0.106323685,True,51.4907579,False,62,12 | 13
+Modified,False,"Murray Grove , Hoxton",9 | 1,-0.089782579,True,51.53089041,False,63,17 | 24
+Modified,False,"William IV Street, Strand",3 | 26,-0.124749274,True,51.50946212,False,64,21 | 0
+Modified,False,"Gower Place , Euston",16 | 17,-0.13518856,True,51.52522753,False,65,1 | 0
+Modified,False,"Holborn Circus, Holborn",36 | 38,-0.108657431,True,51.51795029,False,66,1 | 0
+Unchanged,False,"Hatton Garden, Holborn",26,-0.10802847199999999,True,51.51882555,False,67,2
+Modified,False,"Theobalds Road , Holborn",12 | 24,-0.116688468,True,51.52059681,False,68,13 | 2
+Modified,False,"Euston Road, Euston",16 | 9,-0.134407652,True,51.5262363,False,69,8 | 13
+Modified,False,"Calshot Street , King's Cross",9 | 11,-0.117069978,True,51.53136059,False,70,14 | 13
+Modified,False,"Newgate Street , St. Paul's",29 | 31,-0.098850915,True,51.5154186,False,71,0
+Modified,False,"Farringdon Lane, Clerkenwell",0 | 15,-0.108340165,True,51.52352001,False,72,16 | 1
+Modified,False,"Old Street Station, St. Luke's",15 | 33,-0.088486188,True,51.52572618,False,73,16 | 2
+Modified,False,"Vauxhall Cross, Vauxhall",1 | 5,-0.124469948,True,51.48591714,False,74,15 | 12
+Modified,False,"Torrens Street, Angel",9 | 18,-0.105480698,True,51.53219984,False,75,8 | 1
+Modified,False,"Longford Street, Regent's Park",17 | 12,-0.144083893,True,51.52559505,False,76,3 | 9
+Modified,False,"Russell Square Station, Bloomsbury",5 | 8,-0.124121774,True,51.52341837,False,77,20 | 18
+Modified,False,"Sadlers Sports Centre, Finsbury",14 | 9,-0.099489485,True,51.52486887,False,78,1 | 8
+Deleted,False,"Wansey Street, Walworth",4,-0.09714647900000001,True,51.49118143,False,79,13
+Modified,False,"Webber Street , Southwark",10 | 20,-0.102091246,True,51.50069361,False,80,12 | 4
+Modified,False,"Great Titchfield Street, Fitzrovia",17 | 18,-0.141327271,True,51.52025302,False,81,0
+Modified,False,"Chancery Lane, Holborn",10 | 13,-0.111257,True,51.514274,False,82,5 | 2
+Modified,False,"Panton Street, West End",15 | 20,-0.131510949,True,51.50963938,False,83,6 | 0
+Modified,False,"Breams Buildings, Holborn",7 | 24,-0.111778348,True,51.51593725,False,84,16 | 1
+Modified,False,"Tanner Street, Bermondsey",0 | 2,-0.078600401,True,51.50064702,False,85,19 | 13
+Modified,False,"Sancroft Street, Vauxhall",5 | 3,-0.115156562,True,51.48947903,False,86,19 | 21
+Modified,False,"Devonshire Square, Liverpool Street",9 | 15,-0.079684557,True,51.51646835,False,87,6 | 1
+Modified,False,"Bayley Street , Bloomsbury",22 | 25,-0.132053392,True,51.51858757,False,88,0
+Modified,False,"Tavistock Place, Bloomsbury",0 | 1,-0.123509611,True,51.5262503,False,89,15 | 17
+Modified,False,"Harrington Square, Camden Town",27 | 19,-0.139174593,True,51.53301907,False,90,0 | 8
+Modified,False,"Walnut Tree Walk, Vauxhall",2 | 0,-0.111014912,True,51.49368637,False,91,17 | 19
+Modified,False,"Borough Road, Elephant & Castle",7 | 11,-0.100440521,True,51.49889832,False,92,34 | 29
+Modified,False,"Cloudesley Road, Angel",1 | 14,-0.109025404,True,51.53440868,False,93,18 | 23
+Modified,False,"Bricklayers Arms, Borough",0 | 7,-0.085814489,True,51.49506109,False,94,27 | 21
+Modified,False,"Aldersgate Street, Barbican",12 | 9,-0.097340162,True,51.5208417,False,95,2 | 4
+Modified,False,"Falkirk Street, Hoxton",3 | 23,-0.078505384,True,51.53095071,False,96,21 | 2
+Added,False,"Gloucester Road (North), Kensington",14,-0.18383470600000001,True,51.49792478,False,97,3
+Modified,False,"Hampstead Road, Euston",52 | 20,-0.138231303,True,51.52554222,False,98,1 | 33
+Modified,False,"Old Quebec Street, Marylebone",15 | 9,-0.158264483,True,51.51457763,False,99,0 | 7
+Modified,False,"Albert Embankment, Vauxhall",1 | 4,-0.122806861,True,51.49043573,False,100,23 | 19
+Modified,False,"Queen Street, Bank",16 | 21,-0.0929401,True,51.51155322,False,101,2 | 1
+Modified,False,"Jewry Street, Aldgate",10 | 17,-0.076793375,True,51.51340693,False,102,7 | 0
+Modified,False,"Vicarage Gate, Kensington",18 | 5,-0.192538767,True,51.50472376,False,103,0 | 13
+Added,False,"Crosswall, Tower",33,-0.077121322,True,51.51159481,False,104,0
+Added,False,"Westbourne Grove, Bayswater",0,-0.190240716,True,51.51552971,False,105,26
+Added,False,"Woodstock Street, Mayfair",21,-0.147301667,True,51.51410514,False,106,0
+Added,False,"Finsbury Leisure Centre, St. Luke's",2,-0.09631762699999999,True,51.52600832,False,107,18
+Added,False,"Abbey Orchard Street, Westminster",29,-0.132102166,True,51.49812559,False,108,0
+Added,False,"Soho Square , Soho",32,-0.132328837,True,51.51563144,False,109,0
+Added,False,"Wellington Road, St. John's Wood",6,-0.17252867800000002,True,51.53304322,False,110,11
+Added,False,"Park Lane , Hyde Park",2,-0.157275636,True,51.5100172,False,111,26
+Added,False,"Stonecutter Street, Holborn",45,-0.105270275,True,51.51580998,False,112,1
+Added,False,"
+      Gloucester Road (Central), South Kensington
+    ",4,-0.183289032,True,51.49646288,False,113,14
+Added,False,"
+      Park Road (Baker Street), Regent's Park
+    ",12,-0.15896364699999999,True,51.52451738,False,114,10
+Added,False,"Braham Street, Aldgate",34,-0.07353765400000001,True,51.51423368,False,115,0
+Added,False,"Little Argyll Street, West End",21,-0.141423695,True,51.51449962,False,116,0
+Added,False,"Lollard Street, Vauxhall",3,-0.114934001,True,51.49288067,False,117,22
+Added,False,"Rochester Row, Westminster",12,-0.13547809,True,51.49582705,False,118,1
+Added,False,"Bath Street, St. Luke's",11,-0.090847761,True,51.52589324,False,119,7
+Added,False,"The Guildhall, Guildhall",17,-0.093080779,True,51.51573534,False,120,0
+Added,False,"Baker Street, Marylebone",19,-0.156166631,True,51.51891348,False,121,3
+Added,False,"Norton Folgate, Liverpool Street",22,-0.078869751,True,51.52111369,False,122,1
+Added,False,"St. John Street, Finsbury",9,-0.104724625,True,51.52836014,False,123,9
+Added,False,"Eaton Square, Belgravia",7,-0.150905245,True,51.49654462,False,124,13
+Added,False,"Borough High Street, The Borough",9,-0.09452431900000001,True,51.50069491,False,125,12
+Added,False,"Museum of London, Barbican",48,-0.096496865,True,51.51782144,False,126,0
+Added,False,"Wood Street, Guildhall",17,-0.09388536,True,51.51700801,False,127,0
+Added,False,"Emperor's Gate, South Kensington",4,-0.18529651600000002,True,51.49536226,False,128,18
+Added,False,"Golden Square, Soho",18,-0.137043852,True,51.5118973,False,129,0
+Added,False,"Tower Gardens , Tower",12,-0.07545948200000001,True,51.50950627,False,130,9
+Added,False,"Eversholt Street , Camden Town",13,-0.136792671,True,51.53300545,False,131,2
+Added,False,"Bethnal Green Road, Shoreditch",35,-0.074754872,True,51.52364804,False,132,0
+Added,False,"Derry Street, Kensington",17,-0.19146238100000001,True,51.50136494,False,133,1
+Added,False,"Wapping High Street, Wapping",5,-0.06797,True,51.504903999999996,False,134,15
+Added,False,"Clerkenwell Green, Clerkenwell",16,-0.104708922,True,51.52326004,False,135,5
+Added,False,"Queen Victoria Street, St. Paul's",31,-0.097441687,True,51.51196176,False,136,1
+Added,False,"Bourne Street, Belgravia",7,-0.153319609,True,51.49087475,False,137,9
+Added,False,"Green Street, Mayfair",15,-0.15743697199999998,True,51.51227622,False,138,4
+Added,False,"Lambeth Road, Vauxhall",7,-0.117974901,True,51.49488108,False,139,11
+Added,False,"Finsbury Square , Moorgate",30,-0.085634242,True,51.52096262,False,140,2
+Added,False,"Chapel Place, Marylebone",29,-0.147203711,True,51.51530805,False,141,0
+Added,False,"West Cromwell Road, Earl's Court",18,-0.198286569,True,51.49372451,False,142,4
+Added,False,"Pont Street, Knightsbridge",19,-0.16120382800000002,True,51.4968865,False,143,4
+Added,False,"Kennington Cross, Kennington",2,-0.11143579599999999,True,51.48894022,False,144,44
+Added,False,"Ilchester Place, Kensington",18,-0.202759212,True,51.50074359,False,145,6
+Added,False,"Vauxhall Bridge , Pimlico",7,-0.129361842,True,51.48836528,False,146,28
+Added,False,"Portugal Street, Holborn",15,-0.11614642,True,51.51494305,False,147,0
+Added,False,"Tachbrook Street, Victoria",1,-0.13836484699999999,True,51.49211134,False,148,15
+Added,False,"Kennington Road Post Office, Oval",0,-0.110683213,True,51.48478899,False,149,18
+Added,False,"Holy Trinity Brompton, Knightsbridge",21,-0.168917077,True,51.49705603,False,150,7
+Added,False,"Chepstow Villas, Notting Hill",16,-0.201554966,True,51.51213691,False,151,8
+Added,False,"Hampton Street, Walworth",2,-0.101536865,True,51.49217002,False,152,18
+Added,False,"Bayswater Road, Hyde Park",19,-0.174292825,True,51.51183419,False,153,7
+Added,False,"Waterloo Station 3, Waterloo",7,-0.11282408,True,51.50379168,False,154,24
+Added,False,"Lexham Gardens, Kensington",2,-0.191933711,True,51.49586666,False,155,16
+Added,False,"New Kent Road, Borough",1,-0.092921165,True,51.49443626,False,156,32
+Added,False,"Wright's Lane, Kensington",37,-0.193068385,True,51.50039792,False,157,0
+Added,False,"Trebovir Road, Earl's Court",7,-0.196170309,True,51.49085368,False,158,10
+Added,False,"Waterloo Place, St. James's",19,-0.131773845,True,51.50663341,False,160,1
+Added,False,"Guildhouse Street, Victoria",5,-0.14133448699999998,True,51.49234577,False,161,11
+Added,False,"Southampton Place, Holborn",20,-0.12132840800000001,True,51.51760685,False,162,0
+Added,False,"Sloane Avenue, Knightsbridge",14,-0.167894973,True,51.4931848,False,163,15
+Added,False,"Cleveland Gardens, Bayswater",2,-0.183118788,True,51.515607,False,164,14
+Added,False,"Orsett Terrace, Bayswater",1,-0.18371695899999999,True,51.517932,False,165,14
+Added,False,"Seville Street, Knightsbridge",13,-0.159237081,True,51.50185512,False,166,14
+Added,False,"Eccleston Place, Victoria",11,-0.147624377,True,51.49395092,False,167,8
+Added,False,"Argyll Road, Kensington",4,-0.195455928,True,51.50040123,False,168,15
+Added,False,"Porchester Place, Paddington",14,-0.16516428800000002,True,51.51474612,False,169,4
+Added,False,"Hardwick Street, Clerkenwell",19,-0.108068155,True,51.52784273,False,170,11
+Added,False,"Collingham Gardens, Earl's Court",0,-0.186753859,True,51.4916156,False,171,14
+Added,False,"Sumner Place, South Kensington",13,-0.17371591100000003,True,51.49121192,False,172,5
+Added,False,"Waterloo Roundabout, Waterloo ",3,-0.113001,True,51.50486,False,173,12
+Added,False,"Strand, Strand",36,-0.11516300000000002,True,51.512529,False,174,0
+Added,False,"Appold Street, Liverpool Street",26,-0.0811189,True,51.52174384,False,175,0
+Added,False,"Gloucester Terrace, Bayswater",6,-0.188098863,True,51.51791921,False,176,17
+Added,False,"Ashley Place, Victoria",14,-0.140947636,True,51.49616092,False,177,11
+Added,False,"Warwick Square, Pimlico",0,-0.141923621,True,51.48985626,False,178,18
+Added,False,"North Audley Street, Mayfair",9,-0.153645496,True,51.5129118,False,180,8
+Added,False,"Belgrave Square, Belgravia",3,-0.152317537,True,51.49941247,False,181,18
+Added,False,"Bell Street , Marylebone",1,-0.165842551,True,51.52202903,False,182,17
+Added,False,"Portland Place, Marylebone",33,-0.14521173,True,51.52071513,False,184,1
+Added,False,"Alderney Street, Pimlico",1,-0.140741432,True,51.48805753,False,185,13
+Added,False,"South Wharf Road, Paddington",9,-0.175810943,True,51.51733558,False,186,5
+Added,False,"
+      Queen's Gate (South), South Kensington
+    ",6,-0.17843300399999998,True,51.49247977,False,187,19
+Added,False,"Nutford Place, Marylebone",17,-0.164393768,True,51.516517900000004,False,188,1
+Added,False,"Claremont Square, Angel",11,-0.109914711,True,51.53166681,False,189,7
+Added,False,"Rampayne Street, Pimlico",5,-0.132845681,True,51.48997562,False,190,16
+Added,False,"Hyde Park Corner, Hyde Park",3,-0.153520935,True,51.50311799,False,191,21
+Added,False,"Wardour Street, Soho",14,-0.133201961,True,51.51251523,False,192,0
+Added,False,"Bankside Mix, Bankside",42,-0.10018633699999999,True,51.50581776,False,193,16
+Added,False,"Hop Exchange, The Borough",15,-0.091773776,True,51.50462759,False,194,41
+Added,False,"Milroy Walk, South Bank",15,-0.106237501,True,51.50724437,False,195,15
+Added,False,"Union Street, The Borough",9,-0.098497684,True,51.50368837,False,196,8
+Added,False,"Stamford Street, South Bank",5,-0.11160669599999999,True,51.50556905,False,197,21
+Added,False,"Great Tower Street, Monument",22,-0.082989638,True,51.51048489,False,199,2
+Added,False,"LMU Commercial Road, Whitechapel",2,-0.066078037,True,51.51492456,False,200,12
+Added,False,"Dorset Square, Marylebone",0,-0.161113413,True,51.522596500000006,False,201,16
+Added,False,"Leman Street, Aldgate",14,-0.06954201,True,51.51236389,False,202,23
+Added,False,"West Smithfield Rotunda, Farringdon",13,-0.100791005,True,51.51821864,False,203,2
+Added,False,"Margery Street, Clerkenwell",10,-0.112432615,True,51.52659961,False,204,9
+Added,False,"New Road  2, Whitechapel",5,-0.06275,True,51.518144,False,205,13
+Added,False,"New Road 1 , Whitechapel",10,-0.062697,True,51.518153999999996,False,206,8
+Added,False,"Grosvenor Crescent, Belgravia",14,-0.153194766,True,51.50135267,False,207,4
+Added,False,"Mallory Street, Marylebone",14,-0.166304359,True,51.52505151,False,208,6
+Added,False,"Denyer Street, Knightsbridge",22,-0.16510139199999999,True,51.49358391,False,209,7
+Added,False,"Hinde Street, Marylebone",20,-0.151926305,True,51.51681444,False,210,1
+Added,False,"Cadogan Place, Knightsbridge",12,-0.158105512,True,51.49464523,False,211,22
+Added,False,"Campden Hill Road, Notting Hill",13,-0.19900402600000003,True,51.50658458,False,212,4
+Added,False,"Wellington Arch, Hyde Park",32,-0.14956920099999998,True,51.50274025,False,213,3
+Added,False,"Endsleigh Gardens, Euston",11,-0.130504336,True,51.52683806,False,214,21
+Added,False,"Moorfields, Moorgate",52,-0.088285377,True,51.51906932,False,215,0
+Added,False,"Old Brompton Road, South Kensington",14,-0.181190899,True,51.49094565,False,216,16
+Added,False,"Wormwood Street, Liverpool Street",11,-0.08242239900000001,True,51.51615461,False,217,5
+Added,False,"St. Luke's Church, Chelsea",12,-0.17019440800000002,True,51.48971651,False,218,8
+Added,False,"Bramham Gardens, Earl's Court",6,-0.19039362,True,51.49016361,False,219,21
+Added,False,"Chelsea Green, Chelsea",10,-0.166485083,True,51.49066456,False,220,16
+Added,False,"Horseferry Road, Westminster",11,-0.13045856,True,51.49481649,False,221,5
+Added,False,"Knightsbridge, Hyde Park",35,-0.155349725,True,51.50275704,False,222,8
+Added,False,"Rodney Road , Walworth",1,-0.090220911,True,51.49148474,False,223,23
+Added,False,"Whiteley's, Bayswater",0,-0.18812973100000002,True,51.51476963,False,224,16
+Added,False,"Notting Hill Gate Station, Notting Hill",22,-0.196422,True,51.50935342,False,225,8
+Added,False,"Charles II Street, West End",23,-0.131961389,True,51.50844614,False,226,1
+Added,False,"Great Percy Street, Clerkenwell",6,-0.115480888,True,51.52891573,False,227,17
+Added,False,"St. James's Square, St. James's",39,-0.134621209,True,51.50742485,False,228,0
+Added,False,"Whitehall Place, Strand",21,-0.12317969699999999,True,51.50654321,False,229,3
+Added,False,"Poured Lines, Bankside",11,-0.10313742599999999,True,51.50669284,False,230,19
+Added,False,"
+      Queen's Gate (Central), South Kensington
+    ",3,-0.17873226,True,51.49396755,False,231,28
+Added,False,"Carey Street, Holborn",16,-0.11275321699999999,True,51.51501025,False,232,0
+Added,False,"Pall Mall East, West End",22,-0.130699733,True,51.50777049,False,233,0
+Added,False,"Liverpool Road (N1 Centre), Angel",13,-0.10699270599999999,True,51.53450449,False,234,11
+Added,False,"Kennington Road  , Vauxhall",1,-0.11088927400000001,True,51.49571828,False,235,35
+Added,False,"Fashion Street, Whitechapel",30,-0.073438925,True,51.51838043,False,236,0
+Added,False,"Vaughan Way, Wapping",10,-0.067176443,True,51.5084448,False,237,41
+Added,False,"Frampton Street, Paddington",12,-0.175116099,True,51.5233534,False,238,20
+Added,False,"Warren Street Station, Euston",25,-0.138019439,True,51.52443845,False,239,0
+Added,False,"Colombo Street, Southwark",12,-0.10569204,True,51.50545935,False,240,3
+Added,False,"Beaumont Street, Marylebone",21,-0.151359288,True,51.52200801,False,242,1
+Added,False,"Gloucester Street, Pimlico",1,-0.139625122,True,51.49096258,False,243,23
+Added,False,"Earnshaw Street , Covent Garden",18,-0.128585022,True,51.51611887,False,244,0
+Added,False,"Grosvenor Road, Pimlico",0,-0.142207481,True,51.4853572,False,245,28
+Added,False,"Berry Street, Clerkenwell",39,-0.09999405199999999,True,51.52285301,False,246,2
+Added,False,"
+      St. John's Wood Church, Regent's Park
+    ",23,-0.16831400000000002,True,51.530052000000005,False,247,27
+Added,False,"Triangle Car Park, Hyde Park",11,-0.170279555,True,51.50645179,False,248,16
+Added,False,"Harper Road, Borough",8,-0.096191134,True,51.49859784,False,249,34
+Added,False,"Royal Avenue 1, Chelsea",10,-0.162727,True,51.489932,False,250,0
+Added,False,"Brushfield Street, Liverpool Street",32,-0.079249,True,51.518908,False,251,1
+Added,False,"Jubilee Gardens, South Bank",18,-0.11654227800000001,True,51.5046364,False,252,11
+Added,False,"Shoreditch Park, Hoxton",0,-0.086379717,True,51.53404294,False,253,28
+Added,False,"Chadwell Street, Angel",10,-0.106408455,True,51.53051587,False,254,7
+Added,False,"Clifton Road, Maida Vale",0,-0.179592915,True,51.52557531,False,255,22
+Added,False,"Houghton Street, Strand",15,-0.11676421099999999,True,51.51362054,False,256,0
+Added,False,"Westminster University, Marylebone",15,-0.154907218,True,51.52248185,False,257,1
+Added,False,"Kensington Gore, Knightsbridge",19,-0.17865697100000003,True,51.50143293,False,258,4
+Added,False,"Embankment (Horse Guards), Westminster",20,-0.123247648,True,51.50494561,False,259,9
+Added,False,"Broadwick Street, Soho",18,-0.13558087900000002,True,51.513684600000005,False,260,0
+Added,False,"Princes Square, Bayswater",0,-0.191351186,True,51.5134891,False,261,16
+Added,False,"
+      LSBU (Borough Road), Elephant & Castle
+    ",11,-0.103132904,True,51.49874469,False,262,24
+Added,False,"St. Mary Axe, Aldgate",17,-0.080660083,True,51.51422502,False,263,3
+Added,False,"Tysoe Street, Clerkenwell",9,-0.10925682800000001,True,51.52644342,False,264,11
+Added,False,"Southwick Street, Paddington",2,-0.169249375,True,51.51595344,False,265,15
+Added,False,"Queen's Gate (North), Kensington",14,-0.18024610100000002,True,51.50102668,False,266,5
+Added,False,"Regency Street, Westminster",0,-0.13222462199999999,True,51.49206037,False,267,21
+Added,False,"Belgrave Road, Victoria",0,-0.144132875,True,51.49320445,False,268,28
+Added,False,"Empire Square, The Borough",6,-0.089740764,True,51.50082346,False,269,39
+Added,False,"Kennington Lane Rail Bridge, Vauxhall",3,-0.122492418,True,51.4863434,False,270,32
+Added,False,"London Zoo, Regents Park",24,-0.156285395,True,51.53583617,False,271,6
+Added,False,"Baylis Road, Waterloo",11,-0.11069930900000001,True,51.50144456,False,272,10
+Added,False,"Belvedere Road, South Bank",25,-0.114686385,True,51.50613324,False,273,13
+Added,False,"Warwick Road, Olympia",31,-0.20528437,True,51.49671237,False,274,5
+Added,False,"Barbican Centre, Barbican",17,-0.092176447,True,51.52004497,False,275,2
+Added,False,"Lower Thames Street, Monument",22,-0.084985356,True,51.50930161,False,276,2
+Added,False,"Kensington Church Street, Kensington",10,-0.191496313,True,51.50315739,False,277,5
+Added,False,"Tooley Street, Bermondsey",8,-0.07962099,True,51.503493799999994,False,278,9
+Added,False,"North Wharf Road, Paddington",20,-0.176645823,True,51.51862243,False,279,5
+Added,False,"Royal Avenue 2, Chelsea",9,-0.162418,True,51.490083,False,280,1
+Added,False,"Smith Square, Westminster",18,-0.127575233,True,51.49580589,False,281,0
+Added,False,"Royal London Hospital, Whitechapel",29,-0.059642081,True,51.51906446,False,282,12
+Added,False,"Kingsway, Covent Garden",13,-0.11847875699999999,True,51.51440928,False,283,3
+Added,False,"Lambeth North Station, Waterloo",9,-0.112031483,True,51.49914063,False,284,10
+Added,False,"
+      St. John's Wood Road, St. John's Wood
+    ",21,-0.174653609,True,51.527294700000006,False,286,13
+Added,False,"Bedford Way, Bloomsbury",12,-0.128377673,True,51.52367314,False,287,11
+Added,False,"Elizabeth Bridge, Victoria",0,-0.147478734,True,51.49236962,False,288,34
+Added,False,"South Audley Street, Mayfair",14,-0.151296092,True,51.50923022,False,289,1
+Added,False,"Winsland Street, Paddington",2,-0.175488803,True,51.51678023,False,290,13
+Added,False,"Claverton Street, Pimlico",1,-0.13808906199999998,True,51.48483991,False,291,30
+Added,False,"Montpelier Street, Knightsbridge",9,-0.165471605,True,51.49888404,False,292,7
+Added,False,"Kensington Olympia Station, Olympia",12,-0.209494128,True,51.49815779,False,293,13
+Added,False,"St. George's Square, Pimlico",3,-0.135635511,True,51.488226,False,294,13
+Added,False,"Swan Street, The Borough",1,-0.092762704,True,51.50029631,False,295,25
+Added,False,"Knaresborough Place, Earl's Court",0,-0.19060332600000002,True,51.49363156,False,296,18
+Added,False,"Geraldine Street, Elephant & Castle",6,-0.106000855,True,51.49612799,False,297,10
+Added,False,"Curlew Street, Shad Thames",0,-0.074189225,True,51.50227992,False,298,18
+Added,False,"Vincent Square, Westminster",4,-0.136928582,True,51.49398524,False,299,15
+Added,False,"Serpentine Car Park, Hyde Park",6,-0.17272955899999998,True,51.50501351,False,300,2
+Added,False,"Marylebone Lane, Marylebone",24,-0.148105415,True,51.51475963,False,301,0
+Added,False,"Albert Gate, Hyde Park",5,-0.158456089,True,51.50295379,False,303,19
+Added,False,"Cumberland Gate, Hyde Park",4,-0.16209757,True,51.51211869,False,304,14
+Added,False,"Kennington Lane Tesco, Vauxhall",0,-0.11585396099999999,True,51.48677988,False,305,15
+Added,False,"Rathbone Street, Fitzrovia ",15,-0.135025698,True,51.51816295,False,306,0
+Added,False,"Black Lion Gate, Kensington Gardens",3,-0.187842717,True,51.50990837,False,307,20
+Added,False,"Long Lane , Bermondsey",1,-0.08566631599999999,True,51.49907558,False,308,17
+Added,False,"Embankment (Savoy), Strand",35,-0.11904756300000001,True,51.50963123,False,309,6
+Added,False,"Black Prince Road, Vauxhall",3,-0.116911864,True,51.4908679,False,310,15
+Added,False,"Foley Street, Fitzrovia",21,-0.140485596,True,51.51918144,False,311,3
+Added,False,"Grove End Road, St. John's Wood",11,-0.176770502,True,51.53088935,False,312,9
+Added,False,"Wells Street, Fitzrovia ",37,-0.138072691,True,51.51734403,False,313,0
+Added,False,"Tyers Gate, Bermondsey",3,-0.083159352,True,51.50088934,False,314,33
+Added,False,"The Tennis Courts, Regent's Park",8,-0.153463612,True,51.52536703,False,315,7
+Added,False,"Cardinal Place, Victoria",13,-0.141943703,True,51.49768448,False,316,11
+Added,False,"Dickens Square, Borough",7,-0.093913472,True,51.49679128,False,317,23
+Added,False,"Sackville Street, Mayfair",17,-0.138846453,True,51.51004801,False,318,0
+Added,False,"Baldwin Street, St. Luke's",17,-0.08854277099999999,True,51.52702563,False,319,4
+Added,False,"Queen Mother Sports Centre, Victoria",16,-0.139956043,True,51.49357351,False,320,9
+Added,False,"Bermondsey Street, Bermondsey",3,-0.081608045,True,51.49785559,False,321,19
+Added,False,"Palissy Street, Shoreditch",6,-0.07395499999999999,True,51.526293,False,322,20
+Added,False,"Clifton Street, Shoreditch",21,-0.083067,True,51.523196,False,323,3
+Added,False,"Ontario Street, Elephant & Castle",0,-0.10138406800000001,True,51.49652013,False,324,15
+Added,False,"St. Martin's Street, West End",14,-0.129697889,True,51.50908747,False,325,4
+Added,False,"Graham Street, Angel",3,-0.099981142,True,51.53266186,False,326,23
+Added,False,"New North Road 1, Hoxton",6,-0.086016,True,51.53114,False,327,16
+Added,False,"New North Road 2, Hoxton",5,-0.085603,True,51.53095,False,328,17
+Added,False,"Prince Albert Road, Regent's Park",3,-0.160854428,True,51.53589283,False,329,21
+Added,False,"Eastbourne Mews, Paddington",25,-0.17913507899999997,True,51.51641749,False,330,8
+Added,False,"Bunhill Row, Moorgate",29,-0.089887855,True,51.52085887,False,331,0
+Added,False,"Nevern Place, Earl's Court",4,-0.19475794899999999,True,51.49334336,False,332,14
+Added,False,"Palace Gardens Terrace, Notting Hill",26,-0.193764092,True,51.50860544,False,333,9
+Added,False,"Concert Hall Approach 1, South Bank",4,-0.115851,True,51.505044,False,334,6
+Added,False,"Tavistock Street, Covent Garden",33,-0.12071875900000001,True,51.51196803,False,335,0
+Added,False,"Concert Hall Approach 2, South Bank",7,-0.115533,True,51.504942,False,336,11
+Added,False,"Pembridge Villas, Notting Hill",11,-0.19752494399999998,True,51.51108452,False,337,4
+Added,False,"Wellington Street , Strand",13,-0.119643424,True,51.51175646,False,338,1
+Added,False,"Risinghill Street, Angel",1,-0.111781191,True,51.5333196,False,339,23
+Added,False,"Bank of England Museum, Bank",16,-0.087587447,True,51.51444134,False,340,0
+Added,False,"Craven Street, Strand",22,-0.12602103,True,51.50810309,False,341,1
+Added,False,"London Zoo Car Park, Regent's Park",1,-0.150181444,True,51.53692216,False,343,34
+Added,False,"Goswell Road (City Uni), Finsbury",4,-0.10102611,True,51.528246,False,344,13
+Added,False,"Flood Street, Chelsea",17,-0.166878535,True,51.48802358,False,345,1
+Added,False,"Lower Marsh, Waterloo",14,-0.113936001,True,51.50013942,False,347,2
+Added,False,"Grosvenor Square, Mayfair",14,-0.150481272,True,51.51217033,False,348,3
+Added,False,"St. George Street, Mayfair",18,-0.142783033,True,51.511959999999995,False,349,0
+Added,False,"Queen's Gate, Kensington Gardens",8,-0.1798541843891,True,51.5017154373867,False,350,11
+Added,False,"Macclesfield Rd, St Lukes",2,-0.097122,True,51.529423,False,351,25
+Added,False,"Vauxhall Street, Vauxhall",10,-0.116625,True,51.486965000000005,False,352,9
+Added,False,"Greycoat Street , Westminster",10,-0.134234258,True,51.49459148,False,353,7
+Added,False,"Northumberland Avenue, Strand",33,-0.12370199999999999,True,51.506766999999996,False,354,4
+Added,False,"Oval Way, Lambeth",3,-0.11728599999999999,True,51.486575,False,355,18
+Added,False,"
+      South Kensington Station, South Kensington
+    ",12,-0.173881,True,51.494412,False,356,3
+Added,False,"Howland Street, Fitzrovia",30,-0.139016,True,51.520994,False,357,0
+Added,False,"High Holborn , Covent Garden",17,-0.124332175,True,51.51643491,False,358,0
+Added,False,"Butler Place, Westminster",12,-0.135440826,True,51.49782999,False,359,5
+Added,False,"Howick Place, Westminster",21,-0.138733562,True,51.49675303,False,360,7
+Added,False,"Waterloo Station 2, Waterloo",9,-0.11342628,True,51.50391972,False,361,46
+Added,False,"Royal College Street, Camden Town",33,-0.133952,True,51.536264,False,362,24
+Added,False,"Lord's, St. John's Wood",20,-0.171185284853,True,51.5291212008901,False,363,4
+Added,False,"Alfred Place, Bloomsbury",41,-0.132339,True,51.519656,False,364,0
+Added,False,"City Road, Angel",2,-0.100168,True,51.530344,False,365,43
+Added,False,"Millennium Hotel, Mayfair",27,-0.1511263847351,True,51.5109192966489,False,366,0
+Added,False,"Harrowby Street, Marylebone",11,-0.1642075,True,51.5173721,False,367,5
+Added,False,"Harriet Street, Knightsbridge",20,-0.15934065,True,51.50024195,False,368,4
+Added,False,"Paddington Green, Paddington",0,-0.174593,True,51.520205,False,370,20
+Added,False,"King Edward Walk, Waterloo",8,-0.10987999999999999,True,51.49775,False,371,14
+Added,False,"Sardinia Street, Holborn",23,-0.11786300000000001,True,51.515208,False,372,0
+Added,False,"Prince Consort Road, Knightsbridge",18,-0.176415994,True,51.49980661,False,373,0
+Added,False,"Waterloo Station 1, Waterloo",5,-0.11386435,True,51.50402793,False,374,31
+Added,False,"Kensington Town Hall, Kensington",17,-0.19439295199999998,True,51.50194596,False,375,1
+Added,False,"Millbank House, Pimlico",15,-0.125674815,True,51.49188409,False,376,9
+Added,False,"Waterloo Bridge, South Bank",3,-0.11365654300000001,True,51.50535447,False,377,10
+Added,False,"Natural History Museum, South Kensington",17,-0.17907762600000002,True,51.49559291,False,378,24
+Added,False,"Turquoise Island, Notting Hill",3,-0.200838199,True,51.51431171,False,379,17
+Added,False,"Stanhope Gate, Mayfair",19,-0.150666888,True,51.50686435,False,380,1
+Added,False,"Charlotte Street, Fitzrovia",14,-0.13577731,True,51.51953043,False,381,0
+Added,False,"Farm Street, Mayfair",15,-0.14744969,True,51.50935171,False,382,0
+Added,False,"Frith Street, Soho",18,-0.13121385,True,51.51310333,False,383,0
+Added,False,"Marloes Road, Kensington",7,-0.192404,True,51.496481,False,384,8
+Added,False,"Moor Street, Soho",13,-0.130110822,True,51.51352755,False,386,0
+Added,False,"Fire Brigade Pier, Vauxhall",16,-0.12139410099999999,True,51.49369988,False,387,14
+Added,False,"Southampton Street, Strand",13,-0.121723604,True,51.51070161,False,388,0
+Added,False,"Upper Grosvenor Street, Mayfair",18,-0.155757901,True,51.51013066,False,389,0
+Added,False,"Buxton Street 1, Bangla Town",40,-0.068856,True,51.521776,False,390,1
+Added,False,"Clifford Street, Mayfair",27,-0.142345694,True,51.51066202,False,391,0
+Added,False,"Imperial College, Knightsbridge",6,-0.17970247600000003,True,51.49942855,False,392,15
+Added,False,"Snow Hill, Farringdon",14,-0.10360424800000001,True,51.51733427,False,393,1
+Added,False,"Aberdeen Place, St. John's Wood",0,-0.176268,True,51.524826000000004,False,394,18
+Added,False,"Cadogan Gardens, Sloane Square",10,-0.159919,True,51.492461999999996,False,395,5
+Added,False,"Shouldham Street, Marylebone",13,-0.163609,True,51.51809,False,396,3
+Added,False,"Devonshire Terrace, Bayswater",5,-0.17977,True,51.51348,False,397,11
+Added,False,"Holland Park, Kensington",22,-0.200742,True,51.502319,False,398,7
+Added,False,"Brick Lane Market, Shoreditch",23,-0.071653961,True,51.52261762,False,399,1
+Added,False,"George Street, Marylebone",14,-0.154106,True,51.517703000000004,False,400,11
+Added,False,"Columbia Road, Weavers",24,-0.075375,True,51.528187,False,401,0
+Added,False,"Penfold Street, Marylebone",13,-0.171681991,True,51.52289229,False,402,2
+Added,False,"George Place Mews, Marylebone",16,-0.158249929,True,51.51689296,False,403,0
+Added,False,"Palace Gate, Kensington Gardens",2,-0.184400221,True,51.50204238,False,404,10
+Added,False,"
+      Gloucester Road Station, South Kensington
+    ",4,-0.18267094,True,51.49418566,False,405,11
+Added,False,"Speakers' Corner 2, Hyde Park",3,-0.15998800000000002,True,51.512303,False,406,19
+Added,False,"Speakers' Corner 1, Hyde Park",4,-0.16078499999999998,True,51.51222,False,407,16
+Added,False,"
+      Paddington Green Police Station, Paddington
+    ",8,-0.17070433699999998,True,51.51994326,False,408,32
+Added,False,"Strata, Southwark",9,-0.099828,True,51.493146,False,409,12
+Added,False,"Edgware Road Station, Paddington",13,-0.169774,True,51.519968,False,410,50
+Added,False,"Walworth Road, Southwark",1,-0.09968067,True,51.49337264,False,411,28
+Added,False,"Cleaver Street, Kennington",1,-0.11012100000000001,True,51.488105,False,412,16
+Added,False,"Chelsea Bridge, Pimlico",10,-0.149004,True,51.485821,False,419,4
+Added,False,"Southwark Station 1, Southwark",0,-0.10531199999999999,True,51.504042999999996,False,420,37
+Added,False,"Southwark Station 2, Southwark",16,-0.104778,True,51.504044,False,421,29
+Added,False,"Eaton Square (South), Belgravia",19,-0.15393398,True,51.49456127,False,423,12
+Added,False,"Ebury Bridge, Pimlico",13,-0.14918599999999999,True,51.490491,False,424,15
+Added,False,"Harrington Square 2, Camden Town",7,-0.139159,True,51.533379,False,425,30
+Added,False,"Vincent Street, Pimlico",0,-0.129925,True,51.493072,False,426,17
+Added,False,"Cheapside, Bank",41,-0.09294031,True,51.51397065,False,427,2
+Added,False,"Exhibition Road, South Kensington",19,-0.174554,True,51.499916999999996,False,428,0
+Added,False,"South Parade, Chelsea",15,-0.17524,True,51.489020000000004,False,430,2
+Added,False,"Crinan Street, King's Cross",13,-0.12220299999999999,True,51.534473999999996,False,431,7
+Added,False,"Exhibition Road Museums, Knightsbridge",16,-0.173894,True,51.496957,False,432,5
+Added,False,"Wren Street, Holborn",4,-0.116279,True,51.524564,False,433,28
+Added,False,"Kennington Station, Kennington",10,-0.105593,True,51.488852,False,435,11
+Added,False,"Red Lion Street, Holborn",36,-0.11655,True,51.518240000000006,False,436,0
+Added,False,"Vauxhall Walk, Vauxhall",6,-0.120903,True,51.488124,False,437,21
+Added,False,"Killick Street, Kings Cross",1,-0.118677,True,51.5338,False,439,21
+Added,False,"Kennington Oval, Oval",6,-0.113134,True,51.483145,False,440,27
+Added,False,"Sail Street, Vauxhall",10,-0.114605,True,51.495656,False,441,14
+Added,False,"Walmer Road, Notting Hill",15,-0.211358,True,51.510101,False,442,9
+Added,False,"Philpot Street, Whitechapel",20,-0.058641,True,51.515256,False,443,9
+Added,False,"Bethnal Green Gardens, Bethnal Green",19,-0.055312,True,51.52568,False,444,5
+Added,False,"Cheshire Street, Bethnal Green",2,-0.065076,True,51.52388,False,445,26
+Added,False,"York Hall, Bethnal Green",12,-0.055894000000000006,True,51.528936,False,446,15
+Added,False,"Jubilee Crescent, Cubitt Town",37,-0.007542,True,51.493381,False,447,16
+Added,False,"Fishermans Walk West, Canary Wharf",34,-0.022959999999999998,True,51.50623,False,448,2
+Added,False,"Shadwell Station, Shadwell",8,-0.057159,True,51.511088,False,449,27
+Added,False,"Jubilee Street, Stepney",15,-0.053176999999999995,True,51.515975,False,450,13
+Added,False,"Hermitage Court, Wapping",0,-0.06353099999999999,True,51.504719,False,451,16
+Added,False,"St Katharines Way, Tower",17,-0.070542,True,51.505697,False,452,7
+Added,False,"Garnet Street, Shadwell",7,-0.055166999999999994,True,51.508447,False,453,17
+Added,False,"Napier Avenue, Millwall",1,-0.021582,True,51.487679,False,454,19
+Added,False,"East Ferry Road, Cubitt Town",3,-0.014409,True,51.49447,False,455,14
+Added,False,"Parkway, Camden Town",15,-0.14466400000000001,True,51.538071,False,456,16
+Added,False,"Castlehaven Road, Camden Town",6,-0.145393,True,51.542138,False,457,23
+Added,False,"Wapping Lane, Wapping",0,-0.057544000000000005,True,51.504749,False,458,28
+Added,False,"Burdett Road, Mile End",11,-0.029138,True,51.516196,False,460,22
+Added,False,"Aston Street, Stepney",7,-0.038775,True,51.516000000000005,False,461,19
+Added,False,"Bonny Street, Camden Town",0,-0.138853,True,51.541603,False,462,45
+Added,False,"Thurtle Road, Haggerston",8,-0.071881,True,51.534776,False,463,14
+Added,False,"St. Mary and St. Michael Church, Stepney",18,-0.052099,True,51.51417,False,464,7
+Added,False,"Pitfield Street (North),Hoxton",0,-0.08249,True,51.535579999999996,False,465,27
+Added,False,"Whiston Road, Haggerston",1,-0.07634099999999999,True,51.534464,False,466,19
+Added,False,"Southern Grove, Bow",2,-0.030556,True,51.523538,False,467,15
+Added,False,"Cantrell Road, Bow",7,-0.022694,True,51.521564,False,468,17
+Added,False,"Lindfield Street, Poplar",20,-0.020467,True,51.513757,False,469,24
+Added,False,"Mostyn Grove, Bow",18,-0.025491999999999997,True,51.530535,False,470,28
+Added,False,"Hewison Street, Old Ford",0,-0.028155,True,51.533283000000004,False,471,17
+Added,False,"Malmesbury Road, Bow",9,-0.027616,True,51.529452,False,472,12
+Added,False,"Millharbour, Millwall",4,-0.019355,True,51.496137,False,473,15
+Added,False,"Castalia Square, Cubitt Town",22,-0.011457,True,51.498125,False,474,17
+Added,False,"Lightermans Road, Millwall",38,-0.020156999999999998,True,51.499041,False,475,19
+Added,False,"Stebondale Street, Cubitt Town",7,-0.009205,True,51.489096,False,476,22
+Added,False,"Spindrift Avenue, Millwall",2,-0.018716,True,51.49109,False,477,34
+Added,False,"Stepney Green Station, Stepney",7,-0.046669999999999996,True,51.521889,False,478,11
+Added,False,"Pott Street, Bethnal Green",3,-0.058004999999999994,True,51.527152,False,479,17
+Added,False,"Flamborough Street, Limehouse",4,-0.038986599999999996,True,51.5128711,False,480,21
+Added,False,"Saunders Ness Road, Cubitt Town",14,-0.009001,True,51.487128999999996,False,481,21
+Added,False,"Thornfield House, Poplar",15,-0.02377,True,51.509843,False,482,11
+Added,False,"Albert Gardens, Stepney",4,-0.047784,True,51.51328,False,483,29
+Added,False,"Bromley High Street, Bromley",17,-0.013258,True,51.528828000000004,False,484,7
+Added,False,"Old Ford Road, Bethnal Green",0,-0.048017000000000004,True,51.531127000000005,False,485,24
+Added,False,"Granby Street, Shoreditch",1,-0.069543,True,51.525645000000004,False,486,36
+Added,False,"Canton Street, Poplar",2,-0.025626,True,51.511811,False,487,21
+Added,False,"Reardon Street, Wapping",0,-0.058681,True,51.506946,False,488,22
+Added,False,"Christian Street, Whitechapel",1,-0.06409400000000001,True,51.513073999999996,False,489,33
+Added,False,"Pennington Street, Wapping",31,-0.065006,True,51.508621999999995,False,490,14
+Added,False,"Queen Marys, Mile End",30,-0.041378,True,51.522507,False,491,15
+Added,False,"The Green Bridge, Mile End",24,-0.03562,True,51.524677000000004,False,492,39
+Added,False,"South Quay East, Canary Wharf",26,-0.016250999999999998,True,51.50196,False,494,10
+Added,False,"Bow Church Station, Bow",0,-0.018703,True,51.528169,False,495,37
+Added,False,"Devons Road, Bow",3,-0.015578,True,51.52512,False,496,36
+Added,False,"Coborn Street, Mile End",1,-0.028619,True,51.526534999999996,False,497,25
+Added,False,"Bow Road Station, Bow",22,-0.025296000000000003,True,51.527058000000004,False,498,20
+Added,False,"Furze Green, Bow",10,-0.021345,True,51.519265000000004,False,499,26
+Added,False,"Sidney Street, Stepney",8,-0.055730999999999996,True,51.519806,False,500,33
+Added,False,"Cephas Street, Bethnal Green",3,-0.054883,True,51.522560999999996,False,501,21
+Added,False,"South Quay West, Canary Wharf",38,-0.022702,True,51.502635,False,502,22
+Added,False,"Cleveland Way, Bethnal Green",18,-0.051394,True,51.520893,False,503,18
+Added,False,"St John's Park, Cubitt Town",16,-0.009506,True,51.496454,False,504,14
+Added,False,"Ackroyd Drive, Bow",2,-0.026768,True,51.520398,False,505,27
+Added,False,"Bell Lane, Liverpool Street",21,-0.07585499999999999,True,51.517475,False,506,2
+Added,False,"Clarkson Street, Bethnal Green",9,-0.059091,True,51.528692,False,507,22
+Added,False,"Fournier Street, Whitechapel",16,-0.074431,True,51.519362,False,508,0
+Added,False,"Fore Street, Guildhall",19,-0.090075,True,51.517842,False,509,0
+Added,False,"Westferry DLR, Limehouse",23,-0.025996,True,51.509303,False,510,14
+Added,False,"Sutton Street, Shadwell",15,-0.053558,True,51.511066,False,511,17
+Added,False,"Pritchard's Road, Bethnal Green",3,-0.06142,True,51.532090999999994,False,512,26
+Added,False,"Watney Market, Stepney",28,-0.055656,True,51.51422279999999,False,513,23
+Added,False,"Portman Square, Marylebone",14,-0.155525,True,51.516203999999995,False,514,3
+Added,False,"Russell Gardens, Holland Park",2,-0.21131599999999998,True,51.500088,False,515,22
+Added,False,"Chrisp Street Market, Poplar",2,-0.014438,True,51.5112,False,516,16
+Added,False,"Ford Road, Old Ford",2,-0.033085,True,51.532513,False,517,16
+Added,False,"Antill Road, Mile End",1,-0.037471,True,51.528224,False,518,29
+Added,False,"Teviot Street, Poplar",8,-0.011662,True,51.518811,False,519,25
+Added,False,"Bancroft Road, Bethnal Green",6,-0.047218,True,51.526041,False,520,14
+Added,False,"Driffield Road, Old Ford",0,-0.037366,True,51.534137,False,521,19
+Added,False,"Clinton Road, Mile End",17,-0.036017,True,51.525940999999996,False,522,19
+Added,False,"Langdon Park, Poplar",13,-0.013475,True,51.51549,False,523,11
+Added,False,"Lancaster Gate , Bayswater",21,-0.179668,True,51.511654,False,524,16
+Added,False,"Churchill Place, Canary Wharf",11,-0.014293,True,51.504714,False,525,7
+Added,False,"Lancaster Drive, Blackwall",24,-0.008428,True,51.503143,False,526,3
+Added,False,"Hansard Mews, Shepherds Bush",13,-0.215808,True,51.503802,False,527,7
+Added,False,"Clarges Street, West End",15,-0.14582699999999998,True,51.507326,False,528,1
+Added,False,"Manresa Road, Chelsea",18,-0.170983,True,51.486892,False,529,0
+Added,False,"Newby Place, Poplar",0,-0.012412999999999999,True,51.508896,False,530,17
+Added,False,"Twig Folly Bridge, Mile End",10,-0.042744,True,51.530326,False,531,11
+Added,False,"Jubilee Plaza, Canary Wharf",58,-0.020068,True,51.50357,False,532,5
+Added,False,"Wellington Row, Bethnal Green",18,-0.069743,True,51.528222,False,533,15
+Added,False,"Goldsmiths Row, Haggerston",1,-0.066035,True,51.531864,False,534,26
+Added,False,"Gloucester Avenue, Camden Town",6,-0.147154,True,51.537349,False,535,18
+Added,False,"Queensbridge Road, Haggerston",13,-0.06992000000000001,True,51.53385,False,536,21
+Added,False,"Old Montague Street, Whitechapel",8,-0.067937,True,51.51793,False,537,10
+Added,False,"Naval Row, Blackwall",4,-0.0069900000000000006,True,51.508981,False,538,17
+Added,False,"Hoxton Station, Haggerston",4,-0.075901,True,51.531090999999996,False,539,18
+Added,False,"Albany Street, Regent's Park",1,-0.144466,True,51.528302000000004,False,540,26
+Added,False,"Green Park Station, West End",26,-0.142844,True,51.506613,False,541,2
+Added,False,"Salmon Lane, Limehouse",5,-0.033828,True,51.514115000000004,False,542,27
+Added,False,"Lansdowne Walk, Notting Hill",6,-0.20466600000000001,True,51.509591,False,543,15
+Added,False,"Percival Street, Finsbury",11,-0.10220800000000001,True,51.526153,False,544,10
+Added,False,"Arlington Road, Camden Town",13,-0.14524600000000001,True,51.539957,False,545,10
+Added,False,"New Fetter Lane, Holborn",21,-0.10798699999999999,True,51.517428,False,546,0
+Added,False,"East India DLR, Blackwall",2,-0.002275,True,51.509474,False,547,48
+Added,False,"
+      Westminster Bridge Road, Elephant & Castle
+    ",14,-0.10791300000000001,True,51.498385999999996,False,548,12
+Added,False,"Gaywood  Street, Elephant & Castle",3,-0.10419300000000001,True,51.49605,False,549,41
+Added,False,"Harford Street, Mile End",13,-0.039264,True,51.521564,False,550,10
+Added,False,"Montgomery Square, Canary Wharf",21,-0.016233,True,51.503446999999994,False,551,18
+Added,False,"Watney Street, Shadwell",13,-0.056666999999999995,True,51.511542,False,552,14
+Added,False,"Regent's Row , Haggerston ",2,-0.062546,True,51.535678000000004,False,553,21
+Added,False,"Aberfeldy Street, Poplar",5,-0.005659,True,51.513548,False,554,11
+Added,False,"
+      Westfield Eastern Access Road, Shepherd's Bush
+    ",40,-0.219712,True,51.509423999999996,False,555,15
+Added,False,"Heron Quays DLR, Canary Wharf",18,-0.021596,True,51.502660999999996,False,556,8
+Added,False,"King Edward Street, St Pauls",15,-0.0985,True,51.516009999999994,False,557,4
+Added,False,"Page Street, Westminster",15,-0.127554,True,51.493978000000006,False,558,8
+Added,False,"Abbotsbury Road, Holland Park",15,-0.20599099999999998,True,51.501391,False,559,9
+Added,False,"Ladbroke Grove Central, Notting Hill",16,-0.205921,True,51.511624,False,560,5
+Added,False,"Rectory Square, Stepney",1,-0.043371,True,51.518369,False,561,20
+Added,False,"Bury Place, Holborn",21,-0.12335,True,51.51746,False,562,0
+Added,False,"Preston's Road, Cubitt Town",6,-0.009152,True,51.499286,False,563,20
+Added,False,"Somerset House, Strand",20,-0.117619,True,51.509943,False,564,20
+Added,False,"Selby Street, Whitechapel",13,-0.063386,True,51.521905,False,565,4
+Added,False,"Westfield Ariel Way, White City",26,-0.22410300000000002,True,51.509158,False,566,16
+Added,False,"Bishop's Bridge Road West, Bayswater",3,-0.18697,True,51.51616,False,568,15
+Added,False,"Pitfield Street Central, Hoxton",2,-0.08299,True,51.53213,False,569,20
+Added,False,"Upper Bank Street, Canary Wharf",29,-0.017676,True,51.503083000000004,False,570,7
+Added,False,"
+      Westfield Southern Terrace ,Shepherd's Bush
+    ",3,-0.21833699999999998,True,51.506256,False,571,25
+Added,False,"Greenland Road, Camden Town",6,-0.141728,True,51.539099,False,572,29
+Added,False,"Limerston Street, Chelsea",9,-0.18119000000000002,True,51.485587,False,573,9
+Added,False,"Eagle Wharf Road, Hoxton",4,-0.09315,True,51.533559999999994,False,574,40
+Added,False,"Alpha Grove, Millwall",12,-0.022793,True,51.497304,False,576,11
+Added,False,"Globe Town Market, Bethnal Green",11,-0.047548,True,51.528869,False,577,9
+Added,False,"Hollybush Gardens, Bethnal Green",5,-0.057133,True,51.527607,False,578,23
+Added,False,"Queen Street 2, Bank",36,-0.093051,True,51.511246,False,579,0
+Added,False,"Doddington Grove, Kennington",7,-0.102996299,True,51.48692917,False,580,29
+Added,False,"New Cavendish Street, Marylebone",17,-0.147983,True,51.519166999999996,False,581,0
+Added,False,"Abingdon Green, Great College Street",17,-0.125978,True,51.497622,False,583,2
+Added,False,"Ilchester Gardens, Bayswater",6,-0.19096,True,51.512440000000005,False,584,15
+Added,False,"Mudchute DLR, Cubitt Town",23,-0.014582,True,51.490645,False,586,8
+Added,False,"Monument Street, Monument",21,-0.08497,True,51.509640000000005,False,587,1
+Added,False,"Hoxton Street, Hoxton",1,-0.0801,True,51.52959,False,588,26
+Added,False,"Drayton Gardens, Chelsea",3,-0.179369,True,51.487196000000004,False,589,15
+Added,False,"Greenberry Street, St.John's Wood",20,-0.16862,True,51.53256,False,590,6
+Added,False,"
+      Westfield Library Corner, Shepherd's Bush
+    ",23,-0.2242237,True,51.506093,False,591,4
+Added,False,"Bishop's Bridge Road East, Bayswater",5,-0.18377000000000002,True,51.5171,False,592,15
+Added,False,"Northdown Street, King's Cross",1,-0.11934000000000002,True,51.531065999999996,False,593,20
+Added,False,"Kingsway Southbound, Strand",32,-0.117774,True,51.513875,False,594,1
+Added,False,"Hammersmith Road, Hammersmith",11,-0.21985,True,51.493266999999996,False,595,3
+Added,False,"Parson's Green , Parson's Green",17,-0.199783,True,51.472817,False,596,3
+Added,False,"Fulham Park Road, Fulham",11,-0.20781999999999998,True,51.473471,False,597,16
+Added,False,"Southerton Road, Hammersmith",33,-0.228188,True,51.494499,False,598,5
+Added,False,"Manbre Road, Hammersmith",18,-0.22361599999999998,True,51.485743,False,599,9
+Added,False,"South Lambeth Road, Vauxhall",0,-0.124642,True,51.481747,False,600,21
+Added,False,"BBC White City, White City",30,-0.225787,True,51.514767,False,601,6
+Added,False,"Union Grove, Wandsworth Road",4,-0.133972,True,51.472993,False,602,41
+Added,False,"Caldwell Street, Stockwell",5,-0.11649300000000001,True,51.477839,False,603,38
+Added,False,"St Martin's Close, Camden Town",4,-0.138535,True,51.538792,False,604,13
+Added,False,"Seymour Place, Marylebone",21,-0.163667,True,51.520331,False,605,8
+Added,False,"Addison Road, Holland Park",19,-0.210941,True,51.504199,False,606,7
+Added,False,"Putney Bridge Station, Fulham",14,-0.210279,True,51.468814,False,607,7
+Added,False,"Colet Gardens, Hammersmith",26,-0.216493,True,51.491093,False,608,4
+Added,False,"Sugden Road, Battersea",3,-0.157788279,True,51.46512358,False,609,15
+Added,False,"Danvers Street, West Chelsea",13,-0.172078187,True,51.48256792,False,610,8
+Added,False,"Princedale Road , Holland Park",13,-0.208486599,True,51.50646524,False,611,7
+Added,False,"
+      Wandsworth Rd, Isley Court, Wandsworth Road
+    ",3,-0.141812513,True,51.46925984,False,612,27
+Added,False,"Woodstock Grove, Shepherd's Bush",18,-0.21740009300000002,True,51.50403821,False,613,6
+Added,False,"Bradmead, Nine Elms",6,-0.144690541,True,51.47817208,False,614,34
+Added,False,"Finlay Street, Fulham",0,-0.21589560100000002,True,51.476885100000004,False,615,18
+Added,False,"Aintree Street, Fulham",1,-0.20997349699999998,True,51.48102131,False,616,23
+Added,False,"Elysium Place, Fulham",13,-0.20784290800000002,True,51.47107905,False,617,8
+Added,False,"Eel Brook Common, Walham Green",11,-0.193254007,True,51.47625965,False,618,12
+Added,False,"Irene Road, Parsons Green",42,-0.19701009600000002,True,51.4737636,False,619,1
+Added,False,"Surrey Lane, Battersea",2,-0.167160736,True,51.47518024,False,620,26
+Added,False,"Wandsworth Town Station, Wandsworth",13,-0.187427294,True,51.46086446,False,621,19
+Added,False,"Lansdowne Road, Ladbroke Grove",19,-0.20553590800000002,True,51.50748124,False,622,10
+Added,False,"Nantes Close, Wandsworth",2,-0.18079178399999998,True,51.46193072,False,623,19
+Added,False,"Courland Grove, Wandsworth Road",0,-0.13210270400000002,True,51.4729184,False,624,40
+Added,False,"Queen's Circus, Battersea Park",10,-0.149551631,True,51.47761941,False,625,17
+Added,False,"Normand Park, Fulham",0,-0.20481514,True,51.48438657,False,626,23
+Added,False,"Holden Street, Battersea",0,-0.158230901,True,51.468790500000004,False,627,20
+Added,False,"William Morris Way, Sands End",3,-0.184318843,True,51.46881971,False,628,22
+Added,False,"Morie Street, Wandsworth",3,-0.190184054,True,51.45995384,False,629,25
+Added,False,"Clarence Walk, Stockwell",2,-0.12699406800000002,True,51.47073264,False,630,26
+Added,False,"Battersea Park Road, Nine Elms",18,-0.141770709,True,51.47950170000001,False,631,9
+Added,False,"Sheepcote Lane, Battersea",0,-0.163041605,True,51.47053858,False,632,27
+Added,False,"Vereker Road, West Kensington",19,-0.20937859399999997,True,51.48959104,False,633,13
+Added,False,"Brook Green South, Brook Green",23,-0.21580455899999998,True,51.49434708,False,634,9
+Added,False,"Greyhound Road, Hammersmith",9,-0.214428378,True,51.48606206,False,635,28
+Added,False,"South Park, Sands End",26,-0.19350207600000002,True,51.46706414,False,636,2
+Added,False,"Spencer Park, Wandsworth Common",7,-0.17469162300000002,True,51.45787019,False,637,18
+Added,False,"Falcon Road, Clapham Junction",9,-0.169821175,True,51.46663393,False,638,19
+Added,False,"Coomer Place, West Kensington",1,-0.202038682,True,51.48357068,False,639,26
+Added,False,"Silverthorne Road, Battersea",11,-0.148059277,True,51.47286577,False,640,17
+Added,False,"Archbishop's Park, Waterloo",20,-0.117495865,True,51.49824168,False,641,3
+Added,False,"Fawcett Close, Battersea",25,-0.174485792,True,51.46916161,False,642,11
+Added,False,"All Saints' Road, Portobello",11,-0.204764421,True,51.5190427,False,643,11
+Added,False,"Rainville Road, Hammersmith",13,-0.22385225600000003,True,51.48373225,False,644,20
+Added,False,"Great Suffolk Street, The Borough",3,-0.100292412,True,51.50173215,False,645,18
+Added,False,"Buckingham Gate, Westminster",12,-0.137424571,True,51.49886563,False,646,4
+Added,False,"Richmond Way, Shepherd's Bush",10,-0.217515071,True,51.50035306,False,647,17
+Added,False,"Peterborough Road, Sands End",19,-0.19627483,True,51.46904022,False,648,10
+Added,False,"World's End Place, West Chelsea",13,-0.18027465,True,51.48180515,False,649,8
+Added,False,"St. Mark's Road, North Kensington",11,-0.21387239600000002,True,51.51687069,False,650,11
+Added,False,"Thorndike Close, West Chelsea",17,-0.18385357300000002,True,51.48089844,False,651,8
+Added,False,"Evesham Street, Avondale",26,-0.218190203,True,51.51148696,False,652,3
+Added,False,"Simpson Street, Battersea",1,-0.17070367,True,51.47084722,False,653,23
+Added,False,"Ashmole Estate, Oval",18,-0.117661574,True,51.48267821,False,654,16
+Added,False,"Crabtree Lane, Fulham",20,-0.219346128,True,51.48294452,False,655,7
+Added,False,"Broomhouse Lane, Parsons Green",6,-0.199135704,True,51.46841875,False,656,23
+Added,False,"Blythe Road West, Shepherd's Bush",16,-0.221791552,True,51.499680600000005,False,657,3
+Added,False,"Ethelburga Estate, Battersea Park",11,-0.16478637,True,51.47729232,False,658,19
+Added,False,"Grant Road West, Clapham Junction",41,-0.17461940399999998,True,51.46437067,False,659,15
+Added,False,"West Kensington Station, West Kensington",0,-0.20602974300000002,True,51.49087074,False,660,21
+Added,False,"All Saints Church, Portobello",13,-0.202608612,True,51.51632095,False,661,23
+Added,False,"Phene Street, Chelsea",20,-0.16791986899999997,True,51.48498496,False,662,4
+Added,False,"Clarendon Road, Avondale",17,-0.211593602,True,51.51323001,False,663,7
+Added,False,"Austin Road, Battersea",7,-0.155442787,True,51.474376,False,664,17
+Added,False,"Smugglers Way, Wandsworth",17,-0.191722864,True,51.46108367,False,665,11
+Added,False,"Olympia Way, Olympia",26,-0.20815825899999998,True,51.49610093,False,666,12
+Added,False,"
+      Shepherd's Bush Road North, Shepherd's Bush
+    ",14,-0.222293381,True,51.5015946,False,667,20
+Added,False,"Ravenscourt Park Station, Hammersmith",5,-0.23676993600000001,True,51.49422354,False,668,20
+Added,False,"Ashley Crescent, Battersea",11,-0.152248582,True,51.46718562,False,670,17
+Added,False,"Parsons Green Station, Parsons Green",44,-0.201968,True,51.475089000000004,False,671,12
+Added,False,"Grant Road Central, Clapham Junction",19,-0.17365654600000002,True,51.46468839999999,False,672,9
+Added,False,"Hibbert Street, Battersea",15,-0.18038939,True,51.46517078,False,673,21
+Added,False,"Carnegie Street, King's Cross",24,-0.11619105,True,51.53546778,False,674,16
+Added,False,"Usk Road, Battersea",20,-0.18212624800000002,True,51.46348914,False,675,10
+Added,False,"Hartington Road, Stockwell",2,-0.126874471,True,51.47787084,False,676,32
+Added,False,"Heath Road, Battersea",10,-0.146544642,True,51.46866929,False,677,17
+Added,False,"Esmond Street, Putney",0,-0.211468596,True,51.46231278,False,678,29
+Added,False,"Orbel Street, Battersea",11,-0.170210533,True,51.47453545,False,679,15
+Added,False,"Westbridge Road, Battersea",0,-0.17032931699999998,True,51.47768469,False,680,27
+Added,False,"Bishop's Avenue, Fulham",13,-0.21474980800000001,True,51.47303687,False,681,32
+Added,False,"Crisp Road, Hammersmith",30,-0.22660621,True,51.48810829,False,682,16
+Added,False,"Dorothy Road, Clapham Junction",2,-0.163750945,True,51.46506424,False,683,26
+Added,False,"Neville Gill Close, Wandsworth",16,-0.195197203,True,51.45475251,False,684,16
+Added,False,"Osiers Road, Wandsworth",19,-0.198735357,True,51.46067005,False,685,11
+Added,False,"Beryl Road, Hammersmith",4,-0.22245646800000002,True,51.48814438,False,686,22
+Added,False,"Maclise Road, Olympia",6,-0.21145598,True,51.49760804,False,687,20
+Added,False,"Northfields, Wandsworth",7,-0.20066766,True,51.46095151,False,688,21
+Added,False,"Spanish Road, Wandsworth",22,-0.18088495899999998,True,51.45922541,False,689,7
+Added,False,"Stanley Grove, Battersea",11,-0.152130083,True,51.47047503,False,690,13
+Added,False,"Erin Close, Walham Green",5,-0.195777222,True,51.47946386,False,691,18
+Added,False,"Cadogan Close, Victoria Park",6,-0.028941601,True,51.54211855,False,692,16
+Added,False,"Felsham Road, Putney",1,-0.215618902,True,51.464786,False,693,17
+Added,False,"Putney Rail Station, Putney",9,-0.216526155,True,51.46071722,False,694,10
+Added,False,"Islington Green, Angel",3,-0.102757578,True,51.53638435,False,695,18
+Added,False,"Charing Cross Hospital, Hammersmith",11,-0.217995921,True,51.48728535,False,696,9
+Added,False,"Charlotte Terrace, Angel",0,-0.112721065,True,51.53639219,False,697,25
+Added,False,"Shoreditch Court, Haggerston",5,-0.070329419,True,51.53908372,False,698,29
+Added,False,"Belford House, Haggerston",20,-0.07023031,True,51.5366541,False,699,17
+Added,False,"Battersea Church Road, Battersea",16,-0.17434706600000002,True,51.47696496,False,700,7
+Added,False,"Vicarage Crescent, Battersea",2,-0.176267008,True,51.47287627,False,701,28
+Added,False,"Durant Street, Bethnal Green",14,-0.065550321,True,51.52868155,False,702,10
+Added,False,"St. Bride Street, Holborn",24,-0.10534448,True,51.51505991,False,703,0
+Added,False,"Mexfield Road, East Putney",4,-0.20280209800000001,True,51.45682071,False,704,14
+Added,False,"Upper Richmond Road, East Putney",20,-0.21214593899999998,True,51.45971528,False,705,5
+Added,False,"Snowsfields, London Bridge",4,-0.083632928,True,51.50215353,False,706,27
+Added,False,"Barons Court Station, West Kensington",32,-0.21508709199999998,True,51.49021762,False,707,0
+Added,False,"Disraeli Road, Putney",5,-0.21614583,True,51.46161068,False,708,25
+Added,False,"Montserrat Road , Putney",2,-0.215550761,True,51.46321128,False,709,21
+Added,False,"Albert Bridge Road, Battersea Park",0,-0.163347594,True,51.47439218,False,710,20
+Added,False,"Everington Street, Fulham",20,-0.21630554600000002,True,51.48335692,False,711,11
+Added,False,"Mile End Stadium, Mile End",7,-0.034903714,True,51.51854104,False,712,15
+Added,False,"Hawley Crescent, Camden Town",9,-0.14326094,True,51.54100708,False,713,13
+Added,False,"Stewart's Road, Nine Elms",5,-0.137235175,True,51.47311696,False,714,23
+Added,False,"Aylward Street, Stepney",5,-0.049067242999999997,True,51.51563007,False,715,17
+Added,False,"Stainsby Road , Poplar",2,-0.02356501,True,51.51542791,False,716,22
+Added,False,"Dunston Road , Haggerston",12,-0.075885686,True,51.53658514,False,717,31
+Added,False,"Ada Street, Hackney Central",0,-0.060291813,True,51.53571683,False,718,45
+Added,False,"Victoria Park Road, Hackney Central",1,-0.054162264,True,51.53642464,False,719,33
+Added,False,"Star Road, West Kensington",10,-0.205279052,True,51.48724429,False,720,14
+Added,False,"Wendon Street, Old Ford",5,-0.026262677,True,51.53603947,False,721,12
+Added,False,"Finnis Street, Bethnal Green",10,-0.058631453,True,51.52458353,False,722,9
+Added,False,"Stephendale Road, Sands End",4,-0.190346493,True,51.46822047,False,723,42
+Added,False,"Alma Road, Wandsworth",20,-0.184806157,True,51.45799126,False,724,8
+Added,False,"Thessaly Road North, Nine Elms",2,-0.13874872300000002,True,51.47732253,False,725,26
+Added,False,"Alfreda Street, Battersea Park",2,-0.15090837099999999,True,51.47505096,False,726,20
+Added,False,"Chesilton Road, Fulham",19,-0.20587627,True,51.47569809,False,727,4
+Added,False,"Putney Bridge Road, East Putney",27,-0.206240805,True,51.46199911,False,728,2
+Added,False,"St. Peter's Terrace, Fulham",1,-0.20848529300000002,True,51.47893931,False,729,23
+Added,False,"Bridge Avenue, Hammersmith",12,-0.229116862,True,51.49208492,False,730,5
+Added,False,"Michael Road, Walham Green",19,-0.18921046600000002,True,51.47727637,False,731,18
+Added,False,"Duke Street Hill, London Bridge",15,-0.087262995,True,51.50630441,False,732,5
+Added,False,"Park Lane, Mayfair",18,-0.150817316,True,51.50542628,False,733,0
+Added,False,"Plough Terrace, Clapham Junction",15,-0.175407201,True,51.46230566,False,734,15
+Added,False,"Grant Road East, Clapham Junction",5,-0.17302926,True,51.46489445,False,735,29
+Added,False,"Queensdale Road, Shepherd's Bush",13,-0.216104479,True,51.50659035,False,736,18
+Added,False,"Fulham Broadway, Walham Green",5,-0.19411695,True,51.47993289,False,737,20
+Added,False,"Imperial Road, Sands End",9,-0.18727898699999998,True,51.47514228,False,738,28
+Added,False,"Hortensia Road, West Brompton",10,-0.185273723,True,51.48176572,False,739,18
+Added,False,"Sirdar Road, Avondale",5,-0.214594781,True,51.51092871,False,740,20
+Added,False,"Freston Road, Avondale",16,-0.219486603,True,51.5129814,False,741,6
+Added,False,"Blenheim Crescent, Ladbroke Grove",7,-0.208565479,True,51.51510818,False,742,15
+Added,False,"Oxford Road, Putney",6,-0.212607684,True,51.46079243,False,743,22
+Added,False,"Ingrave Street, Battersea",14,-0.172293499,True,51.46745485,False,744,16
+Added,False,"Upcerne Road, West Chelsea",3,-0.18243547,True,51.47816972,False,745,26
+Added,False,"Lots Road, West Chelsea",15,-0.17903854,True,51.4795738,False,746,9
+Added,False,"Ormonde Gate, Chelsea",1,-0.161765173,True,51.48796408,False,747,23
+Added,False,"Hertford Road, De Beauvoir Town",0,-0.079201849,True,51.53727795,False,748,25
+Added,False,"Haggerston Road, Haggerston ",4,-0.074284675,True,51.53932857,False,749,33
+Added,False,"Culvert Road, Battersea",11,-0.157850096,True,51.4710956,False,750,16
+Added,False,"Newton Street, Covent Garden",23,-0.12090940800000001,True,51.51612862,False,751,0
+Added,False,"Manfred Road, East Putney",13,-0.20600248,True,51.45816465,False,752,16
+Added,False,"Hammersmith Town Hall, Hammersmith",19,-0.234094148,True,51.49263658,False,753,9
+Added,False,"Grenfell Road, Avondale",15,-0.214762686,True,51.5129006,False,754,9
+Added,False,"The Vale, Chelsea",23,-0.17497190199999998,True,51.48512191,False,755,0
+Added,False,"Prince of Wales Drive, Battersea Park",4,-0.159169801,True,51.47515398,False,756,17
+Added,False,"Harcourt Terrace, West Brompton",8,-0.18740450600000003,True,51.48795853,False,757,16
+Added,False,"Westbourne Park Road, Portobello",1,-0.201005397,True,51.51787005,False,758,22
+Added,False,"Broadley Terrace, Marylebone",7,-0.165668686,True,51.52456169,False,759,11
+Added,False,"Rossmore Road, Marylebone",16,-0.163795009,True,51.52526975,False,760,2
+Added,False,"Humbolt Road, Fulham",7,-0.211860644,True,51.48321729,False,761,19
+Added,False,"Storey's Gate, Westminster",11,-0.129698963,True,51.50070305,False,762,10
+Added,False,"Mile End Park Leisure Centre, Mile End",37,-0.032566532999999995,True,51.52059714,False,763,10
+Added,False,"St. John's Road, Clapham Junction",0,-0.16829214,True,51.46239255,False,764,33
+Added,False,"Ranelagh Gardens, Fulham",33,-0.20682737,True,51.46760141,False,765,6
+Added,False,"Ram Street, Wandsworth",5,-0.192165613,True,51.45752945,False,766,20
+Added,False,"Wandsworth Museum, Wandsworth",23,-0.200806304,True,51.45705988,False,767,7
+Added,False,"Clapham Common Northside, Clapham Common",6,-0.159322467,True,51.46134382,False,768,30
+Added,False,"Sandilands Road, Walham Green",6,-0.191803,True,51.473611,False,769,15
+Added,False,"Gwendwr Road, West Kensington",19,-0.209121,True,51.491026,False,770,11
+Added,False,"Rifle Place, Avondale",15,-0.21601599999999999,True,51.509223999999996,False,771,6
+Added,False,"Binfield Road, Stockwell",0,-0.122831913,True,51.47250956,False,772,34
+Added,False,"Tallis Street, Temple",22,-0.107349,True,51.511891,False,773,1
+Added,False,"Hurlingham Park, Parsons Green",4,-0.20464000000000002,True,51.470131,False,774,16
+Added,False,"Little Brook Green, Brook Green",26,-0.22386799999999998,True,51.496664,False,775,6
+Added,False,"Abyssinia Close, Clapham Junction",7,-0.16702899999999998,True,51.460333,False,776,13
+Added,False,"Limburg Road, Clapham Common",0,-0.16529785669299998,True,51.4619230679,False,777,20

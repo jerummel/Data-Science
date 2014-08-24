@@ -1,0 +1,101 @@
+locked,name,emptySlots,longitude,installed,latitude,temporary,@ID,bikesAvailable
+false,"River Street , Clerkenwell",8,-0.109970527,true,51.52916347,false,1,10
+false,"Phillimore Gardens, Kensington",1,-0.197574246,true,51.49960695,false,2,36
+false,"Christopher Street, Liverpool Street",13,-0.084605692,true,51.52128377,false,3,19
+false,"St. Chad's Street, King's Cross",7,-0.120973687,true,51.53005939,false,4,14
+false,"Sedding Street, Sloane Square",8,-0.156876,true,51.49313,false,5,19
+false,"Broadcasting House, Marylebone",12,-0.144228881,true,51.51811784,false,6,0
+false,"Charlbert Street, St. John's Wood",8,-0.1680743,true,51.53430039,false,7,8
+false,"Lodge Road, St. John's Wood",10,-0.170134484,true,51.52834133,false,8,8
+false,"New Globe Walk, Bankside",1,-0.096440751,true,51.5073853,false,9,17
+false,"Park Street, Bankside",14,-0.092754157,true,51.50597426,false,10,1
+false,"Brunswick Square, Bloomsbury",21,-0.122502346,true,51.52395143,false,11,2
+false,"Scala Street, Fitzrovia",20,-0.136039674,true,51.51991453,false,13,1
+false,"Belgrove Street , King's Cross",0,-0.123616824,true,51.52994371,false,14,20
+false,"Great Russell Street, Bloomsbury",19,-0.127854211,true,51.51772703,false,15,1
+false,"Hatton Wall, Holborn",21,-0.109006325,true,51.5216612,false,17,2
+false,"Cartwright Gardens , Bloomsbury",1,-0.125979294,true,51.52635795,false,16,19
+false,"Taviton Street, Bloomsbury",17,-0.131161087,true,51.52505093,false,19,13
+false,"Drury Lane, Covent Garden",23,-0.12221963,true,51.51477076,false,18,0
+false,"Hampstead Road (Cartmel), Euston",14,-0.13884627,true,51.53007835,false,21,2
+false,"Drummond Street , Euston",24,-0.135273468,true,51.52773634,false,20,2
+false,"Red Lion Square, Holborn",12,-0.119123345,true,51.51943538,false,23,1
+false,"Northington Street , Holborn",17,-0.114079481,true,51.5222641,false,22,1
+false,"Doric Way , Somers Town",25,-0.132250369,true,51.5288338,false,25,5
+false,"British Museum, Bloomsbury",34,-0.124678402,true,51.51908011,false,24,0
+false,"Bouverie Street, Temple",12,-0.107927706,true,51.51382102,false,27,4
+false,"Ampton Street , Clerkenwell",1,-0.11829517,true,51.52728093,false,26,20
+false,"Hereford Road, Bayswater",13,-0.193487,true,51.513735,false,29,9
+false,"Bolsover Street, Fitzrovia",17,-0.143613641,true,51.52351808,false,28,1
+false,"Fanshaw Street, Hoxton",12,-0.083353323,true,51.52953709,false,31,21
+false,"Windsor Terrace, Hoxton",14,-0.093421615,true,51.52915444,false,30,9
+false,"Pancras Road, King's Cross",11,-0.129386874,true,51.5341235,false,34,5
+false,"Leonard Circus , Shoreditch",24,-0.084439283,true,51.52469624,false,32,15
+false,"Altab Ali Park, Whitechapel",3,-0.067827542,true,51.51681603,false,33,10
+false,"Abingdon Villas, Kensington",0,-0.197245586,true,51.4973875,false,38,16
+false,"Shoreditch High Street, Shoreditch",0,-0.078130921,true,51.5263778,false,39,36
+false,"De Vere Gardens, Kensington",20,-0.184980612,true,51.50173726,false,36,8
+false,"Penywern Road, Earl's Court",0,-0.192369256,true,51.49159394,false,37,17
+false,"Wenlock Road , Hoxton",1,-0.093903825,true,51.53099181,false,42,27
+false,"Crawford Street, Marylebone",11,-0.157183945,true,51.52026,false,43,4
+false,"Commercial Street, Shoreditch",1,-0.0755789,true,51.52127071,false,40,15
+false,"Sun Street, Liverpool Street",15,-0.083911168,true,51.52001715,false,41,8
+false,"Nesham Street, Wapping",0,-0.06691,true,51.507131,false,46,16
+false,"Warwick Avenue Station, Maida Vale",7,-0.183846408,true,51.52334476,false,47,11
+false,"Bruton Street, Mayfair",20,-0.144165239,true,51.51073687,false,44,0
+false,"Harewood Avenue, Marylebone",7,-0.163849118,true,51.52231968,false,45,11
+false,"Finsbury Library , Finsbury",18,-0.104298194,true,51.52671796,false,51,11
+false,"East Road, Hoxton",20,-0.087459376,true,51.52867339,false,50,4
+false,"Curzon Street, Mayfair",15,-0.145904427,true,51.50706909,false,49,1
+false,"Godliman Street, St. Paul's",18,-0.099141408,true,51.51248445,false,48,6
+false,"Finsbury Circus, Liverpool Street",16,-0.086685542,true,51.51707521,false,55,10
+false,"Golden Lane, Barbican",23,-0.094475072,true,51.52174785,false,54,1
+false,"Grafton Street, Mayfair",18,-0.143495266,true,51.5099923,false,53,0
+false,"Roscoe Street, St. Luke's",14,-0.094934859,true,51.52295439,false,52,3
+false,"Rodney Street, Angel",3,-0.114329032,true,51.53176825,false,59,26
+false,"New Inn Yard, Shoreditch",8,-0.079248081,true,51.52452699,false,58,12
+false,"Guilford Street , Bloomsbury",33,-0.120202614,true,51.52334672,false,57,2
+false,"Paddington Street, Marylebone",8,-0.154701411,true,51.52058381,false,56,6
+false,"Murray Grove , Hoxton",9,-0.089782579,true,51.53089041,false,63,17
+false,"Cotton Garden Estate, Kennington",11,-0.106323685,true,51.4907579,false,62,12
+false,"Great Dover Street, Borough",0,-0.089446947,true,51.49738251,false,61,33
+false,"Lisson Grove, St. John's Wood",17,-0.172190727,true,51.52644828,false,60,1
+false,"Theobalds Road , Holborn",12,-0.116688468,true,51.52059681,false,68,13
+false,"Euston Road, Euston",16,-0.134407652,true,51.5262363,false,69,8
+false,"Calshot Street , King's Cross",9,-0.117069978,true,51.53136059,false,70,14
+false,"Newgate Street , St. Paul's",29,-0.098850915,true,51.5154186,false,71,0
+false,"William IV Street, Strand",3,-0.124749274,true,51.50946212,false,64,21
+false,"Gower Place , Euston",16,-0.13518856,true,51.52522753,false,65,1
+false,"Holborn Circus, Holborn",36,-0.108657431,true,51.51795029,false,66,1
+false,"Hatton Garden, Holborn",26,-0.108028472,true,51.51882555,false,67,2
+false,"Longford Street, Regent's Park",17,-0.144083893,true,51.52559505,false,76,3
+false,"Russell Square Station, Bloomsbury",5,-0.124121774,true,51.52341837,false,77,20
+false,"Sadlers Sports Centre, Finsbury",14,-0.099489485,true,51.52486887,false,78,1
+false,"Wansey Street, Walworth",4,-0.097146479,true,51.49118143,false,79,13
+false,"Farringdon Lane, Clerkenwell",0,-0.108340165,true,51.52352001,false,72,16
+false,"Old Street Station, St. Luke's",15,-0.088486188,true,51.52572618,false,73,16
+false,"Vauxhall Cross, Vauxhall",1,-0.124469948,true,51.48591714,false,74,15
+false,"Torrens Street, Angel",9,-0.105480698,true,51.53219984,false,75,8
+false,"Tanner Street, Bermondsey",0,-0.078600401,true,51.50064702,false,85,19
+false,"Breams Buildings, Holborn",7,-0.111778348,true,51.51593725,false,84,16
+false,"Devonshire Square, Liverpool Street",9,-0.079684557,true,51.51646835,false,87,6
+false,"Sancroft Street, Vauxhall",5,-0.115156562,true,51.48947903,false,86,19
+false,"Great Titchfield Street, Fitzrovia",17,-0.141327271,true,51.52025302,false,81,0
+false,"Webber Street , Southwark",10,-0.102091246,true,51.50069361,false,80,12
+false,"Panton Street, West End",15,-0.131510949,true,51.50963938,false,83,6
+false,"Chancery Lane, Holborn",10,-0.111257,true,51.514274,false,82,5
+false,"Cloudesley Road, Angel",1,-0.109025404,true,51.53440868,false,93,18
+false,"Borough Road, Elephant & Castle",7,-0.100440521,true,51.49889832,false,92,34
+false,"Aldersgate Street, Barbican",12,-0.097340162,true,51.5208417,false,95,2
+false,"Bricklayers Arms, Borough",0,-0.085814489,true,51.49506109,false,94,27
+false,"Tavistock Place, Bloomsbury",0,-0.123509611,true,51.5262503,false,89,15
+false,"Bayley Street , Bloomsbury",22,-0.132053392,true,51.51858757,false,88,0
+false,"Walnut Tree Walk, Vauxhall",2,-0.111014912,true,51.49368637,false,91,17
+false,"Harrington Square, Camden Town",27,-0.139174593,true,51.53301907,false,90,0
+false,"Jewry Street, Aldgate",10,-0.076793375,true,51.51340693,false,102,7
+false,"Vicarage Gate, Kensington",18,-0.192538767,true,51.50472376,false,103,0
+false,"Albert Embankment, Vauxhall",1,-0.122806861,true,51.49043573,false,100,23
+false,"Queen Street, Bank",16,-0.0929401,true,51.51155322,false,101,2
+false,"Hampstead Road, Euston",52,-0.138231303,true,51.52554222,false,98,1
+false,"Old Quebec Street, Marylebone",15,-0.158264483,true,51.51457763,false,99,0
+false,"Falkirk Street, Hoxton",3,-0.078505384,true,51.53095071,false,96,21
