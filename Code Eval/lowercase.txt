@@ -1,0 +1,5 @@
+HELLO CODEVAL
+This is some text
+My Name Is Joe
+I live in Los Angeles, CA
+this sentence is all lowercase

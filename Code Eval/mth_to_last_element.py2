@@ -1,0 +1,17 @@
+'''Determine the Mth to last element in a list.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #'mth_to_last_element.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(' ')
+		M = int(lineList[len(lineList)-1])
+		lineList = lineList[:-1]
+		if(M>len(lineList)):
+			continue
+		lineList.reverse()
+		print lineList[M-1]
+
+if __name__ == "__main__": main()

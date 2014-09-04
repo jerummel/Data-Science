@@ -1,0 +1,12 @@
+'''Reverse the words of an input sentence.'''
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #reverse_words.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(' ')
+		lineList.reverse()
+		print ' '.join(lineList)
+
+if __name__ == "__main__": main()

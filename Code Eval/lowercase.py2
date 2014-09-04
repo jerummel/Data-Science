@@ -1,0 +1,10 @@
+'''Print sentences in all lowercase letters.'''
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #lowercase.txt'
+	for line in infile:
+		line = line.strip()
+		print line.lower()
+
+if __name__ == "__main__": main()

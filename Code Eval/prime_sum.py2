@@ -1,0 +1,19 @@
+'''Determine the sum of the first 1000 primes.'''
+
+import sys
+
+def main():
+	num = 1
+	primes = [2, ]
+	while len(primes) < 1000:
+		num += 2 # prime numbers cannot be even, except for 2.  num starts at 1.
+		isPrime = True
+		for prime in primes:
+			if num % prime == 0:
+				isPrime = False
+				break
+		if(isPrime):
+			primes.append(num)
+	print sum(primes)
+
+if __name__ == "__main__": main()

@@ -1,0 +1,19 @@
+'''Print all ways to write a string of length N from characters in string s.'''
+
+import sys
+from itertools import product
+
+def main():
+	infile = open(sys.argv[1], 'r') #'string_list.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(',')
+		N = int(lineList[0])
+		S = lineList[1]
+		productList = [''.join(productTuple) for productTuple in product(S, repeat=N)]
+		stringSet = set(productList) # include only unique strings
+		stringList = list(stringSet) # change the set to a list
+		stringList.sort()
+		print ','.join(stringList)
+
+if __name__ == "__main__": main()
