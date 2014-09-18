@@ -1,0 +1,24 @@
+'''Given a 7 digit telephone number, print out all the possible sequences of letters that can
+ represent the given telephone number..'''
+import sys
+
+def telewords(numString):
+	mapping = {'0': '0', '1':'1', '2':'abc', '3':'def', '4':'ghi', '5':'jkl', '6':'mno', 
+	'7':'pqrs', '8':'tuv', '9':'wxyz'}
+	for c1 in mapping[numString[0]]:
+		for c2 in mapping[numString[1]]:
+			for c3 in mapping[numString[2]]:
+				for c4 in mapping[numString[3]]:
+					for c5 in mapping[numString[4]]:
+						for c6 in mapping[numString[5]]:
+							for c7 in mapping[numString[6]]:
+								yield (c1, c2, c3, c4, c5, c6, c7)
+
+def main():
+	infile = open(sys.argv[1], 'r') # telephone_words.txt'
+	for line in infile:
+		line = line.strip()
+		teleWordList = [''.join(teleTuple) for teleTuple in telewords(line)]
+		print ','.join(teleWordList)
+
+if __name__ == "__main__": main()

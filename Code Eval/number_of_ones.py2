@@ -1,0 +1,15 @@
+'''Write a program to determine the number of 1 bits in the internal representation of a 
+given integer.'''
+
+import sys
+from collections import Counter
+
+def main():
+	infile = open(sys.argv[1], 'r') #number_of_ones.txt'
+	for line in infile:
+		line = line.strip()
+		binNum = bin(int(line))
+		bitCount = Counter(binNum)
+		print bitCount['1']
+
+if __name__ == "__main__": main()

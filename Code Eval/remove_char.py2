@@ -1,0 +1,12 @@
+'''Write a program to remove specific characters from a string.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') # remove_char.txt'
+	for line in infile:
+		line = line.strip()
+		argList = line.split(', ')
+		print argList[0].translate(None, argList[1])
+
+if __name__ == "__main__": main()

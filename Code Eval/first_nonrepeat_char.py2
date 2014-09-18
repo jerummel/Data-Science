@@ -1,0 +1,16 @@
+'''Write a program to find the first non repeated character in a string.'''
+
+import sys
+from collections import Counter
+
+def main():
+	infile = open(sys.argv[1], 'r') #first_nonrepeat_char.txt'
+	for line in infile:
+		line = line.strip()
+		cnt = Counter(line)
+		for c in line:
+			if cnt[c] == 1:
+				print c
+				break
+
+if __name__ == "__main__": main()

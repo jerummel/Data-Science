@@ -9,22 +9,14 @@ def main():
 	infile = open(sys.argv[1], 'r') #'fizz_buzz.txt'
 	count = 1
 	for line in infile:
-		if count > 20:
-			break
 		line = line.rstrip()
 		lineList = line.split(' ')
 		A = int(lineList[0])
-		if A not in range(1, 21):
-			continue
 		B = int(lineList[1])
-		if B not in range(1, 21):
-			continue
 		N = int(lineList[2])
-		if N not in range(21, 101):
-			continue
 		solutionList = []
 		for num in range(1, N+1):
-			if(num%(A*B) == 0):
+			if num%A == 0 and num%B == 0:
 				solutionList.append('FB')
 			elif(num%B == 0):
 				solutionList.append('B')

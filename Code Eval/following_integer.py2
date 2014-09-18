@@ -1,0 +1,37 @@
+'''You are writing out a list of numbers.Your list contains all numbers with exactly Di 
+digits in its decimal representation which are equal to i, for each i between 1 and 9, 
+inclusive. You are writing them out in ascending order.  For each line of input, generate 
+a line of output which is the next integer in the list.'''
+
+import sys
+from itertools import permutations
+
+def main():
+	infile = open(sys.argv[1], 'r') # following_integer.txt
+	for line in infile:
+		line = line.strip()
+		found = False
+		isOutputted = False
+		sortedString = ''.join(sorted(line))
+		for permTuple in permutations(sortedString):
+			if ''.join(permTuple) == line:
+				found = True
+			elif found:
+				if int(''.join(permTuple)) > int(line):
+					print int(''.join(permTuple))
+					isOutputted = True
+					break
+		if isOutputted == False:
+			for idx, char in enumerate(sortedString):
+				if char != '0':
+					break
+			if idx > 0:
+				if idx < len(sortedString)-1:
+					print int('%s%s%s%s'%(sortedString[idx], '0', sortedString[0:idx], sortedString[idx+1:]))
+				else:
+					print int('%s%s%s'%(sortedString[idx], '0', sortedString[0:idx]))
+			else:
+				print int('%s%s%s'%(sortedString[idx], '0', sortedString[idx+1:]))
+		
+
+if __name__ == "__main__": main()
