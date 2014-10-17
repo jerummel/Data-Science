@@ -1,0 +1,21 @@
+'''Given a number n and two integers p1,p2 determine if the bits in position p1 and p2 are the same
+ or not. Positions p1 and p2 are 1 based.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #'bit_position.txt'
+	count = 1
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(',')
+		lineList = map(int, lineList)
+		binNum = bin(lineList[0])
+		p1 = binNum[len(binNum)-lineList[1]]
+		p2 = binNum[len(binNum)-lineList[2]]
+		if p1 == p2:
+			print 'true'
+		else:
+			print 'false'
+	
+if __name__ == "__main__": main()

@@ -1,0 +1,18 @@
+'''Each line of input contains an integer n.  Print the Fibonacci number F(n).'''
+
+import sys
+
+
+def main():
+	infile = open(sys.argv[1], 'r') #'fibonacci_series.txt'
+	F = [0, 1]
+	for line in infile:
+		line = line.strip()
+		n = int(line)
+		if n >= len(F):
+			for i in range(len(F), n+1):
+				F.append(F[i-1]+F[i-2])
+		print F[n]
+
+
+if __name__ == "__main__": main()

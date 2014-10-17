@@ -1,0 +1,16 @@
+'''Print the binary representation of a decimal number.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #mult_of_num.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(',')
+		if(int(lineList[0])%int(lineList[1]) == 0):
+			mod = int(lineList[1])
+		else:
+			mod = int(lineList[0])%int(lineList[1])
+		print int(lineList[0])+int(lineList[1]) - mod
+
+if __name__ == "__main__": main()

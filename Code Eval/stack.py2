@@ -1,0 +1,42 @@
+'''Write a program implementing a stack inteface for integers.  The interface should have 'push' 
+and 'pop' functions. You will be asked to 'push' a series of integers and then 'pop' and print 
+out every alternate integer.'''
+
+import sys
+
+class stack():
+	stackList = []
+
+	def push(self, c):
+		self.stackList.append(c)
+
+	def pop(self):
+		c = self.stackList.pop()
+		if len(self.stackList) > 0:
+			self.stackList.pop()
+		return c
+
+def lineLoop(line):
+	num = ''
+	for c in line:
+		if c == ' ':
+			yield num
+			num = ''
+		else:
+			num += c
+	yield num
+
+def main():
+	infile = open(sys.argv[1], 'r') #stack.txt'
+	lineNums = stack()
+	for line in infile:
+		line = line.strip()
+		num = ''
+		for c in lineLoop(line):
+			lineNums.push(c)
+		altInts = []
+		while len(lineNums.stackList) > 0:
+			altInts.append(lineNums.pop())
+		print ' '.join(altInts)
+
+if __name__ == "__main__": main()

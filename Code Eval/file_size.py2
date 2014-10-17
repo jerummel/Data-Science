@@ -1,0 +1,8 @@
+'''Print the size of a file in bytes.'''
+
+import sys
+
+def main():
+	print len(open(sys.argv[1]).read()) # file_size.txt
+
+if __name__ == "__main__": main()

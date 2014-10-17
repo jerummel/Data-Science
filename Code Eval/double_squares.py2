@@ -1,0 +1,28 @@
+'''A double-square number is an integer X which can be expressed as the sum of two perfect squares. 
+ Your task in this problem is, given X, determine the number of ways in which it can be written 
+ as the sum of two squares. '''
+
+import sys
+from math import sqrt
+
+def main():
+	infile = open(sys.argv[1], 'r') #double_squares.txt
+	first = True
+	for line in infile:
+		if first:
+			N = int(line)
+			first = False
+		else:
+			X = float(line)
+			count = 0
+			squareList = []
+			upperLimit = int(sqrt(X))
+			for square in range(0, upperLimit+1):
+				if sqrt(X-square**2) == int(sqrt(X-square**2)) and square not in squareList:
+					squareList.append(square)
+					squareList.append(sqrt(X-square**2))
+					count += 1
+			print count
+
+
+if __name__ == "__main__": main()

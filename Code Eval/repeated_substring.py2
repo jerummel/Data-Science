@@ -1,0 +1,27 @@
+'''You are to find the longest repeated substring in a given text. Repeated substrings may not 
+overlap. If more than one substring is repeated with the same length, print the first one you 
+find.(starting from the beginning of the text). 
+NOTE: The substrings can't be all spaces.'''
+
+import sys
+
+
+def main():
+	infile = open(sys.argv[1], 'r') #'repeated_substring.txt'
+	for line in infile:
+		line = line.strip()
+		highestSubLen = len(line)/2
+		found = False
+		for i in range(highestSubLen, 0, -1):
+			for j in range(0, len(line)-i):
+				subString = line[j:j+i]
+				if line.count(subString) > 1 and subString != ' ':
+					found = True
+					print subString
+					break
+			if found:
+				break
+		if not found:
+			print 'NONE'
+
+if __name__ == "__main__": main()

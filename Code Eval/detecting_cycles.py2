@@ -1,0 +1,20 @@
+'''Print the first cycle you find in a sequence.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #detecting_cycles.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(' ')
+		found = False
+		n=1
+		while not found:
+			for idx in range(0, len(lineList)):
+				if lineList[idx:idx+n] == lineList[idx+n:idx+2*n]:
+					print ' '.join(lineList[idx:idx+n])
+					found = True
+					break
+			n+=1
+
+if __name__ == "__main__": main()

@@ -1,0 +1,11 @@
+'''Print the binary representation of a decimal number.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #dec_to_bin.txt'
+	for line in infile:
+		line = line.strip()
+		print bin(int(line))[2:]
+
+if __name__ == "__main__": main()

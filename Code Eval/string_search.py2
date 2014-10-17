@@ -1,0 +1,44 @@
+'''You are given two strings. Determine if the second string is a substring of the first.
+Do NOT use any substr type library function'''
+
+import sys
+
+def isSubstring(string1, string2):
+	# if the second string is just an asterisk
+	if string2 == '':
+		return 'true'
+	elif string1 == '':
+		return 'false'
+	elif string2 == '*':
+		return 'true'
+	string2 = string2.replace('\\*', '<XX>')
+	regexpList, lastIdx, expCount = string2.split('*'), 0, 0
+	regexpList = filter(lambda x: len(x) > 0, regexpList)
+	for i in range(len(regexpList)):
+		regexpList[i] = regexpList[i].replace('<XX>', '*')
+	for expression in regexpList:
+		found = False
+		if lastIdx+len(expression) > len(string1):
+			return 'false'
+		for i in range(lastIdx+len(expression), len(string1)+1):
+			if string1[i-len(expression):i] == expression:
+				lastIdx = i
+				found = True
+				expCount += 1
+				break
+		if not found:
+			return 'false'
+	if expCount == len(regexpList):
+		return 'true'
+	else:
+		return 'false'
+
+
+def main():
+	infile = open(sys.argv[1], 'r') #'search_string.txt'
+	for line in infile:
+		line = line.rstrip()
+		lineList = line.split(',')
+		print isSubstring(lineList[0], lineList[1])
+
+if __name__ == "__main__": main()

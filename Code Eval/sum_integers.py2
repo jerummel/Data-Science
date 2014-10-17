@@ -1,0 +1,10 @@
+'''Write a program to print out the endianness of the system.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') #sum_integers.txt
+	numList = [int(num) for num in infile]
+	print sum(numList)
+	
+if __name__ == "__main__": main()

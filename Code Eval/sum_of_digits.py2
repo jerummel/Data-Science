@@ -1,0 +1,13 @@
+'''Each line of input contains an integer.  Find the sum of the numbers that make up the integer'''
+
+import sys
+
+
+def main():
+	infile = open(sys.argv[1], 'r') #'sum_of_digits.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = [int(x) for x in line]
+		print sum(lineList)
+
+if __name__ == "__main__": main()

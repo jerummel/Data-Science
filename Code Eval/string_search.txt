@@ -1,0 +1,15 @@
+Hello,ell
+This is good, is
+CodeEval,C*Eval
+Old,Young
+GateCode*3214,e*\3
+ Trying something,
+,no
+,
+*,*\
+a,a
+aa,a
+ab,*b
+ab,a*
+a*,**\
+a*,a*

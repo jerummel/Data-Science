@@ -1,0 +1,45 @@
+'''Given a 2D board and a word, find if the word exists in the grid. The word can be constructed 
+from letters of sequentially adjacent cell, where adjacent cells are those horizontally or 
+vertically neighboring. The same letter cell may not be used more than once.'''
+
+import sys
+
+def isInBoard(row, column, pos, board, line, prev):
+		if row == -1 or row == len(board) or column == -1 or column == len(board[0]) or (row, column) in prev:
+			return False
+		elif board[row][column] != line[pos]:
+			return False
+		elif pos == len(line) - 1:
+			return True
+		else:
+			prev.append((row, column))
+			if isInBoard(row-1, column, pos+1, board, line, prev):
+				return True
+			elif isInBoard(row+1, column, pos+1, board, line, prev):
+				return True
+			elif isInBoard(row, column-1, pos+1, board, line, prev):
+				return True
+			elif isInBoard(row, column+1, pos+1, board, line, prev):
+				return True
+			else:
+				return False
+
+
+def main():
+	board = (('A', 'B', 'C', 'E'), ('S', 'F', 'C', 'S'), ('A', 'D', 'E', 'E'))
+	infile = open(sys.argv[1], 'r') #'word_search.txt'
+	for line in infile:
+		line = line.strip()
+		found = False
+		for i in range(len(board)):
+			for j in range(len(board[0])):
+				if isInBoard(i, j, 0, board, line, []):
+					found = True
+					break
+			if found:
+				break
+		print found
+		
+		
+
+if __name__ == "__main__": main()

@@ -1,0 +1,9 @@
+Hello World,World
+
+Hello CodeEval,CodeEval
+San Francisco,San Jose
+Pittsburgh,Pitt
+Jesus Christ Superstar, Christ
+banana,a
+Steeler,Steelers
+Luke,Lucy

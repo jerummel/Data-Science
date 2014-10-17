@@ -1,0 +1,53 @@
+'''Write a program to print a 2D array (n x m) in spiral order (clockwise)'''
+
+import sys
+
+def matrixGen(cList, columns):
+	array = []
+	count = 0
+	for c in cList:
+		array.append(c)
+		count += 1
+		if count >= columns:
+			yield array
+			array = []
+			count = 0
+
+def main():
+	infile = open(sys.argv[1], 'r') # spiral_printing.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(';')
+		n, m, charList = int(lineList[0]), int(lineList[1]), lineList[2].split(' ')
+		matrix = [row for row in matrixGen(charList, m)]
+		rmin, rmax, cmin, cmax = 0, n-1, 0, m-1
+		spiral = []
+		while True:
+			for c in range(cmin, cmax+1):
+				spiral.append(matrix[rmin][c])
+			if rmin == rmax:
+				break
+			else:
+				rmin += 1
+			for r in range(rmin, rmax+1):
+				spiral.append(matrix[r][cmax])
+			if cmin == cmax:
+				break
+			else:
+				cmax -= 1
+			for c in range(cmax, cmin-1, -1):
+				spiral.append(matrix[rmax][c])
+			if rmin == rmax:
+				break
+			else:	
+				rmax -= 1
+			for r in range(rmax, rmin-1, -1):
+				spiral.append(matrix[r][cmin])
+			if cmin == cmax:
+				break
+			else:
+				cmin += 1
+		print ' '.join(spiral)
+
+
+if __name__ == "__main__": main()

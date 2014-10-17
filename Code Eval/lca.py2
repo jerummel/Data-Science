@@ -1,0 +1,50 @@
+'''Write a program to determine the lowest common ancestor of two nodes in a binary search tree. '''
+
+import sys
+
+def tree(num, depth, parent):
+	if depth == 1:
+		if num == '30':
+			return ['30', ]
+		else:
+			pList = tree(num, 2, '30')
+			return pList
+	elif depth == 2:
+		if num == '8':
+			return ['8', parent]
+		elif num == '52':
+			return [parent,]
+		else:
+			pList = tree(num, 3, '8')
+			if len(pList) > 0:
+				pList.append(parent)
+			return pList
+	elif depth == 3:
+		if num == '3':
+			return [parent,]
+		elif num == '20':
+			return ['20', parent]
+		else:
+			pList = tree(num, 4, '20')
+			if len(pList) > 0:
+				pList.append(parent)
+			return pList
+	else:
+		if num == '10' or num == '29':
+			return [parent,]
+		else:
+			return []
+
+def main():
+	infile = open(sys.argv[1], 'r') # lca.txt'
+	for line in infile:
+		line = line.strip()
+		lineList = line.split(' ')
+		parentList1, parentList2  = tree(lineList[0], 1, ''), tree(lineList[1], 1, '')
+		intersection = [x for x in parentList1 if x in parentList2]
+		if len(intersection) > 0:
+			print intersection[0]
+		else:
+			print ''
+
+if __name__ == "__main__": main()

@@ -1,0 +1,54 @@
+'''Decode a message based on an encoding scheme.'''
+
+import sys
+from itertools import product
+
+def decoder(seq, mDict):
+	strLen, code, start, i = 1, '', True, 0
+	while strLen > 0:
+		if start:
+			code = ''.join(seq[i:i+3])
+			strLen = int(code, 2)
+			start = False
+			i += 3
+		else:
+			codeList = seq[i:i+strLen]
+			code = ''.join(codeList)
+			if all(map(int, codeList)):
+				start = True
+				i += strLen
+			else:
+				yield mDict[code]
+				i += strLen
+
+
+def mapHeader(headList):
+	i, chars, d = 0, 1, {}
+	while i < len(headList):
+		for pTuple in product(range(2), repeat=chars):
+			if all(pTuple):
+				continue
+			else:
+				pTuple = map(str, pTuple)
+				d[''.join(pTuple)] = headList[i]
+				i += 1
+				if i >= len(headList):
+					break
+		chars += 1
+	return d
+
+
+
+def main():
+	infile = open(sys.argv[1], 'r') # message_decoding.txt
+	for line in infile:
+		line = line.strip()
+		sequence, header, mapDict = [c for c in line], [], {}
+		while sequence[0] != '0' and sequence[0] != '1':
+				header.append(sequence.pop(0))
+		mapDict = mapHeader(header)
+		result = [decode for decode in decoder(sequence, mapDict)]
+		print ''.join(result)
+
+
+if __name__ == "__main__": main()

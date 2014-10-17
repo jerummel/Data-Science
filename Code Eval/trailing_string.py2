@@ -1,0 +1,22 @@
+'''You are given two strings 'A' and 'B'. Print out a 1 if string 'B' occurs at the 
+end of string 'A'. Else a zero.'''
+
+import sys
+
+def main():
+	infile = open(sys.argv[1], 'r') # trailing_string.txt'
+	for line in infile:
+		line = line.strip()
+		if line == '':
+			continue
+		lineList = line.split(',')
+		A, B = lineList[0], lineList[1]
+		idx = A.rfind(B)
+		if idx + len(B)-1 == len(A)-1 and len(B) <= len(A):
+			print '1'
+		else:
+			print '0'
+		
+
+
+if __name__ == "__main__": main()
